@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET042001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Burayu",
+      "en": "Burayu",
+      "slug": "burayu"
+    },
+    "code": {
+      "id": "ET042001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "38.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042002",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Eka Tafo",
+      "en": "Eka Tafo",
+      "slug": "eka-tafo"
+    },
+    "code": {
+      "id": "ET042002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.113",
+      "lon": "38.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042003",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Furi",
+      "en": "Furi",
+      "slug": "furi"
+    },
+    "code": {
+      "id": "ET042003",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.949",
+      "lon": "38.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042004",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Galan",
+      "en": "Galan",
+      "slug": "galan"
+    },
+    "code": {
+      "id": "ET042004",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.827",
+      "lon": "38.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042005",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Galan Gudo",
+      "en": "Galan Gudo",
+      "slug": "galan-gudo"
+    },
+    "code": {
+      "id": "ET042005",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.853",
+      "lon": "38.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042006",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gefersa Guje",
+      "en": "Gefersa Guje",
+      "slug": "gefersa-guje"
+    },
+    "code": {
+      "id": "ET042006",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.072",
+      "lon": "38.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042007",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Koye",
+      "en": "Koye",
+      "slug": "koye"
+    },
+    "code": {
+      "id": "ET042007",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.896",
+      "lon": "38.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042008",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kura Jida",
+      "en": "Kura Jida",
+      "slug": "kura-jida"
+    },
+    "code": {
+      "id": "ET042008",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.046",
+      "lon": "38.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042009",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mana Abichu",
+      "en": "Mana Abichu",
+      "slug": "mana-abichu"
+    },
+    "code": {
+      "id": "ET042009",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.12",
+      "lon": "38.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042010",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Melka Nonno",
+      "en": "Melka Nonno",
+      "slug": "melka-nonno"
+    },
+    "code": {
+      "id": "ET042010",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.022",
+      "lon": "38.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042011",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sebeta",
+      "en": "Sebeta",
+      "slug": "sebeta"
+    },
+    "code": {
+      "id": "ET042011",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.9",
+      "lon": "38.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042012",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sululta",
+      "en": "Sululta",
+      "slug": "sululta"
+    },
+    "code": {
+      "id": "ET042012",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0420",
+      "level": 2,
+      "name": {
+        "local": "Shager City",
+        "en": "Shager City",
+        "slug": "shager-city"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0420",
+        "level": 2,
+        "name": {
+          "local": "Shager City",
+          "en": "Shager City",
+          "slug": "shager-city"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.164",
+      "lon": "38.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

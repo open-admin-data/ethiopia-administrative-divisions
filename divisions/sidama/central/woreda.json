@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET160301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arbegona",
+      "en": "Arbegona",
+      "slug": "arbegona"
+    },
+    "code": {
+      "id": "ET160301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.65",
+      "lon": "38.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dale",
+      "en": "Dale",
+      "slug": "dale"
+    },
+    "code": {
+      "id": "ET160305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.706",
+      "lon": "38.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Darara",
+      "en": "Darara",
+      "slug": "darara"
+    },
+    "code": {
+      "id": "ET160306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.831",
+      "lon": "38.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Loka Abaya",
+      "en": "Loka Abaya",
+      "slug": "loka-abaya"
+    },
+    "code": {
+      "id": "ET160307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.646",
+      "lon": "38.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shafamo",
+      "en": "Shafamo",
+      "slug": "shafamo"
+    },
+    "code": {
+      "id": "ET160302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.664",
+      "lon": "38.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wonosho",
+      "en": "Wonosho",
+      "slug": "wonosho"
+    },
+    "code": {
+      "id": "ET160303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.747",
+      "lon": "38.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yirgalem town",
+      "en": "Yirgalem town",
+      "slug": "yirgalem-town"
+    },
+    "code": {
+      "id": "ET160304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1603",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1603",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.742",
+      "lon": "38.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "ET041904",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ababo",
+      "en": "Ababo",
+      "slug": "ababo"
+    },
+    "code": {
+      "id": "ET041904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.78",
+      "lon": "37.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041905",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abay Chomen",
+      "en": "Abay Chomen",
+      "slug": "abay-chomen"
+    },
+    "code": {
+      "id": "ET041905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.634",
+      "lon": "37.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041910",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abe Dongoro",
+      "en": "Abe Dongoro",
+      "slug": "abe-dongoro"
+    },
+    "code": {
+      "id": "ET041910",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.6",
+      "lon": "36.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041909",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amuru",
+      "en": "Amuru",
+      "slug": "amuru"
+    },
+    "code": {
+      "id": "ET041909",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.121",
+      "lon": "37.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041911",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Choman Guduru",
+      "en": "Choman Guduru",
+      "slug": "choman-guduru"
+    },
+    "code": {
+      "id": "ET041911",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.382",
+      "lon": "37.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041903",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guduru",
+      "en": "Guduru",
+      "slug": "guduru"
+    },
+    "code": {
+      "id": "ET041903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.46",
+      "lon": "37.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041901",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Horo",
+      "en": "Horo",
+      "slug": "horo"
+    },
+    "code": {
+      "id": "ET041901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.592",
+      "lon": "37.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041912",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Horo Buluk",
+      "en": "Horo Buluk",
+      "slug": "horo-buluk"
+    },
+    "code": {
+      "id": "ET041912",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.699",
+      "lon": "37.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041908",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jarte Jardega",
+      "en": "Jarte Jardega",
+      "slug": "jarte-jardega"
+    },
+    "code": {
+      "id": "ET041908",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.904",
+      "lon": "37.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041906",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jimma Genete",
+      "en": "Jimma Genete",
+      "slug": "jimma-genete"
+    },
+    "code": {
+      "id": "ET041906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.388",
+      "lon": "37.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041907",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jimma Rare",
+      "en": "Jimma Rare",
+      "slug": "jimma-rare"
+    },
+    "code": {
+      "id": "ET041907",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.252",
+      "lon": "37.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041902",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shambu town",
+      "en": "Shambu town",
+      "slug": "shambu-town"
+    },
+    "code": {
+      "id": "ET041902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.568",
+      "lon": "37.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041913",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sulula Finca'a",
+      "en": "Sulula Finca'a",
+      "slug": "sulula-fincaa"
+    },
+    "code": {
+      "id": "ET041913",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0419",
+      "level": 2,
+      "name": {
+        "local": "Horo Gudru Wellega",
+        "en": "Horo Gudru Wellega",
+        "slug": "horo-gudru-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0419",
+        "level": 2,
+        "name": {
+          "local": "Horo Gudru Wellega",
+          "en": "Horo Gudru Wellega",
+          "slug": "horo-gudru-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.815",
+      "lon": "37.375"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

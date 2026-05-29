@@ -1,0 +1,47 @@
+{
+  "id": "ET0314",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Bahir Dar town Admin",
+    "en": "Bahir Dar town Admin",
+    "slug": "bahir-dar-town-admin"
+  },
+  "code": {
+    "id": "ET0314",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.963",
+    "lon": "37.289"
+  },
+  "metadata": {},
+  "source": {}
+}

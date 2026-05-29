@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET990108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Awra",
+      "en": "Awra",
+      "slug": "awra"
+    },
+    "code": {
+      "id": "ET990108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.638",
+      "lon": "37.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dansha town",
+      "en": "Dansha town",
+      "slug": "dansha-town"
+    },
+    "code": {
+      "id": "ET990107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.53",
+      "lon": "36.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kafta Humera",
+      "en": "Kafta Humera",
+      "slug": "kafta-humera"
+    },
+    "code": {
+      "id": "ET990103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.077",
+      "lon": "37.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Korarit",
+      "en": "Korarit",
+      "slug": "korarit"
+    },
+    "code": {
+      "id": "ET990102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.893",
+      "lon": "37.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "May Gaba",
+      "en": "May Gaba",
+      "slug": "may-gaba"
+    },
+    "code": {
+      "id": "ET990109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.782",
+      "lon": "37.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "May Kadra",
+      "en": "May Kadra",
+      "slug": "may-kadra"
+    },
+    "code": {
+      "id": "ET990106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.905",
+      "lon": "36.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Setit Humera town",
+      "en": "Setit Humera town",
+      "slug": "setit-humera-town"
+    },
+    "code": {
+      "id": "ET990101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.272",
+      "lon": "36.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tsegede",
+      "en": "Tsegede",
+      "slug": "tsegede"
+    },
+    "code": {
+      "id": "ET990105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.442",
+      "lon": "37.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Welkait",
+      "en": "Welkait",
+      "slug": "welkait"
+    },
+    "code": {
+      "id": "ET990104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9901",
+      "level": 2,
+      "name": {
+        "local": "Area 1",
+        "en": "Area 1",
+        "slug": "area-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9901",
+        "level": 2,
+        "name": {
+          "local": "Area 1",
+          "en": "Area 1",
+          "slug": "area-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.673",
+      "lon": "37.421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

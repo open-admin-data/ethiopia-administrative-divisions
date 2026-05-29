@@ -1,0 +1,30 @@
+{
+  "id": "ET07",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Central Ethiopia",
+    "en": "Central Ethiopia",
+    "slug": "central-ethiopia"
+  },
+  "code": {
+    "id": "ET07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 10,
+    "woreda": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.798",
+    "lon": "37.973"
+  },
+  "metadata": {},
+  "source": {}
+}

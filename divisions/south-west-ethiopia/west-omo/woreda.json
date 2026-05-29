@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET110509",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bachuma town",
+      "en": "Bachuma town",
+      "slug": "bachuma-town"
+    },
+    "code": {
+      "id": "ET110509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.816",
+      "lon": "35.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110505",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bero",
+      "en": "Bero",
+      "slug": "bero"
+    },
+    "code": {
+      "id": "ET110505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.343",
+      "lon": "35.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gachit",
+      "en": "Gachit",
+      "slug": "gachit"
+    },
+    "code": {
+      "id": "ET110501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.72",
+      "lon": "35.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gori Gesha",
+      "en": "Gori Gesha",
+      "slug": "gori-gesha"
+    },
+    "code": {
+      "id": "ET110503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "35.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110510",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jemu town",
+      "en": "Jemu town",
+      "slug": "jemu-town"
+    },
+    "code": {
+      "id": "ET110510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.641",
+      "lon": "35.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110507",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Maji",
+      "en": "Maji",
+      "slug": "maji"
+    },
+    "code": {
+      "id": "ET110507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.934",
+      "lon": "35.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110511",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Maji Tum town",
+      "en": "Maji Tum town",
+      "slug": "maji-tum-town"
+    },
+    "code": {
+      "id": "ET110511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "35.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menit Goldiye",
+      "en": "Menit Goldiye",
+      "slug": "menit-goldiye"
+    },
+    "code": {
+      "id": "ET110502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "36.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menit Shasha",
+      "en": "Menit Shasha",
+      "slug": "menit-shasha"
+    },
+    "code": {
+      "id": "ET110504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.465",
+      "lon": "35.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110506",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Surma",
+      "en": "Surma",
+      "slug": "surma"
+    },
+    "code": {
+      "id": "ET110506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1105",
+      "level": 2,
+      "name": {
+        "local": "West Omo",
+        "en": "West Omo",
+        "slug": "west-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1105",
+        "level": 2,
+        "name": {
+          "local": "West Omo",
+          "en": "West Omo",
+          "slug": "west-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.901",
+      "lon": "35.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

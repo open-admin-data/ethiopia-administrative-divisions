@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET050599",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bodaley",
+      "en": "Bodaley",
+      "slug": "bodaley"
+    },
+    "code": {
+      "id": "ET050599",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.023",
+      "lon": "43.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debeweyin",
+      "en": "Debeweyin",
+      "slug": "debeweyin"
+    },
+    "code": {
+      "id": "ET050504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.071",
+      "lon": "44.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050598",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "El-Ogaden",
+      "en": "El-Ogaden",
+      "slug": "el-ogaden"
+    },
+    "code": {
+      "id": "ET050598",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.396",
+      "lon": "44.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050595",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goglo",
+      "en": "Goglo",
+      "slug": "goglo"
+    },
+    "code": {
+      "id": "ET050595",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.838",
+      "lon": "44.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050597",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Higloley",
+      "en": "Higloley",
+      "slug": "higloley"
+    },
+    "code": {
+      "id": "ET050597",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.735",
+      "lon": "44.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kebridehar",
+      "en": "Kebridehar",
+      "slug": "kebridehar"
+    },
+    "code": {
+      "id": "ET050502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.657",
+      "lon": "44.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050592",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kebridehar town",
+      "en": "Kebridehar town",
+      "slug": "kebridehar-town"
+    },
+    "code": {
+      "id": "ET050592",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.733",
+      "lon": "44.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050596",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lasdhankayre",
+      "en": "Lasdhankayre",
+      "slug": "lasdhankayre"
+    },
+    "code": {
+      "id": "ET050596",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.57",
+      "lon": "43.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050586",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Marsin",
+      "en": "Marsin",
+      "slug": "marsin"
+    },
+    "code": {
+      "id": "ET050586",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.364",
+      "lon": "44.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shaygosh",
+      "en": "Shaygosh",
+      "slug": "shaygosh"
+    },
+    "code": {
+      "id": "ET050501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.364",
+      "lon": "44.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shilabo",
+      "en": "Shilabo",
+      "slug": "shilabo"
+    },
+    "code": {
+      "id": "ET050503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0505",
+      "level": 2,
+      "name": {
+        "local": "Korahe",
+        "en": "Korahe",
+        "slug": "korahe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0505",
+        "level": 2,
+        "name": {
+          "local": "Korahe",
+          "en": "Korahe",
+          "slug": "korahe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.956",
+      "lon": "45.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

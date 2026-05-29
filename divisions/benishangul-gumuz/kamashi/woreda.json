@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET060404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dembe",
+      "en": "Dembe",
+      "slug": "dembe"
+    },
+    "code": {
+      "id": "ET060404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.8",
+      "lon": "35.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kamashi",
+      "en": "Kamashi",
+      "slug": "kamashi"
+    },
+    "code": {
+      "id": "ET060403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.478",
+      "lon": "35.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060400",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kamashi town",
+      "en": "Kamashi town",
+      "slug": "kamashi-town"
+    },
+    "code": {
+      "id": "ET060400",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.517",
+      "lon": "35.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mezniga",
+      "en": "Mezniga",
+      "slug": "mezniga"
+    },
+    "code": {
+      "id": "ET060405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.421",
+      "lon": "36.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sedal",
+      "en": "Sedal",
+      "slug": "sedal"
+    },
+    "code": {
+      "id": "ET060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.569",
+      "lon": "35.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zayi",
+      "en": "Zayi",
+      "slug": "zayi"
+    },
+    "code": {
+      "id": "ET060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0604",
+      "level": 2,
+      "name": {
+        "local": "Kamashi",
+        "en": "Kamashi",
+        "slug": "kamashi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0604",
+        "level": 2,
+        "name": {
+          "local": "Kamashi",
+          "en": "Kamashi",
+          "slug": "kamashi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.957",
+      "lon": "35.935"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

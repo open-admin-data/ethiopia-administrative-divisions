@@ -1,0 +1,30 @@
+{
+  "id": "ET14",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Addis Ababa",
+    "en": "Addis Ababa",
+    "slug": "addis-ababa"
+  },
+  "code": {
+    "id": "ET14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 1,
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.98",
+    "lon": "38.786"
+  },
+  "metadata": {},
+  "source": {}
+}

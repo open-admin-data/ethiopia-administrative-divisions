@@ -1,0 +1,47 @@
+{
+  "id": "ET1102",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Kefa",
+    "en": "Kefa",
+    "slug": "kefa"
+  },
+  "code": {
+    "id": "ET1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET11",
+    "level": 1,
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.228",
+    "lon": "36.078"
+  },
+  "metadata": {},
+  "source": {}
+}

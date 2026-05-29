@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "ET040417",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Agaro town",
+      "en": "Agaro town",
+      "slug": "agaro-town"
+    },
+    "code": {
+      "id": "ET040417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.856",
+      "lon": "36.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040495",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Botor Tolay",
+      "en": "Botor Tolay",
+      "slug": "botor-tolay"
+    },
+    "code": {
+      "id": "ET040495",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.281",
+      "lon": "37.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040415",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chora (Jimma)",
+      "en": "Chora (Jimma)",
+      "slug": "chora-jimma"
+    },
+    "code": {
+      "id": "ET040415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "37.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040410",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dedo",
+      "en": "Dedo",
+      "slug": "dedo"
+    },
+    "code": {
+      "id": "ET040410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.439",
+      "lon": "36.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gera",
+      "en": "Gera",
+      "slug": "gera"
+    },
+    "code": {
+      "id": "ET040408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.697",
+      "lon": "36.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goma",
+      "en": "Goma",
+      "slug": "goma"
+    },
+    "code": {
+      "id": "ET040407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.81",
+      "lon": "36.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040416",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gumay",
+      "en": "Gumay",
+      "slug": "gumay"
+    },
+    "code": {
+      "id": "ET040416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.971",
+      "lon": "36.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040418",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jimma town",
+      "en": "Jimma town",
+      "slug": "jimma-town"
+    },
+    "code": {
+      "id": "ET040418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.664",
+      "lon": "36.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kersa (Jimma)",
+      "en": "Kersa (Jimma)",
+      "slug": "kersa-jimma"
+    },
+    "code": {
+      "id": "ET040405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.778",
+      "lon": "37.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Limu Kosa",
+      "en": "Limu Kosa",
+      "slug": "limu-kosa"
+    },
+    "code": {
+      "id": "ET040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.028",
+      "lon": "36.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Limu Seka",
+      "en": "Limu Seka",
+      "slug": "limu-seka"
+    },
+    "code": {
+      "id": "ET040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.4",
+      "lon": "36.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040490",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mancho",
+      "en": "Mancho",
+      "slug": "mancho"
+    },
+    "code": {
+      "id": "ET040490",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.388",
+      "lon": "37.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mena (Jimma)",
+      "en": "Mena (Jimma)",
+      "slug": "mena-jimma"
+    },
+    "code": {
+      "id": "ET040406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.781",
+      "lon": "36.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040499",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nono Benja",
+      "en": "Nono Benja",
+      "slug": "nono-benja"
+    },
+    "code": {
+      "id": "ET040499",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.668",
+      "lon": "37.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040491",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Omo Beyam",
+      "en": "Omo Beyam",
+      "slug": "omo-beyam"
+    },
+    "code": {
+      "id": "ET040491",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.452",
+      "lon": "37.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040411",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Omo Nada",
+      "en": "Omo Nada",
+      "slug": "omo-nada"
+    },
+    "code": {
+      "id": "ET040411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.637",
+      "lon": "37.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Seka Chekorsa",
+      "en": "Seka Chekorsa",
+      "slug": "seka-chekorsa"
+    },
+    "code": {
+      "id": "ET040409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.537",
+      "lon": "36.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sekoru",
+      "en": "Sekoru",
+      "slug": "sekoru"
+    },
+    "code": {
+      "id": "ET040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.115",
+      "lon": "37.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040413",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Setema",
+      "en": "Setema",
+      "slug": "setema"
+    },
+    "code": {
+      "id": "ET040413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.064",
+      "lon": "36.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040414",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shebe Sambo",
+      "en": "Shebe Sambo",
+      "slug": "shebe-sambo"
+    },
+    "code": {
+      "id": "ET040414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.518",
+      "lon": "36.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040412",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sigmo",
+      "en": "Sigmo",
+      "slug": "sigmo"
+    },
+    "code": {
+      "id": "ET040412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.923",
+      "lon": "36.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tiro Afeta",
+      "en": "Tiro Afeta",
+      "slug": "tiro-afeta"
+    },
+    "code": {
+      "id": "ET040404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0404",
+      "level": 2,
+      "name": {
+        "local": "Jimma",
+        "en": "Jimma",
+        "slug": "jimma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0404",
+        "level": 2,
+        "name": {
+          "local": "Jimma",
+          "en": "Jimma",
+          "slug": "jimma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "37.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

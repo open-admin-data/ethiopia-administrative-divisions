@@ -1,0 +1,47 @@
+{
+  "id": "ET0703",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Kembata",
+    "en": "Kembata",
+    "slug": "kembata"
+  },
+  "code": {
+    "id": "ET0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET07",
+    "level": 1,
+    "name": {
+      "local": "Central Ethiopia",
+      "en": "Central Ethiopia",
+      "slug": "central-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.294",
+    "lon": "37.83"
+  },
+  "metadata": {},
+  "source": {}
+}

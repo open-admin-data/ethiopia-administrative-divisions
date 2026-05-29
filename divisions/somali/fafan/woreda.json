@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ET050205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aw-Bare",
+      "en": "Aw-Bare",
+      "slug": "aw-bare"
+    },
+    "code": {
+      "id": "ET050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.603",
+      "lon": "43.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Babile (SM)",
+      "en": "Babile (SM)",
+      "slug": "babile-sm"
+    },
+    "code": {
+      "id": "ET050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.492",
+      "lon": "42.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050290",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goljano",
+      "en": "Goljano",
+      "slug": "goljano"
+    },
+    "code": {
+      "id": "ET050290",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.271",
+      "lon": "42.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gursum (SM)",
+      "en": "Gursum (SM)",
+      "slug": "gursum-sm"
+    },
+    "code": {
+      "id": "ET050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.202",
+      "lon": "42.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050299",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Harawo",
+      "en": "Harawo",
+      "slug": "harawo"
+    },
+    "code": {
+      "id": "ET050299",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.966",
+      "lon": "42.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050298",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Haroreys",
+      "en": "Haroreys",
+      "slug": "haroreys"
+    },
+    "code": {
+      "id": "ET050298",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.372",
+      "lon": "43.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Harshin",
+      "en": "Harshin",
+      "slug": "harshin"
+    },
+    "code": {
+      "id": "ET050207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.905",
+      "lon": "43.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050293",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jigjiga town",
+      "en": "Jigjiga town",
+      "slug": "jigjiga-town"
+    },
+    "code": {
+      "id": "ET050293",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.368",
+      "lon": "42.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050296",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kebribayah town",
+      "en": "Kebribayah town",
+      "slug": "kebribayah-town"
+    },
+    "code": {
+      "id": "ET050296",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "43.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kebribeyah",
+      "en": "Kebribeyah",
+      "slug": "kebribeyah"
+    },
+    "code": {
+      "id": "ET050206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.17",
+      "lon": "43.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050297",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Koran /Mulla",
+      "en": "Koran /Mulla",
+      "slug": "koran-mulla"
+    },
+    "code": {
+      "id": "ET050297",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.693",
+      "lon": "43.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shabeeley",
+      "en": "Shabeeley",
+      "slug": "shabeeley"
+    },
+    "code": {
+      "id": "ET050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.134",
+      "lon": "42.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050283",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tuliguled",
+      "en": "Tuliguled",
+      "slug": "tuliguled"
+    },
+    "code": {
+      "id": "ET050283",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.467",
+      "lon": "42.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050295",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wajale town",
+      "en": "Wajale town",
+      "slug": "wajale-town"
+    },
+    "code": {
+      "id": "ET050295",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0502",
+      "level": 2,
+      "name": {
+        "local": "Fafan",
+        "en": "Fafan",
+        "slug": "fafan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0502",
+        "level": 2,
+        "name": {
+          "local": "Fafan",
+          "en": "Fafan",
+          "slug": "fafan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.558",
+      "lon": "43.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

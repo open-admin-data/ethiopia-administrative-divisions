@@ -1,0 +1,979 @@
+# Amhara — Ethiopia Administrative Divisions
+
+> 14 zones, 225 woredas
+> Code: ET03
+> Coordinates: 11.565, 38.044
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Awi
+
+Code: ET0309, Coordinates: 11.016, 36.834
+Woredas: 16
+
+#### Adiss Kidame town
+
+Code: ET030910, Coordinates: 11.08, 36.885
+
+#### Agew Gimija Bet town
+
+Code: ET030909, Coordinates: 10.85, 36.892
+
+#### Ankasha
+
+Code: ET030903, Coordinates: 10.845, 36.832
+
+#### Ayehu Guwagusa
+
+Code: ET030908, Coordinates: 10.681, 36.752
+
+#### Banja
+
+Code: ET030902, Coordinates: 10.963, 37.009
+
+#### Chagni town
+
+Code: ET030999, Coordinates: 10.958, 36.507
+
+#### Dangila
+
+Code: ET030901, Coordinates: 11.227, 36.771
+
+#### Dangila town
+
+Code: ET030998, Coordinates: 11.263, 36.846
+
+#### Fagta Lakoma
+
+Code: ET030905, Coordinates: 11.096, 36.984
+
+#### Fendika town
+
+Code: ET030912, Coordinates: 11.567, 36.489
+
+#### Guagusa Shikudad
+
+Code: ET030907, Coordinates: 10.805, 37.03
+
+#### Guangua
+
+Code: ET030904, Coordinates: 10.826, 36.605
+
+#### Injibara town
+
+Code: ET030996, Coordinates: 10.968, 36.926
+
+#### Jawi
+
+Code: ET030906, Coordinates: 11.709, 36.407
+
+#### Tilili town
+
+Code: ET030911, Coordinates: 10.855, 37.021
+
+#### Zigem town
+
+Code: ET030997, Coordinates: 10.712, 36.492
+
+### Bahir Dar town Admin
+
+Code: ET0314, Coordinates: 11.963, 37.289
+Woredas: 5
+
+#### Bahir Dar town
+
+Code: ET031401, Coordinates: 11.594, 37.386
+
+#### Deq
+
+Code: ET031404, Coordinates: 11.963, 37.289
+
+#### Meshenti town
+
+Code: ET031405, Coordinates: 11.461, 37.266
+
+#### Tis Abay town
+
+Code: ET031406, Coordinates: 11.496, 37.568
+
+#### Zege town
+
+Code: ET031403, Coordinates: 11.699, 37.347
+
+### Central Gondar
+
+Code: ET0311, Coordinates: 12.594, 37.329
+Woredas: 20
+
+#### Alefa
+
+Code: ET031115, Coordinates: 11.939, 36.766
+
+#### Amba Giorgis town
+
+Code: ET031103, Coordinates: 12.77, 37.622
+
+#### Aykel town
+
+Code: ET031199, Coordinates: 12.55, 37.065
+
+#### Chilga 1
+
+Code: ET031106, Coordinates: 12.618, 37.042
+
+#### Chilga 2
+
+Code: ET031112, Coordinates: 12.42, 36.983
+
+#### East Belesa
+
+Code: ET031117, Coordinates: 12.452, 38.059
+
+#### East Dembia
+
+Code: ET031111, Coordinates: 12.351, 37.375
+
+#### Gondar town
+
+Code: ET031118, Coordinates: 12.576, 37.45
+
+#### Gonder Zuria
+
+Code: ET031110, Coordinates: 12.345, 37.576
+
+#### Kinfaz Begela
+
+Code: ET031122, Coordinates: 12.796, 38.076
+
+#### Kolla Debba town
+
+Code: ET031105, Coordinates: 12.426, 37.329
+
+#### Lay Armacho
+
+Code: ET031108, Coordinates: 12.766, 37.369
+
+#### Masero Denb /Central Armacho
+
+Code: ET031119, Coordinates: 13.009, 36.941
+
+#### Shawra town
+
+Code: ET031104, Coordinates: 11.932, 36.873
+
+#### Tach Armacho
+
+Code: ET031120, Coordinates: 13.053, 37.238
+
+#### Takusa
+
+Code: ET031121, Coordinates: 12.222, 36.805
+
+#### Tegede
+
+Code: ET031107, Coordinates: 13.3, 37.016
+
+#### Wegera
+
+Code: ET031109, Coordinates: 12.782, 37.676
+
+#### West Belesa
+
+Code: ET031116, Coordinates: 12.494, 37.847
+
+#### West Dembiya
+
+Code: ET031125, Coordinates: 12.299, 37.225
+
+### East Gojam
+
+Code: ET0306, Coordinates: 10.506, 37.931
+Woredas: 26
+
+#### Amanuel town
+
+Code: ET030618, Coordinates: 10.441, 37.566
+
+#### Aneded
+
+Code: ET030617, Coordinates: 10.182, 37.883
+
+#### Awabel
+
+Code: ET030612, Coordinates: 10.221, 38.001
+
+#### Baso Liben
+
+Code: ET030611, Coordinates: 10.028, 37.717
+
+#### Bechena town
+
+Code: ET030699, Coordinates: 10.453, 38.201
+
+#### Bibugn
+
+Code: ET030601, Coordinates: 10.834, 37.754
+
+#### Debay Telatgen
+
+Code: ET030607, Coordinates: 10.544, 37.993
+
+#### Debre Elias
+
+Code: ET030608, Coordinates: 10.233, 37.322
+
+#### Debre Markos town
+
+Code: ET030615, Coordinates: 10.327, 37.729
+
+#### Debrework town
+
+Code: ET030621, Coordinates: 10.656, 38.167
+
+#### Dejen
+
+Code: ET030613, Coordinates: 10.202, 38.178
+
+#### Dejen town
+
+Code: ET030698, Coordinates: 10.168, 38.146
+
+#### Enarj Enawga
+
+Code: ET030605, Coordinates: 10.687, 38.218
+
+#### Enebse Sarmder
+
+Code: ET030604, Coordinates: 10.866, 38.393
+
+#### Enemay
+
+Code: ET030606, Coordinates: 10.506, 38.177
+
+#### Goncha Siso Enebse
+
+Code: ET030603, Coordinates: 10.888, 38.135
+
+#### Gundwoin town
+
+Code: ET030620, Coordinates: 10.927, 38.087
+
+#### Guzamn
+
+Code: ET030610, Coordinates: 10.271, 37.635
+
+#### Hulet Ej Enese
+
+Code: ET030602, Coordinates: 10.897, 37.881
+
+#### Lumame town
+
+Code: ET030622, Coordinates: 10.253, 37.938
+
+#### Merto Lemariyam town
+
+Code: ET030623, Coordinates: 10.869, 38.27
+
+#### Michakel
+
+Code: ET030609, Coordinates: 10.493, 37.543
+
+#### Mota town
+
+Code: ET030694, Coordinates: 11.081, 37.877
+
+#### Sedae
+
+Code: ET030619, Coordinates: 11.057, 38.194
+
+#### Senan
+
+Code: ET030616, Coordinates: 10.546, 37.769
+
+#### Shebel Bernta
+
+Code: ET030614, Coordinates: 10.346, 38.372
+
+### North Gojam
+
+Code: ET0313, Coordinates: 11.531, 36.876
+Woredas: 10
+
+#### Adete town
+
+Code: ET031309, Coordinates: 11.267, 37.49
+
+#### Bahir Dar Zuria
+
+Code: ET031310, Coordinates: 11.668, 37.242
+
+#### Debub Achefer
+
+Code: ET031305, Coordinates: 11.476, 36.842
+
+#### Debub Mecha
+
+Code: ET031306, Coordinates: 11.259, 37.179
+
+#### Dure Bete
+
+Code: ET031308, Coordinates: 11.358, 36.953
+
+#### Gonje
+
+Code: ET031307, Coordinates: 11.176, 37.67
+
+#### Mecha
+
+Code: ET031304, Coordinates: 11.471, 37.08
+
+#### Merawi town
+
+Code: ET031302, Coordinates: 11.416, 37.16
+
+#### Semen Achefer
+
+Code: ET031301, Coordinates: 11.72, 36.965
+
+#### Yilmana Densa
+
+Code: ET031303, Coordinates: 11.229, 37.402
+
+### North Gondar
+
+Code: ET0301, Coordinates: 13.236, 37.777
+Woredas: 8
+
+#### Addi Arekay
+
+Code: ET030101, Coordinates: 13.377, 37.979
+
+#### Beyeda
+
+Code: ET030102, Coordinates: 13.24, 38.458
+
+#### Dabat
+
+Code: ET030105, Coordinates: 13.024, 37.687
+
+#### Dabat town
+
+Code: ET030106, Coordinates: 12.981, 37.763
+
+#### Debark
+
+Code: ET030104, Coordinates: 13.231, 37.804
+
+#### Debark town
+
+Code: ET030198, Coordinates: 13.15, 37.898
+
+#### Janamora
+
+Code: ET030103, Coordinates: 13.04, 38.2
+
+#### Telemt
+
+Code: ET030119, Coordinates: 13.453, 38.413
+
+### North Shewa (AM)
+
+Code: ET0305, Coordinates: 9.803, 39.487
+Woredas: 32
+
+#### Aleme Ketma town
+
+Code: ET030599, Coordinates: 10.057, 38.998
+
+#### Angolelana Tera
+
+Code: ET030513, Coordinates: 9.488, 39.545
+
+#### Ankober
+
+Code: ET030515, Coordinates: 9.558, 39.777
+
+#### Antsokiya
+
+Code: ET030507, Coordinates: 10.602, 39.804
+
+#### Arerti town
+
+Code: ET030525, Coordinates: 8.928, 39.424
+
+#### Assagirt
+
+Code: ET030514, Coordinates: 9.379, 39.624
+
+#### Ataye town
+
+Code: ET030598, Coordinates: 10.354, 39.965
+
+#### Basona Worena
+
+Code: ET030519, Coordinates: 9.731, 39.626
+
+#### Berehet
+
+Code: ET030517, Coordinates: 9.188, 39.685
+
+#### Debre Berhan town
+
+Code: ET030520, Coordinates: 9.664, 39.526
+
+#### Debre Sina town
+
+Code: ET030527, Coordinates: 9.848, 39.761
+
+#### Eferatana Gidem
+
+Code: ET030508, Coordinates: 10.313, 39.886
+
+#### Enewari town
+
+Code: ET030528, Coordinates: 9.893, 39.147
+
+#### Ensaro
+
+Code: ET030503, Coordinates: 9.829, 38.907
+
+#### Gishe Rabel
+
+Code: ET030506, Coordinates: 10.58, 39.601
+
+#### Hagere Mariam
+
+Code: ET030516, Coordinates: 9.189, 39.397
+
+#### Kewet
+
+Code: ET030512, Coordinates: 10.068, 39.823
+
+#### Mehal Meda town
+
+Code: ET030597, Coordinates: 10.312, 39.659
+
+#### Menze Gera Midir
+
+Code: ET030505, Coordinates: 10.393, 39.722
+
+#### Menze Keya Gabriel
+
+Code: ET030521, Coordinates: 10.182, 39.367
+
+#### Menze Lalo Midir
+
+Code: ET030522, Coordinates: 10.132, 39.515
+
+#### Menze Mama Midir
+
+Code: ET030509, Coordinates: 10.074, 39.591
+
+#### Merhabete
+
+Code: ET030502, Coordinates: 10.094, 39.124
+
+#### Mida Woremo
+
+Code: ET030501, Coordinates: 10.246, 39.008
+
+#### Minjar Shenkora
+
+Code: ET030518, Coordinates: 8.92, 39.513
+
+#### Mojan Wedera
+
+Code: ET030511, Coordinates: 9.928, 39.53
+
+#### Molale town
+
+Code: ET030526, Coordinates: 10.121, 39.662
+
+#### Moretna Jiru
+
+Code: ET030504, Coordinates: 9.943, 39.154
+
+#### Shoa Robit
+
+Code: ET030595, Coordinates: 10.007, 39.906
+
+#### Siya Debirna Wayu
+
+Code: ET030523, Coordinates: 9.769, 39.191
+
+#### Tarema Ber
+
+Code: ET030510, Coordinates: 9.865, 39.82
+
+#### Tulefa town
+
+Code: ET030524, Coordinates: 9.242, 39.223
+
+### North Wello
+
+Code: ET0303, Coordinates: 11.829, 38.837
+Woredas: 18
+
+#### Angot
+
+Code: ET030313, Coordinates: 11.841, 39.277
+
+#### Bugna
+
+Code: ET030301, Coordinates: 12.171, 38.717
+
+#### Dawunt
+
+Code: ET030311, Coordinates: 11.474, 38.839
+
+#### Filakit town
+
+Code: ET030314, Coordinates: 11.763, 38.742
+
+#### Gashena town
+
+Code: ET030315, Coordinates: 11.668, 38.913
+
+#### Gazo
+
+Code: ET030312, Coordinates: 11.822, 39.038
+
+#### Gidan
+
+Code: ET030303, Coordinates: 12.056, 39.325
+
+#### Guba Lafto
+
+Code: ET030307, Coordinates: 11.783, 39.516
+
+#### Habru
+
+Code: ET030308, Coordinates: 11.671, 39.761
+
+#### Hara town
+
+Code: ET030306, Coordinates: 11.841, 39.743
+
+#### Kobo town
+
+Code: ET030399, Coordinates: 12.151, 39.634
+
+#### Lalibela town
+
+Code: ET030398, Coordinates: 12.029, 39.046
+
+#### Lasta
+
+Code: ET030310, Coordinates: 11.992, 38.935
+
+#### Meket
+
+Code: ET030304, Coordinates: 11.842, 38.822
+
+#### Mersa town
+
+Code: ET030397, Coordinates: 11.664, 39.659
+
+#### Raya Kobo
+
+Code: ET030302, Coordinates: 12.007, 39.624
+
+#### Wadla
+
+Code: ET030305, Coordinates: 11.624, 39.004
+
+#### Woldiya town
+
+Code: ET030309, Coordinates: 11.823, 39.594
+
+### Oromo Nationality Administration
+
+Code: ET0310, Coordinates: 10.741, 40.011
+Woredas: 9
+
+#### Artuma Fursi
+
+Code: ET031004, Coordinates: 10.545, 40.011
+
+#### Bati
+
+Code: ET031002, Coordinates: 11.074, 40.121
+
+#### Bati town
+
+Code: ET031099, Coordinates: 11.192, 40.015
+
+#### Chef Robit town
+
+Code: ET031007, Coordinates: 10.551, 39.934
+
+#### Dewa Cheffa
+
+Code: ET031001, Coordinates: 10.779, 39.847
+
+#### Dewa Harewa
+
+Code: ET031005, Coordinates: 10.766, 40.046
+
+#### Jilye Tumuga
+
+Code: ET031003, Coordinates: 10.26, 40.051
+
+#### Kemisie town
+
+Code: ET031006, Coordinates: 10.718, 39.872
+
+#### Senbete town
+
+Code: ET031008, Coordinates: 10.318, 40.003
+
+### South Gondar
+
+Code: ET0302, Coordinates: 11.757, 38.095
+Woredas: 21
+
+#### Adiss Zemen town
+
+Code: ET030299, Coordinates: 12.123, 37.778
+
+#### Andabet /West Esite
+
+Code: ET030211, Coordinates: 11.373, 37.914
+
+#### Debre Tabor town
+
+Code: ET030210, Coordinates: 11.863, 38.021
+
+#### Dera (AM)
+
+Code: ET030209, Coordinates: 11.641, 37.65
+
+#### East Esite
+
+Code: ET030208, Coordinates: 11.494, 38.073
+
+#### Ebenat
+
+Code: ET030201, Coordinates: 12.244, 38.189
+
+#### Ebenat town
+
+Code: ET030217, Coordinates: 12.123, 38.049
+
+#### Farta
+
+Code: ET030204, Coordinates: 11.755, 38.029
+
+#### Fogera
+
+Code: ET030203, Coordinates: 11.851, 37.693
+
+#### Guna Begemider
+
+Code: ET030212, Coordinates: 11.897, 38.241
+
+#### Hamusit town
+
+Code: ET030218, Coordinates: 11.783, 37.559
+
+#### Lay Gayint
+
+Code: ET030205, Coordinates: 11.853, 38.435
+
+#### Libokemekem
+
+Code: ET030202, Coordinates: 12.068, 37.692
+
+#### Mekan Eyesuse
+
+Code: ET030298, Coordinates: 11.652, 38.074
+
+#### Mena Meketewa
+
+Code: ET030213, Coordinates: 12.116, 38.322
+
+#### Nefas Mewicha town
+
+Code: ET030215, Coordinates: 11.733, 38.469
+
+#### Sede Muja
+
+Code: ET030214, Coordinates: 11.397, 38.469
+
+#### Semada
+
+Code: ET030207, Coordinates: 11.296, 38.303
+
+#### Tach Gayint
+
+Code: ET030206, Coordinates: 11.564, 38.562
+
+#### Wegeda town
+
+Code: ET030216, Coordinates: 11.399, 38.236
+
+#### Woreta town
+
+Code: ET030293, Coordinates: 11.923, 37.699
+
+### South Wello
+
+Code: ET0304, Coordinates: 10.997, 39.208
+Woredas: 32
+
+#### Akeseta town
+
+Code: ET030427, Coordinates: 10.869, 39.177
+
+#### Albuko
+
+Code: ET030408, Coordinates: 10.814, 39.613
+
+#### Ambasel
+
+Code: ET030404, Coordinates: 11.502, 39.495
+
+#### Argoba
+
+Code: ET030401, Coordinates: 10.941, 39.97
+
+#### Borena /Debresina
+
+Code: ET030412, Coordinates: 10.75, 38.696
+
+#### Degolo town
+
+Code: ET030425, Coordinates: 10.42, 39.259
+
+#### Delanta
+
+Code: ET030406, Coordinates: 11.527, 39.22
+
+#### Dessie town
+
+Code: ET030418, Coordinates: 11.142, 39.642
+
+#### Dessie Zuria
+
+Code: ET030409, Coordinates: 11.045, 39.474
+
+#### Gimeba town
+
+Code: ET030428, Coordinates: 10.983, 39.269
+
+#### Harbu town
+
+Code: ET030429, Coordinates: 10.922, 39.783
+
+#### Hike town
+
+Code: ET030499, Coordinates: 11.31, 39.678
+
+#### Jama
+
+Code: ET030414, Coordinates: 10.444, 39.331
+
+#### Kalu
+
+Code: ET030407, Coordinates: 11.074, 39.835
+
+#### Kelala town
+
+Code: ET030426, Coordinates: 10.587, 38.997
+
+#### Kelela
+
+Code: ET030413, Coordinates: 10.541, 38.984
+
+#### Kombolcha town
+
+Code: ET030417, Coordinates: 11.096, 39.721
+
+#### Kutaber
+
+Code: ET030403, Coordinates: 11.28, 39.461
+
+#### Legambo
+
+Code: ET030410, Coordinates: 10.827, 39.042
+
+#### Legehida
+
+Code: ET030420, Coordinates: 10.685, 39.258
+
+#### Mehal Sayint
+
+Code: ET030419, Coordinates: 10.936, 38.642
+
+#### Mekane Selam town
+
+Code: ET030498, Coordinates: 10.753, 38.774
+
+#### Mekdela
+
+Code: ET030421, Coordinates: 11.243, 38.934
+
+#### Sayint
+
+Code: ET030411, Coordinates: 11.099, 38.776
+
+#### Tenta
+
+Code: ET030402, Coordinates: 11.225, 39.226
+
+#### Thehulederie
+
+Code: ET030405, Coordinates: 11.245, 39.733
+
+#### Wegde
+
+Code: ET030416, Coordinates: 10.534, 38.68
+
+#### Wegedi town
+
+Code: ET030430, Coordinates: 10.592, 38.764
+
+#### Wegel tena town
+
+Code: ET030424, Coordinates: 11.592, 39.216
+
+#### Were Ilu
+
+Code: ET030415, Coordinates: 10.696, 39.454
+
+#### Wereilu town
+
+Code: ET030423, Coordinates: 10.593, 39.437
+
+#### Worebabu
+
+Code: ET030422, Coordinates: 11.447, 39.894
+
+### Wag Hamra
+
+Code: ET0308, Coordinates: 12.721, 38.817
+Woredas: 9
+
+#### Abergele (AM)
+
+Code: ET030805, Coordinates: 13.077, 38.881
+
+#### Amde Work town
+
+Code: ET030809, Coordinates: 12.43, 38.716
+
+#### Dehana
+
+Code: ET030803, Coordinates: 12.446, 38.548
+
+#### Gaz Gibla
+
+Code: ET030804, Coordinates: 12.337, 39.07
+
+#### Sahila
+
+Code: ET030806, Coordinates: 12.936, 38.498
+
+#### Sekota
+
+Code: ET030802, Coordinates: 12.666, 38.889
+
+#### Sekota town
+
+Code: ET030807, Coordinates: 12.618, 39.036
+
+#### Tsagbeji
+
+Code: ET030808, Coordinates: 12.77, 39.173
+
+#### Zequala
+
+Code: ET030801, Coordinates: 12.691, 38.576
+
+### West Gojam
+
+Code: ET0307, Coordinates: 10.692, 37.212
+Woredas: 12
+
+#### Bure (AM)
+
+Code: ET030710, Coordinates: 10.542, 37.049
+
+#### Bure town
+
+Code: ET030798, Coordinates: 10.706, 37.065
+
+#### Dega Damot
+
+Code: ET030707, Coordinates: 10.862, 37.615
+
+#### Dembecha
+
+Code: ET030708, Coordinates: 10.554, 37.376
+
+#### Denbecha town
+
+Code: ET030717, Coordinates: 10.566, 37.491
+
+#### Finote Selam town
+
+Code: ET030714, Coordinates: 10.685, 37.263
+
+#### Jabi Tehnan
+
+Code: ET030709, Coordinates: 10.62, 37.297
+
+#### Jiga town
+
+Code: ET030720, Coordinates: 10.675, 37.374
+
+#### Quarit
+
+Code: ET030706, Coordinates: 10.975, 37.442
+
+#### Sekela
+
+Code: ET030705, Coordinates: 11.001, 37.209
+
+#### Shendi town
+
+Code: ET030716, Coordinates: 10.641, 36.946
+
+#### Wemberma
+
+Code: ET030711, Coordinates: 10.518, 36.889
+
+### West Gondar
+
+Code: ET0312, Coordinates: 12.44, 36.158
+Woredas: 7
+
+#### Adagn Ager Chaqo
+
+Code: ET031205, Coordinates: 12.607, 36.788
+
+#### Gendawuha town
+
+Code: ET031292, Coordinates: 12.777, 36.408
+
+#### Metema
+
+Code: ET031213, Coordinates: 12.801, 36.55
+
+#### Metema Yohanes town
+
+Code: ET031224, Coordinates: 12.939, 36.167
+
+#### Midre Genet
+
+Code: ET031223, Coordinates: 13.696, 36.464
+
+#### Mirab Armacho
+
+Code: ET031206, Coordinates: 13.414, 36.396
+
+#### Quara
+
+Code: ET031214, Coordinates: 12.262, 35.88
+

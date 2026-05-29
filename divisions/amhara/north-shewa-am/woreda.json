@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ET030599",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aleme Ketma town",
+      "en": "Aleme Ketma town",
+      "slug": "aleme-ketma-town"
+    },
+    "code": {
+      "id": "ET030599",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.057",
+      "lon": "38.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030513",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Angolelana Tera",
+      "en": "Angolelana Tera",
+      "slug": "angolelana-tera"
+    },
+    "code": {
+      "id": "ET030513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.488",
+      "lon": "39.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030515",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ankober",
+      "en": "Ankober",
+      "slug": "ankober"
+    },
+    "code": {
+      "id": "ET030515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.558",
+      "lon": "39.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030507",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Antsokiya",
+      "en": "Antsokiya",
+      "slug": "antsokiya"
+    },
+    "code": {
+      "id": "ET030507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.602",
+      "lon": "39.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030525",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arerti town",
+      "en": "Arerti town",
+      "slug": "arerti-town"
+    },
+    "code": {
+      "id": "ET030525",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.928",
+      "lon": "39.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030514",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Assagirt",
+      "en": "Assagirt",
+      "slug": "assagirt"
+    },
+    "code": {
+      "id": "ET030514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.379",
+      "lon": "39.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030598",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ataye town",
+      "en": "Ataye town",
+      "slug": "ataye-town"
+    },
+    "code": {
+      "id": "ET030598",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.354",
+      "lon": "39.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030519",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Basona Worena",
+      "en": "Basona Worena",
+      "slug": "basona-worena"
+    },
+    "code": {
+      "id": "ET030519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.731",
+      "lon": "39.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030517",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Berehet",
+      "en": "Berehet",
+      "slug": "berehet"
+    },
+    "code": {
+      "id": "ET030517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.188",
+      "lon": "39.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030520",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Berhan town",
+      "en": "Debre Berhan town",
+      "slug": "debre-berhan-town"
+    },
+    "code": {
+      "id": "ET030520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.664",
+      "lon": "39.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030527",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Sina town",
+      "en": "Debre Sina town",
+      "slug": "debre-sina-town"
+    },
+    "code": {
+      "id": "ET030527",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.848",
+      "lon": "39.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030508",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Eferatana Gidem",
+      "en": "Eferatana Gidem",
+      "slug": "eferatana-gidem"
+    },
+    "code": {
+      "id": "ET030508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.313",
+      "lon": "39.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030528",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enewari town",
+      "en": "Enewari town",
+      "slug": "enewari-town"
+    },
+    "code": {
+      "id": "ET030528",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.893",
+      "lon": "39.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ensaro",
+      "en": "Ensaro",
+      "slug": "ensaro"
+    },
+    "code": {
+      "id": "ET030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.829",
+      "lon": "38.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030506",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gishe Rabel",
+      "en": "Gishe Rabel",
+      "slug": "gishe-rabel"
+    },
+    "code": {
+      "id": "ET030506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.58",
+      "lon": "39.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030516",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hagere Mariam",
+      "en": "Hagere Mariam",
+      "slug": "hagere-mariam"
+    },
+    "code": {
+      "id": "ET030516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.189",
+      "lon": "39.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030512",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kewet",
+      "en": "Kewet",
+      "slug": "kewet"
+    },
+    "code": {
+      "id": "ET030512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.068",
+      "lon": "39.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030597",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mehal Meda town",
+      "en": "Mehal Meda town",
+      "slug": "mehal-meda-town"
+    },
+    "code": {
+      "id": "ET030597",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.312",
+      "lon": "39.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030505",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menze Gera Midir",
+      "en": "Menze Gera Midir",
+      "slug": "menze-gera-midir"
+    },
+    "code": {
+      "id": "ET030505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.393",
+      "lon": "39.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030521",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menze Keya Gabriel",
+      "en": "Menze Keya Gabriel",
+      "slug": "menze-keya-gabriel"
+    },
+    "code": {
+      "id": "ET030521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.182",
+      "lon": "39.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030522",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menze Lalo Midir",
+      "en": "Menze Lalo Midir",
+      "slug": "menze-lalo-midir"
+    },
+    "code": {
+      "id": "ET030522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.132",
+      "lon": "39.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030509",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menze Mama Midir",
+      "en": "Menze Mama Midir",
+      "slug": "menze-mama-midir"
+    },
+    "code": {
+      "id": "ET030509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.074",
+      "lon": "39.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Merhabete",
+      "en": "Merhabete",
+      "slug": "merhabete"
+    },
+    "code": {
+      "id": "ET030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.094",
+      "lon": "39.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mida Woremo",
+      "en": "Mida Woremo",
+      "slug": "mida-woremo"
+    },
+    "code": {
+      "id": "ET030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.246",
+      "lon": "39.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030518",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Minjar Shenkora",
+      "en": "Minjar Shenkora",
+      "slug": "minjar-shenkora"
+    },
+    "code": {
+      "id": "ET030518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.92",
+      "lon": "39.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030511",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mojan Wedera",
+      "en": "Mojan Wedera",
+      "slug": "mojan-wedera"
+    },
+    "code": {
+      "id": "ET030511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.928",
+      "lon": "39.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030526",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Molale town",
+      "en": "Molale town",
+      "slug": "molale-town"
+    },
+    "code": {
+      "id": "ET030526",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.121",
+      "lon": "39.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Moretna Jiru",
+      "en": "Moretna Jiru",
+      "slug": "moretna-jiru"
+    },
+    "code": {
+      "id": "ET030504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.943",
+      "lon": "39.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030595",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shoa Robit",
+      "en": "Shoa Robit",
+      "slug": "shoa-robit"
+    },
+    "code": {
+      "id": "ET030595",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.007",
+      "lon": "39.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030523",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Siya Debirna Wayu",
+      "en": "Siya Debirna Wayu",
+      "slug": "siya-debirna-wayu"
+    },
+    "code": {
+      "id": "ET030523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "39.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030510",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tarema Ber",
+      "en": "Tarema Ber",
+      "slug": "tarema-ber"
+    },
+    "code": {
+      "id": "ET030510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.865",
+      "lon": "39.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030524",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tulefa town",
+      "en": "Tulefa town",
+      "slug": "tulefa-town"
+    },
+    "code": {
+      "id": "ET030524",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0305",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (AM)",
+        "en": "North Shewa (AM)",
+        "slug": "north-shewa-am"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0305",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (AM)",
+          "en": "North Shewa (AM)",
+          "slug": "north-shewa-am"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.242",
+      "lon": "39.223"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

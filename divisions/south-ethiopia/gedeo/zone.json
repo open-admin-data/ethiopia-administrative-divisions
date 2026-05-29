@@ -1,0 +1,47 @@
+{
+  "id": "ET0811",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Gedeo",
+    "en": "Gedeo",
+    "slug": "gedeo"
+  },
+  "code": {
+    "id": "ET0811",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.144",
+    "lon": "38.272"
+  },
+  "metadata": {},
+  "source": {}
+}

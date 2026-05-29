@@ -1,0 +1,704 @@
+[
+  {
+    "id": "ET081104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bule",
+      "en": "Bule",
+      "slug": "bule"
+    },
+    "code": {
+      "id": "ET081104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.284",
+      "lon": "38.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chelelektu town",
+      "en": "Chelelektu town",
+      "slug": "chelelektu-town"
+    },
+    "code": {
+      "id": "ET081112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.006",
+      "lon": "38.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Churso",
+      "en": "Churso",
+      "slug": "churso"
+    },
+    "code": {
+      "id": "ET081108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.064",
+      "lon": "38.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dila town",
+      "en": "Dila town",
+      "slug": "dila-town"
+    },
+    "code": {
+      "id": "ET081109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "38.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dila Zuria",
+      "en": "Dila Zuria",
+      "slug": "dila-zuria"
+    },
+    "code": {
+      "id": "ET081105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.354",
+      "lon": "38.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gedeb",
+      "en": "Gedeb",
+      "slug": "gedeb"
+    },
+    "code": {
+      "id": "ET081106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.921",
+      "lon": "38.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gedeb town",
+      "en": "Gedeb town",
+      "slug": "gedeb-town"
+    },
+    "code": {
+      "id": "ET081110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.898",
+      "lon": "38.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kochere",
+      "en": "Kochere",
+      "slug": "kochere"
+    },
+    "code": {
+      "id": "ET081103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.045",
+      "lon": "38.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Rape",
+      "en": "Rape",
+      "slug": "rape"
+    },
+    "code": {
+      "id": "ET081107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.186",
+      "lon": "38.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wenago",
+      "en": "Wenago",
+      "slug": "wenago"
+    },
+    "code": {
+      "id": "ET081101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.282",
+      "lon": "38.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wonago town",
+      "en": "Wonago town",
+      "slug": "wonago-town"
+    },
+    "code": {
+      "id": "ET081113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.318",
+      "lon": "38.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yirgachefe",
+      "en": "Yirgachefe",
+      "slug": "yirgachefe"
+    },
+    "code": {
+      "id": "ET081102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.168",
+      "lon": "38.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yirgachefe town",
+      "en": "Yirgachefe town",
+      "slug": "yirgachefe-town"
+    },
+    "code": {
+      "id": "ET081111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0811",
+      "level": 2,
+      "name": {
+        "local": "Gedeo",
+        "en": "Gedeo",
+        "slug": "gedeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0811",
+        "level": 2,
+        "name": {
+          "local": "Gedeo",
+          "en": "Gedeo",
+          "slug": "gedeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.159",
+      "lon": "38.204"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

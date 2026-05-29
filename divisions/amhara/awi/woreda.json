@@ -1,0 +1,866 @@
+[
+  {
+    "id": "ET030910",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adiss Kidame town",
+      "en": "Adiss Kidame town",
+      "slug": "adiss-kidame-town"
+    },
+    "code": {
+      "id": "ET030910",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.08",
+      "lon": "36.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030909",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Agew Gimija Bet town",
+      "en": "Agew Gimija Bet town",
+      "slug": "agew-gimija-bet-town"
+    },
+    "code": {
+      "id": "ET030909",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.85",
+      "lon": "36.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030903",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ankasha",
+      "en": "Ankasha",
+      "slug": "ankasha"
+    },
+    "code": {
+      "id": "ET030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.845",
+      "lon": "36.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030908",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ayehu Guwagusa",
+      "en": "Ayehu Guwagusa",
+      "slug": "ayehu-guwagusa"
+    },
+    "code": {
+      "id": "ET030908",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.681",
+      "lon": "36.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030902",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Banja",
+      "en": "Banja",
+      "slug": "banja"
+    },
+    "code": {
+      "id": "ET030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.963",
+      "lon": "37.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030999",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chagni town",
+      "en": "Chagni town",
+      "slug": "chagni-town"
+    },
+    "code": {
+      "id": "ET030999",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.958",
+      "lon": "36.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030901",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dangila",
+      "en": "Dangila",
+      "slug": "dangila"
+    },
+    "code": {
+      "id": "ET030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.227",
+      "lon": "36.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030998",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dangila town",
+      "en": "Dangila town",
+      "slug": "dangila-town"
+    },
+    "code": {
+      "id": "ET030998",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.263",
+      "lon": "36.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030905",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fagta Lakoma",
+      "en": "Fagta Lakoma",
+      "slug": "fagta-lakoma"
+    },
+    "code": {
+      "id": "ET030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.096",
+      "lon": "36.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030912",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fendika town",
+      "en": "Fendika town",
+      "slug": "fendika-town"
+    },
+    "code": {
+      "id": "ET030912",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "36.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030907",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guagusa Shikudad",
+      "en": "Guagusa Shikudad",
+      "slug": "guagusa-shikudad"
+    },
+    "code": {
+      "id": "ET030907",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.805",
+      "lon": "37.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030904",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guangua",
+      "en": "Guangua",
+      "slug": "guangua"
+    },
+    "code": {
+      "id": "ET030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.826",
+      "lon": "36.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030996",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Injibara town",
+      "en": "Injibara town",
+      "slug": "injibara-town"
+    },
+    "code": {
+      "id": "ET030996",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.968",
+      "lon": "36.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030906",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jawi",
+      "en": "Jawi",
+      "slug": "jawi"
+    },
+    "code": {
+      "id": "ET030906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.709",
+      "lon": "36.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030911",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tilili town",
+      "en": "Tilili town",
+      "slug": "tilili-town"
+    },
+    "code": {
+      "id": "ET030911",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.855",
+      "lon": "37.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030997",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zigem town",
+      "en": "Zigem town",
+      "slug": "zigem-town"
+    },
+    "code": {
+      "id": "ET030997",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0309",
+      "level": 2,
+      "name": {
+        "local": "Awi",
+        "en": "Awi",
+        "slug": "awi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0309",
+        "level": 2,
+        "name": {
+          "local": "Awi",
+          "en": "Awi",
+          "slug": "awi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.712",
+      "lon": "36.492"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

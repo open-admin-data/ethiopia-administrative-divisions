@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET1603,Central,Central,central,ET1603,7,6.747,38.423
+ET1605,Eastern,Eastern,eastern,ET1605,9,6.428,38.923
+ET1601,Hawassa town Admin,Hawassa town Admin,hawassa-town-admin,ET1601,1,7.017,38.491
+ET1602,Northern,Northern,northern,ET1602,10,6.979,38.26
+ET1604,Southern,Southern,southern,ET1604,10,6.543,38.453

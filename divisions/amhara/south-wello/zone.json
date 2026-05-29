@@ -1,0 +1,47 @@
+{
+  "id": "ET0304",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "South Wello",
+    "en": "South Wello",
+    "slug": "south-wello"
+  },
+  "code": {
+    "id": "ET0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.997",
+    "lon": "39.208"
+  },
+  "metadata": {},
+  "source": {}
+}

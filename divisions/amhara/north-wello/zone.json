@@ -1,0 +1,47 @@
+{
+  "id": "ET0303",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "North Wello",
+    "en": "North Wello",
+    "slug": "north-wello"
+  },
+  "code": {
+    "id": "ET0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.829",
+    "lon": "38.837"
+  },
+  "metadata": {},
+  "source": {}
+}

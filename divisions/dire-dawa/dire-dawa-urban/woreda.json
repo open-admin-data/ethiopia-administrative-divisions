@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET150109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Addis Ketema (DD)",
+      "en": "Addis Ketema (DD)",
+      "slug": "addis-ketema-dd"
+    },
+    "code": {
+      "id": "ET150109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.589",
+      "lon": "41.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dechatu",
+      "en": "Dechatu",
+      "slug": "dechatu"
+    },
+    "code": {
+      "id": "ET150111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.601",
+      "lon": "41.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gende Kore",
+      "en": "Gende Kore",
+      "slug": "gende-kore"
+    },
+    "code": {
+      "id": "ET150110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.6",
+      "lon": "41.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hafat Issa",
+      "en": "Hafat Issa",
+      "slug": "hafat-issa"
+    },
+    "code": {
+      "id": "ET150112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.605",
+      "lon": "41.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kazira",
+      "en": "Kazira",
+      "slug": "kazira"
+    },
+    "code": {
+      "id": "ET150113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.636",
+      "lon": "41.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Legehare",
+      "en": "Legehare",
+      "slug": "legehare"
+    },
+    "code": {
+      "id": "ET150105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.605",
+      "lon": "41.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Malka Jabti /M.Jebdu",
+      "en": "Malka Jabti /M.Jebdu",
+      "slug": "malka-jabti-mjebdu"
+    },
+    "code": {
+      "id": "ET150104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.629",
+      "lon": "41.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Police Maret",
+      "en": "Police Maret",
+      "slug": "police-maret"
+    },
+    "code": {
+      "id": "ET150114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.639",
+      "lon": "41.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sabian",
+      "en": "Sabian",
+      "slug": "sabian"
+    },
+    "code": {
+      "id": "ET150103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1501",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa urban",
+        "en": "Dire Dawa urban",
+        "slug": "dire-dawa-urban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1501",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa urban",
+          "en": "Dire Dawa urban",
+          "slug": "dire-dawa-urban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.627",
+      "lon": "41.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

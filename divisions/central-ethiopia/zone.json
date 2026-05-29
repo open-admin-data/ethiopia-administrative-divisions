@@ -1,0 +1,472 @@
+[
+  {
+    "id": "ET0704",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Guraghe",
+      "en": "East Guraghe",
+      "slug": "east-guraghe"
+    },
+    "code": {
+      "id": "ET0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.167",
+      "lon": "38.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0701",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Guraghe",
+      "en": "Guraghe",
+      "slug": "guraghe"
+    },
+    "code": {
+      "id": "ET0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.132",
+      "lon": "37.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0702",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Hadiya",
+      "en": "Hadiya",
+      "slug": "hadiya"
+    },
+    "code": {
+      "id": "ET0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.564",
+      "lon": "37.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0714",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Halaba",
+      "en": "Halaba",
+      "slug": "halaba"
+    },
+    "code": {
+      "id": "ET0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.367",
+      "lon": "38.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0700",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kebena Special",
+      "en": "Kebena Special",
+      "slug": "kebena-special"
+    },
+    "code": {
+      "id": "ET0700",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.322",
+      "lon": "37.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0703",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kembata",
+      "en": "Kembata",
+      "slug": "kembata"
+    },
+    "code": {
+      "id": "ET0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.294",
+      "lon": "37.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0725",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Mareko Special",
+      "en": "Mareko Special",
+      "slug": "mareko-special"
+    },
+    "code": {
+      "id": "ET0725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.995",
+      "lon": "38.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0720",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Siltie",
+      "en": "Siltie",
+      "slug": "siltie"
+    },
+    "code": {
+      "id": "ET0720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.808",
+      "lon": "38.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0726",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Tembaro Special",
+      "en": "Tembaro Special",
+      "slug": "tembaro-special"
+    },
+    "code": {
+      "id": "ET0726",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.269",
+      "lon": "37.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0724",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Yem",
+      "en": "Yem",
+      "slug": "yem"
+    },
+    "code": {
+      "id": "ET0724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.813",
+      "lon": "37.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

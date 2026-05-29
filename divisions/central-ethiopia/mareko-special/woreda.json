@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET072501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mareko Special",
+      "en": "Mareko Special",
+      "slug": "mareko-special"
+    },
+    "code": {
+      "id": "ET072501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0725",
+      "level": 2,
+      "name": {
+        "local": "Mareko Special",
+        "en": "Mareko Special",
+        "slug": "mareko-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0725",
+        "level": 2,
+        "name": {
+          "local": "Mareko Special",
+          "en": "Mareko Special",
+          "slug": "mareko-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.995",
+      "lon": "38.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

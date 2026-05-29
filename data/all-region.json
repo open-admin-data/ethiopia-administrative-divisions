@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ET01",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tigray",
+      "en": "Tigray",
+      "slug": "tigray"
+    },
+    "code": {
+      "id": "ET01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 6,
+      "woreda": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.867",
+      "lon": "38.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET02",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Afar",
+      "en": "Afar",
+      "slug": "afar"
+    },
+    "code": {
+      "id": "ET02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 6,
+      "woreda": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.036",
+      "lon": "40.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET03",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    },
+    "code": {
+      "id": "ET03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 14,
+      "woreda": 225
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.565",
+      "lon": "38.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET04",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    },
+    "code": {
+      "id": "ET04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 22,
+      "woreda": 349
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.525",
+      "lon": "40.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET05",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    },
+    "code": {
+      "id": "ET05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 11,
+      "woreda": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.929",
+      "lon": "43.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET06",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Benishangul-Gumuz",
+      "en": "Benishangul-Gumuz",
+      "slug": "benishangul-gumuz"
+    },
+    "code": {
+      "id": "ET06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 4,
+      "woreda": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.504",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET07",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Central Ethiopia",
+      "en": "Central Ethiopia",
+      "slug": "central-ethiopia"
+    },
+    "code": {
+      "id": "ET07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 10,
+      "woreda": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.798",
+      "lon": "37.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET08",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    },
+    "code": {
+      "id": "ET08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 12,
+      "woreda": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.778",
+      "lon": "36.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET11",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    },
+    "code": {
+      "id": "ET11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 6,
+      "woreda": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.977",
+      "lon": "36.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET12",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gambela",
+      "en": "Gambela",
+      "slug": "gambela"
+    },
+    "code": {
+      "id": "ET12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 4,
+      "woreda": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "34.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET13",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Harari",
+      "en": "Harari",
+      "slug": "harari"
+    },
+    "code": {
+      "id": "ET13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 1,
+      "woreda": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.29",
+      "lon": "42.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET14",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Addis Ababa",
+      "en": "Addis Ababa",
+      "slug": "addis-ababa"
+    },
+    "code": {
+      "id": "ET14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 1,
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.98",
+      "lon": "38.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET15",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Dire Dawa",
+      "en": "Dire Dawa",
+      "slug": "dire-dawa"
+    },
+    "code": {
+      "id": "ET15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 2,
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.582",
+      "lon": "41.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET16",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sidama",
+      "en": "Sidama",
+      "slug": "sidama"
+    },
+    "code": {
+      "id": "ET16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 5,
+      "woreda": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.664",
+      "lon": "38.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET99",
+    "level": 1,
+    "level_name": {
+      "local": "ክልል",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Contested",
+      "en": "Contested",
+      "slug": "contested"
+    },
+    "code": {
+      "id": "ET99",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "zone": 3,
+      "woreda": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.797",
+      "lon": "37.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

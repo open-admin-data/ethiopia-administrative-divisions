@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "ET040609",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abichugna Gne'a",
+      "en": "Abichugna Gne'a",
+      "slug": "abichugna-gnea"
+    },
+    "code": {
+      "id": "ET040609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.609",
+      "lon": "39.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040617",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aleltu",
+      "en": "Aleltu",
+      "slug": "aleltu"
+    },
+    "code": {
+      "id": "ET040617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.213",
+      "lon": "39.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040619",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bereh",
+      "en": "Bereh",
+      "slug": "bereh"
+    },
+    "code": {
+      "id": "ET040619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.236",
+      "lon": "38.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040621",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chancho town",
+      "en": "Chancho town",
+      "slug": "chancho-town"
+    },
+    "code": {
+      "id": "ET040621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "38.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040607",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Libanos",
+      "en": "Debre Libanos",
+      "slug": "debre-libanos"
+    },
+    "code": {
+      "id": "ET040607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.66",
+      "lon": "38.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040605",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degem",
+      "en": "Degem",
+      "slug": "degem"
+    },
+    "code": {
+      "id": "ET040605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.815",
+      "lon": "38.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040602",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dera (OR)",
+      "en": "Dera (OR)",
+      "slug": "dera-or"
+    },
+    "code": {
+      "id": "ET040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.213",
+      "lon": "38.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040613",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fiche town",
+      "en": "Fiche town",
+      "slug": "fiche-town"
+    },
+    "code": {
+      "id": "ET040613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.788",
+      "lon": "38.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040616",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Garba Guracha",
+      "en": "Garba Guracha",
+      "slug": "garba-guracha"
+    },
+    "code": {
+      "id": "ET040616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.809",
+      "lon": "38.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040606",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gerar Jarso",
+      "en": "Gerar Jarso",
+      "slug": "gerar-jarso"
+    },
+    "code": {
+      "id": "ET040606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.834",
+      "lon": "38.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hidabu Abote",
+      "en": "Hidabu Abote",
+      "slug": "hidabu-abote"
+    },
+    "code": {
+      "id": "ET040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.959",
+      "lon": "38.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040615",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jida",
+      "en": "Jida",
+      "slug": "jida"
+    },
+    "code": {
+      "id": "ET040615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "39.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040610",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kimbibit",
+      "en": "Kimbibit",
+      "slug": "kimbibit"
+    },
+    "code": {
+      "id": "ET040610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.402",
+      "lon": "39.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kuyu",
+      "en": "Kuyu",
+      "slug": "kuyu"
+    },
+    "code": {
+      "id": "ET040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.748",
+      "lon": "38.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040622",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mulo",
+      "en": "Mulo",
+      "slug": "mulo"
+    },
+    "code": {
+      "id": "ET040622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.286",
+      "lon": "38.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040623",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sendafa town",
+      "en": "Sendafa town",
+      "slug": "sendafa-town"
+    },
+    "code": {
+      "id": "ET040623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.159",
+      "lon": "39.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040611",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sheno town",
+      "en": "Sheno town",
+      "slug": "sheno-town"
+    },
+    "code": {
+      "id": "ET040611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.299",
+      "lon": "39.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040620",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sululta (OR)",
+      "en": "Sululta (OR)",
+      "slug": "sululta-or"
+    },
+    "code": {
+      "id": "ET040620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.386",
+      "lon": "38.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wara Jarso",
+      "en": "Wara Jarso",
+      "slug": "wara-jarso"
+    },
+    "code": {
+      "id": "ET040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.954",
+      "lon": "38.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040608",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wuchale",
+      "en": "Wuchale",
+      "slug": "wuchale"
+    },
+    "code": {
+      "id": "ET040608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "38.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040614",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yaya Gulele",
+      "en": "Yaya Gulele",
+      "slug": "yaya-gulele"
+    },
+    "code": {
+      "id": "ET040614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0406",
+      "level": 2,
+      "name": {
+        "local": "North Shewa (OR)",
+        "en": "North Shewa (OR)",
+        "slug": "north-shewa-or"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0406",
+        "level": 2,
+        "name": {
+          "local": "North Shewa (OR)",
+          "en": "North Shewa (OR)",
+          "slug": "north-shewa-or"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.593",
+      "lon": "38.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

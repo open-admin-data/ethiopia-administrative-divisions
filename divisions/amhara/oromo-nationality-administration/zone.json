@@ -1,0 +1,47 @@
+{
+  "id": "ET0310",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Oromo Nationality Administration",
+    "en": "Oromo Nationality Administration",
+    "slug": "oromo-nationality-administration"
+  },
+  "code": {
+    "id": "ET0310",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.741",
+    "lon": "40.011"
+  },
+  "metadata": {},
+  "source": {}
+}

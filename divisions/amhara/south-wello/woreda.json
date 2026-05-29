@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ET030427",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Akeseta town",
+      "en": "Akeseta town",
+      "slug": "akeseta-town"
+    },
+    "code": {
+      "id": "ET030427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.869",
+      "lon": "39.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Albuko",
+      "en": "Albuko",
+      "slug": "albuko"
+    },
+    "code": {
+      "id": "ET030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "39.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ambasel",
+      "en": "Ambasel",
+      "slug": "ambasel"
+    },
+    "code": {
+      "id": "ET030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.502",
+      "lon": "39.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Argoba",
+      "en": "Argoba",
+      "slug": "argoba"
+    },
+    "code": {
+      "id": "ET030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.941",
+      "lon": "39.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030412",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Borena /Debresina",
+      "en": "Borena /Debresina",
+      "slug": "borena-debresina"
+    },
+    "code": {
+      "id": "ET030412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.75",
+      "lon": "38.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030425",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degolo town",
+      "en": "Degolo town",
+      "slug": "degolo-town"
+    },
+    "code": {
+      "id": "ET030425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.42",
+      "lon": "39.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Delanta",
+      "en": "Delanta",
+      "slug": "delanta"
+    },
+    "code": {
+      "id": "ET030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.527",
+      "lon": "39.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030418",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dessie town",
+      "en": "Dessie town",
+      "slug": "dessie-town"
+    },
+    "code": {
+      "id": "ET030418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.142",
+      "lon": "39.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dessie Zuria",
+      "en": "Dessie Zuria",
+      "slug": "dessie-zuria"
+    },
+    "code": {
+      "id": "ET030409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.045",
+      "lon": "39.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030428",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gimeba town",
+      "en": "Gimeba town",
+      "slug": "gimeba-town"
+    },
+    "code": {
+      "id": "ET030428",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.983",
+      "lon": "39.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030429",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Harbu town",
+      "en": "Harbu town",
+      "slug": "harbu-town"
+    },
+    "code": {
+      "id": "ET030429",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.922",
+      "lon": "39.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030499",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hike town",
+      "en": "Hike town",
+      "slug": "hike-town"
+    },
+    "code": {
+      "id": "ET030499",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.31",
+      "lon": "39.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030414",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jama",
+      "en": "Jama",
+      "slug": "jama"
+    },
+    "code": {
+      "id": "ET030414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.444",
+      "lon": "39.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kalu",
+      "en": "Kalu",
+      "slug": "kalu"
+    },
+    "code": {
+      "id": "ET030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.074",
+      "lon": "39.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030426",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kelala town",
+      "en": "Kelala town",
+      "slug": "kelala-town"
+    },
+    "code": {
+      "id": "ET030426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.587",
+      "lon": "38.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030413",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kelela",
+      "en": "Kelela",
+      "slug": "kelela"
+    },
+    "code": {
+      "id": "ET030413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.541",
+      "lon": "38.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030417",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kombolcha town",
+      "en": "Kombolcha town",
+      "slug": "kombolcha-town"
+    },
+    "code": {
+      "id": "ET030417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.096",
+      "lon": "39.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kutaber",
+      "en": "Kutaber",
+      "slug": "kutaber"
+    },
+    "code": {
+      "id": "ET030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.28",
+      "lon": "39.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030410",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Legambo",
+      "en": "Legambo",
+      "slug": "legambo"
+    },
+    "code": {
+      "id": "ET030410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.827",
+      "lon": "39.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030420",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Legehida",
+      "en": "Legehida",
+      "slug": "legehida"
+    },
+    "code": {
+      "id": "ET030420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.685",
+      "lon": "39.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030419",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mehal Sayint",
+      "en": "Mehal Sayint",
+      "slug": "mehal-sayint"
+    },
+    "code": {
+      "id": "ET030419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.936",
+      "lon": "38.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030498",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mekane Selam town",
+      "en": "Mekane Selam town",
+      "slug": "mekane-selam-town"
+    },
+    "code": {
+      "id": "ET030498",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.753",
+      "lon": "38.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030421",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mekdela",
+      "en": "Mekdela",
+      "slug": "mekdela"
+    },
+    "code": {
+      "id": "ET030421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.243",
+      "lon": "38.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030411",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sayint",
+      "en": "Sayint",
+      "slug": "sayint"
+    },
+    "code": {
+      "id": "ET030411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.099",
+      "lon": "38.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tenta",
+      "en": "Tenta",
+      "slug": "tenta"
+    },
+    "code": {
+      "id": "ET030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.225",
+      "lon": "39.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Thehulederie",
+      "en": "Thehulederie",
+      "slug": "thehulederie"
+    },
+    "code": {
+      "id": "ET030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.245",
+      "lon": "39.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030416",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wegde",
+      "en": "Wegde",
+      "slug": "wegde"
+    },
+    "code": {
+      "id": "ET030416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.534",
+      "lon": "38.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030430",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wegedi town",
+      "en": "Wegedi town",
+      "slug": "wegedi-town"
+    },
+    "code": {
+      "id": "ET030430",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.592",
+      "lon": "38.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030424",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wegel tena town",
+      "en": "Wegel tena town",
+      "slug": "wegel-tena-town"
+    },
+    "code": {
+      "id": "ET030424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.592",
+      "lon": "39.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030415",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Were Ilu",
+      "en": "Were Ilu",
+      "slug": "were-ilu"
+    },
+    "code": {
+      "id": "ET030415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.696",
+      "lon": "39.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030423",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wereilu town",
+      "en": "Wereilu town",
+      "slug": "wereilu-town"
+    },
+    "code": {
+      "id": "ET030423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.593",
+      "lon": "39.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030422",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Worebabu",
+      "en": "Worebabu",
+      "slug": "worebabu"
+    },
+    "code": {
+      "id": "ET030422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0304",
+      "level": 2,
+      "name": {
+        "local": "South Wello",
+        "en": "South Wello",
+        "slug": "south-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0304",
+        "level": 2,
+        "name": {
+          "local": "South Wello",
+          "en": "South Wello",
+          "slug": "south-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.447",
+      "lon": "39.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

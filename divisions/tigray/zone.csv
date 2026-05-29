@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET0102,Central,Central,central,ET0102,22,13.97,38.892
+ET0103,Eastern,Eastern,eastern,ET0103,18,14.077,39.561
+ET0107,Mekelle,Mekelle,mekelle,ET0107,7,13.476,39.505
+ET0101,North Western,North Western,north-western,ET0101,12,14.235,38.016
+ET0106,South Eastern,South Eastern,south-eastern,ET0106,8,13.221,39.426
+ET0104,Southern,Southern,southern,ET0104,8,12.828,39.556

@@ -1,0 +1,47 @@
+{
+  "id": "ET0726",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Tembaro Special",
+    "en": "Tembaro Special",
+    "slug": "tembaro-special"
+  },
+  "code": {
+    "id": "ET0726",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET07",
+    "level": 1,
+    "name": {
+      "local": "Central Ethiopia",
+      "en": "Central Ethiopia",
+      "slug": "central-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.269",
+    "lon": "37.487"
+  },
+  "metadata": {},
+  "source": {}
+}

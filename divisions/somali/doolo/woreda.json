@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET050702",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bokh",
+      "en": "Bokh",
+      "slug": "bokh"
+    },
+    "code": {
+      "id": "ET050702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.645",
+      "lon": "46.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050701",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Danod",
+      "en": "Danod",
+      "slug": "danod"
+    },
+    "code": {
+      "id": "ET050701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "46.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050788",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daratole",
+      "en": "Daratole",
+      "slug": "daratole"
+    },
+    "code": {
+      "id": "ET050788",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.285",
+      "lon": "45.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050703",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Galadi",
+      "en": "Galadi",
+      "slug": "galadi"
+    },
+    "code": {
+      "id": "ET050703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.994",
+      "lon": "46.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050799",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Galhamur",
+      "en": "Galhamur",
+      "slug": "galhamur"
+    },
+    "code": {
+      "id": "ET050799",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.732",
+      "lon": "47.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050798",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lehel-Yucub",
+      "en": "Lehel-Yucub",
+      "slug": "lehel-yucub"
+    },
+    "code": {
+      "id": "ET050798",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.585",
+      "lon": "45.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050704",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Warder",
+      "en": "Warder",
+      "slug": "warder"
+    },
+    "code": {
+      "id": "ET050704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0507",
+      "level": 2,
+      "name": {
+        "local": "Doolo",
+        "en": "Doolo",
+        "slug": "doolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0507",
+        "level": 2,
+        "name": {
+          "local": "Doolo",
+          "en": "Doolo",
+          "slug": "doolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.863",
+      "lon": "45.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

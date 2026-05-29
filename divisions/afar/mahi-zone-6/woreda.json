@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ET020601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gerani",
+      "en": "Gerani",
+      "slug": "gerani"
+    },
+    "code": {
+      "id": "ET020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0206",
+      "level": 2,
+      "name": {
+        "local": "Mahi /Zone 6",
+        "en": "Mahi /Zone 6",
+        "slug": "mahi-zone-6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0206",
+        "level": 2,
+        "name": {
+          "local": "Mahi /Zone 6",
+          "en": "Mahi /Zone 6",
+          "slug": "mahi-zone-6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "41.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020602",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kilalu",
+      "en": "Kilalu",
+      "slug": "kilalu"
+    },
+    "code": {
+      "id": "ET020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0206",
+      "level": 2,
+      "name": {
+        "local": "Mahi /Zone 6",
+        "en": "Mahi /Zone 6",
+        "slug": "mahi-zone-6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0206",
+        "level": 2,
+        "name": {
+          "local": "Mahi /Zone 6",
+          "en": "Mahi /Zone 6",
+          "slug": "mahi-zone-6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.009",
+      "lon": "40.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sibaybi",
+      "en": "Sibaybi",
+      "slug": "sibaybi"
+    },
+    "code": {
+      "id": "ET020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0206",
+      "level": 2,
+      "name": {
+        "local": "Mahi /Zone 6",
+        "en": "Mahi /Zone 6",
+        "slug": "mahi-zone-6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0206",
+        "level": 2,
+        "name": {
+          "local": "Mahi /Zone 6",
+          "en": "Mahi /Zone 6",
+          "slug": "mahi-zone-6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.443",
+      "lon": "40.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yangudi",
+      "en": "Yangudi",
+      "slug": "yangudi"
+    },
+    "code": {
+      "id": "ET020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0206",
+      "level": 2,
+      "name": {
+        "local": "Mahi /Zone 6",
+        "en": "Mahi /Zone 6",
+        "slug": "mahi-zone-6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0206",
+        "level": 2,
+        "name": {
+          "local": "Mahi /Zone 6",
+          "en": "Mahi /Zone 6",
+          "slug": "mahi-zone-6"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.807",
+      "lon": "40.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

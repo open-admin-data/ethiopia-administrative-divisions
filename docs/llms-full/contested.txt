@@ -1,0 +1,96 @@
+# Contested — Ethiopia Administrative Divisions
+
+> 3 zones, 18 woredas
+> Code: ET99
+> Coordinates: 13.797, 37.274
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Area 1
+
+Code: ET9901, Coordinates: 13.829, 37.098
+Woredas: 9
+
+#### Awra
+
+Code: ET990108, Coordinates: 13.638, 37.128
+
+#### Dansha town
+
+Code: ET990107, Coordinates: 13.53, 36.723
+
+#### Kafta Humera
+
+Code: ET990103, Coordinates: 14.077, 37.022
+
+#### Korarit
+
+Code: ET990102, Coordinates: 13.893, 37.552
+
+#### May Gaba
+
+Code: ET990109, Coordinates: 13.782, 37.696
+
+#### May Kadra
+
+Code: ET990106, Coordinates: 13.905, 36.584
+
+#### Setit Humera town
+
+Code: ET990101, Coordinates: 14.272, 36.616
+
+#### Tsegede
+
+Code: ET990105, Coordinates: 13.442, 37.29
+
+#### Welkait
+
+Code: ET990104, Coordinates: 13.673, 37.421
+
+### Area 2
+
+Code: ET9902, Coordinates: 13.637, 38.145
+Woredas: 3
+
+#### Laelay Tselemti
+
+Code: ET990202, Coordinates: 13.678, 38.357
+
+#### May Tsebri town
+
+Code: ET990203, Coordinates: 13.574, 38.137
+
+#### Tselemti /West Telemt
+
+Code: ET990201, Coordinates: 13.638, 38.009
+
+### Area 3
+
+Code: ET9903, Coordinates: 12.488, 39.527
+Woredas: 6
+
+#### Alamata town
+
+Code: ET990304, Coordinates: 12.418, 39.564
+
+#### Chercher
+
+Code: ET990306, Coordinates: 12.509, 39.754
+
+#### Korem town
+
+Code: ET990303, Coordinates: 12.507, 39.516
+
+#### Ofla
+
+Code: ET990302, Coordinates: 12.551, 39.419
+
+#### Raya Alamata
+
+Code: ET990301, Coordinates: 12.387, 39.513
+
+#### Zata
+
+Code: ET990305, Coordinates: 12.535, 39.263
+

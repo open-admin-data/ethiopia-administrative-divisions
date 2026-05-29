@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET020504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dalefage",
+      "en": "Dalefage",
+      "slug": "dalefage"
+    },
+    "code": {
+      "id": "ET020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0205",
+      "level": 2,
+      "name": {
+        "local": "Hari /Zone 5",
+        "en": "Hari /Zone 5",
+        "slug": "hari-zone-5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0205",
+        "level": 2,
+        "name": {
+          "local": "Hari /Zone 5",
+          "en": "Hari /Zone 5",
+          "slug": "hari-zone-5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.476",
+      "lon": "40.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dawe",
+      "en": "Dawe",
+      "slug": "dawe"
+    },
+    "code": {
+      "id": "ET020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0205",
+      "level": 2,
+      "name": {
+        "local": "Hari /Zone 5",
+        "en": "Hari /Zone 5",
+        "slug": "hari-zone-5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0205",
+        "level": 2,
+        "name": {
+          "local": "Hari /Zone 5",
+          "en": "Hari /Zone 5",
+          "slug": "hari-zone-5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.731",
+      "lon": "40.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020505",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hadelela",
+      "en": "Hadelela",
+      "slug": "hadelela"
+    },
+    "code": {
+      "id": "ET020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0205",
+      "level": 2,
+      "name": {
+        "local": "Hari /Zone 5",
+        "en": "Hari /Zone 5",
+        "slug": "hari-zone-5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0205",
+        "level": 2,
+        "name": {
+          "local": "Hari /Zone 5",
+          "en": "Hari /Zone 5",
+          "slug": "hari-zone-5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.273",
+      "lon": "40.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Samurobi",
+      "en": "Samurobi",
+      "slug": "samurobi"
+    },
+    "code": {
+      "id": "ET020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0205",
+      "level": 2,
+      "name": {
+        "local": "Hari /Zone 5",
+        "en": "Hari /Zone 5",
+        "slug": "hari-zone-5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0205",
+        "level": 2,
+        "name": {
+          "local": "Hari /Zone 5",
+          "en": "Hari /Zone 5",
+          "slug": "hari-zone-5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "40.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Telalek",
+      "en": "Telalek",
+      "slug": "telalek"
+    },
+    "code": {
+      "id": "ET020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0205",
+      "level": 2,
+      "name": {
+        "local": "Hari /Zone 5",
+        "en": "Hari /Zone 5",
+        "slug": "hari-zone-5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0205",
+        "level": 2,
+        "name": {
+          "local": "Hari /Zone 5",
+          "en": "Hari /Zone 5",
+          "slug": "hari-zone-5"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.975",
+      "lon": "40.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

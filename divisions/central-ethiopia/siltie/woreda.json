@@ -1,0 +1,704 @@
+[
+  {
+    "id": "ET072001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Alicho Woriro",
+      "en": "Alicho Woriro",
+      "slug": "alicho-woriro"
+    },
+    "code": {
+      "id": "ET072001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.994",
+      "lon": "38.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072005",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dalocha",
+      "en": "Dalocha",
+      "slug": "dalocha"
+    },
+    "code": {
+      "id": "ET072005",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.765",
+      "lon": "38.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072011",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kibet town",
+      "en": "Kibet town",
+      "slug": "kibet-town"
+    },
+    "code": {
+      "id": "ET072011",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.019",
+      "lon": "38.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072003",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lanfero",
+      "en": "Lanfero",
+      "slug": "lanfero"
+    },
+    "code": {
+      "id": "ET072003",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.815",
+      "lon": "38.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072004",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mierab Azenet Berbere",
+      "en": "Mierab Azenet Berbere",
+      "slug": "mierab-azenet-berbere"
+    },
+    "code": {
+      "id": "ET072004",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.768",
+      "lon": "37.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072007",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Misrak Azenet Berbere",
+      "en": "Misrak Azenet Berbere",
+      "slug": "misrak-azenet-berbere"
+    },
+    "code": {
+      "id": "ET072007",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.8",
+      "lon": "38.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072013",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Misrak Siltie",
+      "en": "Misrak Siltie",
+      "slug": "misrak-siltie"
+    },
+    "code": {
+      "id": "ET072013",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.961",
+      "lon": "38.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072012",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mito",
+      "en": "Mito",
+      "slug": "mito"
+    },
+    "code": {
+      "id": "ET072012",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.726",
+      "lon": "38.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072006",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sankura",
+      "en": "Sankura",
+      "slug": "sankura"
+    },
+    "code": {
+      "id": "ET072006",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.547",
+      "lon": "38.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072002",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Siltie",
+      "en": "Siltie",
+      "slug": "siltie"
+    },
+    "code": {
+      "id": "ET072002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.946",
+      "lon": "38.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072009",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tora town",
+      "en": "Tora town",
+      "slug": "tora-town"
+    },
+    "code": {
+      "id": "ET072009",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.889",
+      "lon": "38.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072010",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Worabe town",
+      "en": "Worabe town",
+      "slug": "worabe-town"
+    },
+    "code": {
+      "id": "ET072010",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.855",
+      "lon": "38.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072008",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wulbareg",
+      "en": "Wulbareg",
+      "slug": "wulbareg"
+    },
+    "code": {
+      "id": "ET072008",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0720",
+      "level": 2,
+      "name": {
+        "local": "Siltie",
+        "en": "Siltie",
+        "slug": "siltie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0720",
+        "level": 2,
+        "name": {
+          "local": "Siltie",
+          "en": "Siltie",
+          "slug": "siltie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.734",
+      "lon": "38.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

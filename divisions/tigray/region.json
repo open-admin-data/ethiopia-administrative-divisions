@@ -1,0 +1,30 @@
+{
+  "id": "ET01",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tigray",
+    "en": "Tigray",
+    "slug": "tigray"
+  },
+  "code": {
+    "id": "ET01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 6,
+    "woreda": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.867",
+    "lon": "38.904"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,335 @@
+# Central Ethiopia — Ethiopia Administrative Divisions
+
+> 10 zones, 69 woredas
+> Code: ET07
+> Coordinates: 7.798, 37.973
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### East Guraghe
+
+Code: ET0704, Coordinates: 8.167, 38.368
+Woredas: 6
+
+#### Bui town
+
+Code: ET070402, Coordinates: 8.322, 38.552
+
+#### Butajira town
+
+Code: ET070401, Coordinates: 8.119, 38.385
+
+#### Debub Sodo
+
+Code: ET070406, Coordinates: 8.178, 38.54
+
+#### Meskan
+
+Code: ET070404, Coordinates: 8.144, 38.317
+
+#### Misrak Meskan
+
+Code: ET070405, Coordinates: 8.104, 38.488
+
+#### Sodo
+
+Code: ET070403, Coordinates: 8.371, 38.503
+
+### Guraghe
+
+Code: ET0701, Coordinates: 8.132, 37.902
+Woredas: 12
+
+#### Abeshege
+
+Code: ET070102, Coordinates: 8.292, 37.615
+
+#### Cheha
+
+Code: ET070110, Coordinates: 8.186, 37.717
+
+#### Emdebir town
+
+Code: ET070116, Coordinates: 8.122, 37.924
+
+#### Endiguagn
+
+Code: ET070108, Coordinates: 7.825, 37.856
+
+#### Enemor Ener
+
+Code: ET070111, Coordinates: 8.069, 37.759
+
+#### Enor Ener
+
+Code: ET070120, Coordinates: 7.927, 37.756
+
+#### Ezha
+
+Code: ET070103, Coordinates: 8.144, 38.036
+
+#### Gedebano Gutazer Welene
+
+Code: ET070104, Coordinates: 8.319, 38.195
+
+#### Geta
+
+Code: ET070113, Coordinates: 7.927, 37.962
+
+#### Gumer
+
+Code: ET070109, Coordinates: 7.987, 38.073
+
+#### Muhur Na Aklil
+
+Code: ET070112, Coordinates: 8.184, 38.19
+
+#### Welkite town
+
+Code: ET070114, Coordinates: 8.289, 37.787
+
+### Hadiya
+
+Code: ET0702, Coordinates: 7.564, 37.731
+Woredas: 17
+
+#### Ameka
+
+Code: ET070215, Coordinates: 7.789, 37.788
+
+#### Analemmo
+
+Code: ET070208, Coordinates: 7.637, 37.985
+
+#### Duna
+
+Code: ET070207, Coordinates: 7.34, 37.663
+
+#### Gibe
+
+Code: ET070210, Coordinates: 7.741, 37.668
+
+#### Gimbichu town
+
+Code: ET070213, Coordinates: 7.448, 37.625
+
+#### Gombora
+
+Code: ET070202, Coordinates: 7.586, 37.621
+
+#### Hosaena town
+
+Code: ET070211, Coordinates: 7.543, 37.846
+
+#### Jajura town
+
+Code: ET070214, Coordinates: 7.459, 37.691
+
+#### Lemmo
+
+Code: ET070203, Coordinates: 7.535, 37.914
+
+#### Mirab Badowach
+
+Code: ET070209, Coordinates: 7.134, 37.816
+
+#### Mirab Soro
+
+Code: ET070217, Coordinates: 7.381, 37.462
+
+#### Misha
+
+Code: ET070201, Coordinates: 7.676, 37.813
+
+#### Misrak Badawacho
+
+Code: ET070205, Coordinates: 7.209, 38.047
+
+#### Shashogo
+
+Code: ET070204, Coordinates: 7.5, 38.034
+
+#### Shone town
+
+Code: ET070212, Coordinates: 7.139, 37.955
+
+#### Siraro Badawacho
+
+Code: ET070216, Coordinates: 7.114, 38.039
+
+#### Soro
+
+Code: ET070206, Coordinates: 7.499, 37.494
+
+### Halaba
+
+Code: ET0714, Coordinates: 7.367, 38.198
+Woredas: 4
+
+#### Atote Ulo
+
+Code: ET071403, Coordinates: 7.339, 38.211
+
+#### Kulito town
+
+Code: ET071401, Coordinates: 7.308, 38.087
+
+#### Wera
+
+Code: ET071402, Coordinates: 7.322, 38.132
+
+#### Wera Djo
+
+Code: ET071404, Coordinates: 7.521, 38.308
+
+### Kebena Special
+
+Code: ET0700, Coordinates: 8.322, 37.909
+Woredas: 1
+
+#### Kebena Special
+
+Code: ET070001, Coordinates: 8.322, 37.909
+
+### Kembata
+
+Code: ET0703, Coordinates: 7.294, 37.83
+Woredas: 10
+
+#### Adilo
+
+Code: ET070309, Coordinates: 7.239, 37.977
+
+#### Angacha
+
+Code: ET070302, Coordinates: 7.359, 37.861
+
+#### Damboya
+
+Code: ET070307, Coordinates: 7.358, 37.957
+
+#### Doyogena
+
+Code: ET070306, Coordinates: 7.387, 37.806
+
+#### Durame town
+
+Code: ET070308, Coordinates: 7.242, 37.897
+
+#### Hadero town
+
+Code: ET070312, Coordinates: 7.193, 37.663
+
+#### Hadero Tunto
+
+Code: ET070305, Coordinates: 7.236, 37.656
+
+#### Kacha Bira
+
+Code: ET070304, Coordinates: 7.236, 37.742
+
+#### Kediada Gambela
+
+Code: ET070303, Coordinates: 7.254, 37.927
+
+#### Shinshincho town
+
+Code: ET070310, Coordinates: 7.204, 37.777
+
+### Mareko Special
+
+Code: ET0725, Coordinates: 7.995, 38.532
+Woredas: 1
+
+#### Mareko Special
+
+Code: ET072501, Coordinates: 7.995, 38.532
+
+### Siltie
+
+Code: ET0720, Coordinates: 7.808, 38.226
+Woredas: 13
+
+#### Alicho Woriro
+
+Code: ET072001, Coordinates: 7.994, 38.179
+
+#### Dalocha
+
+Code: ET072005, Coordinates: 7.765, 38.28
+
+#### Kibet town
+
+Code: ET072011, Coordinates: 8.019, 38.327
+
+#### Lanfero
+
+Code: ET072003, Coordinates: 7.815, 38.425
+
+#### Mierab Azenet Berbere
+
+Code: ET072004, Coordinates: 7.768, 37.932
+
+#### Misrak Azenet Berbere
+
+Code: ET072007, Coordinates: 7.8, 38.024
+
+#### Misrak Siltie
+
+Code: ET072013, Coordinates: 7.961, 38.382
+
+#### Mito
+
+Code: ET072012, Coordinates: 7.726, 38.403
+
+#### Sankura
+
+Code: ET072006, Coordinates: 7.547, 38.169
+
+#### Siltie
+
+Code: ET072002, Coordinates: 7.946, 38.271
+
+#### Tora town
+
+Code: ET072009, Coordinates: 7.889, 38.421
+
+#### Worabe town
+
+Code: ET072010, Coordinates: 7.855, 38.199
+
+#### Wulbareg
+
+Code: ET072008, Coordinates: 7.734, 38.128
+
+### Tembaro Special
+
+Code: ET0726, Coordinates: 7.269, 37.487
+Woredas: 1
+
+#### Tembaro Special
+
+Code: ET072601, Coordinates: 7.269, 37.487
+
+### Yem
+
+Code: ET0724, Coordinates: 7.813, 37.488
+Woredas: 4
+
+#### Deri Saja zuria
+
+Code: ET072403, Coordinates: 7.982, 37.494
+
+#### Fofa
+
+Code: ET072402, Coordinates: 7.85, 37.52
+
+#### Saja town
+
+Code: ET072401, Coordinates: 7.971, 37.438
+
+#### Toba
+
+Code: ET072404, Coordinates: 7.79, 37.493
+

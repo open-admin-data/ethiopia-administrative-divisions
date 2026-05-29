@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET080301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Beto town",
+      "en": "Beto town",
+      "slug": "beto-town"
+    },
+    "code": {
+      "id": "ET080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.057",
+      "lon": "36.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Buleqi town",
+      "en": "Buleqi town",
+      "slug": "buleqi-town"
+    },
+    "code": {
+      "id": "ET080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.276",
+      "lon": "36.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Denba Gofa",
+      "en": "Denba Gofa",
+      "slug": "denba-gofa"
+    },
+    "code": {
+      "id": "ET080303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.464",
+      "lon": "37.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gezei Gofa",
+      "en": "Gezei Gofa",
+      "slug": "gezei-gofa"
+    },
+    "code": {
+      "id": "ET080304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.359",
+      "lon": "36.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Laha town",
+      "en": "Laha town",
+      "slug": "laha-town"
+    },
+    "code": {
+      "id": "ET080305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.468",
+      "lon": "36.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Melekoza",
+      "en": "Melekoza",
+      "slug": "melekoza"
+    },
+    "code": {
+      "id": "ET080306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.515",
+      "lon": "36.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Melo Gada",
+      "en": "Melo Gada",
+      "slug": "melo-gada"
+    },
+    "code": {
+      "id": "ET080307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.601",
+      "lon": "36.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "O'yida",
+      "en": "O'yida",
+      "slug": "oyida"
+    },
+    "code": {
+      "id": "ET080308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.194",
+      "lon": "36.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sawla town",
+      "en": "Sawla town",
+      "slug": "sawla-town"
+    },
+    "code": {
+      "id": "ET080309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.294",
+      "lon": "36.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Uba Debre Tsehay",
+      "en": "Uba Debre Tsehay",
+      "slug": "uba-debre-tsehay"
+    },
+    "code": {
+      "id": "ET080310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.027",
+      "lon": "36.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080311",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zala",
+      "en": "Zala",
+      "slug": "zala"
+    },
+    "code": {
+      "id": "ET080311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0803",
+      "level": 2,
+      "name": {
+        "local": "Gofa",
+        "en": "Gofa",
+        "slug": "gofa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0803",
+        "level": 2,
+        "name": {
+          "local": "Gofa",
+          "en": "Gofa",
+          "slug": "gofa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.291",
+      "lon": "37.084"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

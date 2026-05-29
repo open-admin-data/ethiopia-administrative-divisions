@@ -1,0 +1,47 @@
+{
+  "id": "ET0809",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Konso",
+    "en": "Konso",
+    "slug": "konso"
+  },
+  "code": {
+    "id": "ET0809",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.355",
+    "lon": "37.369"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ET0419",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Horo Gudru Wellega",
+    "en": "Horo Gudru Wellega",
+    "slug": "horo-gudru-wellega"
+  },
+  "code": {
+    "id": "ET0419",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.71",
+    "lon": "37.197"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,519 @@
+[
+  {
+    "id": "ET0508",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Afder",
+      "en": "Afder",
+      "slug": "afder"
+    },
+    "code": {
+      "id": "ET0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.322",
+      "lon": "42.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0511",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Daawa",
+      "en": "Daawa",
+      "slug": "daawa"
+    },
+    "code": {
+      "id": "ET0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.214",
+      "lon": "39.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0507",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Doolo",
+      "en": "Doolo",
+      "slug": "doolo"
+    },
+    "code": {
+      "id": "ET0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.237",
+      "lon": "46.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0504",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Erer",
+      "en": "Erer",
+      "slug": "erer"
+    },
+    "code": {
+      "id": "ET0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.875",
+      "lon": "42.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0502",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Fafan",
+      "en": "Fafan",
+      "slug": "fafan"
+    },
+    "code": {
+      "id": "ET0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.152",
+      "lon": "43.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0503",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Jarar",
+      "en": "Jarar",
+      "slug": "jarar"
+    },
+    "code": {
+      "id": "ET0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.131",
+      "lon": "44.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0505",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Korahe",
+      "en": "Korahe",
+      "slug": "korahe"
+    },
+    "code": {
+      "id": "ET0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.447",
+      "lon": "44.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0509",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Liban",
+      "en": "Liban",
+      "slug": "liban"
+    },
+    "code": {
+      "id": "ET0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.916",
+      "lon": "40.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0510",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Nogob",
+      "en": "Nogob",
+      "slug": "nogob"
+    },
+    "code": {
+      "id": "ET0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.133",
+      "lon": "42.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0506",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Shabelle",
+      "en": "Shabelle",
+      "slug": "shabelle"
+    },
+    "code": {
+      "id": "ET0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.801",
+      "lon": "43.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0501",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Siti",
+      "en": "Siti",
+      "slug": "siti"
+    },
+    "code": {
+      "id": "ET0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.25",
+      "lon": "41.834"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1515 @@
+# Oromia — Ethiopia Administrative Divisions
+
+> 22 zones, 349 woredas
+> Code: ET04
+> Coordinates: 7.525, 40.766
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Arsi
+
+Code: ET0408, Coordinates: 7.937, 39.682
+Woredas: 28
+
+#### Amigna
+
+Code: ET040810, Coordinates: 7.958, 40.187
+
+#### Aseko
+
+Code: ET040802, Coordinates: 8.531, 40.06
+
+#### Asela town
+
+Code: ET040825, Coordinates: 7.937, 39.134
+
+#### Bele Gesgar
+
+Code: ET040823, Coordinates: 7.683, 39.976
+
+#### Bokoji town
+
+Code: ET040894, Coordinates: 7.529, 39.248
+
+#### Chole
+
+Code: ET040809, Coordinates: 8.133, 39.901
+
+#### Degeluna Tijo
+
+Code: ET040815, Coordinates: 7.75, 39.307
+
+#### Dera town
+
+Code: ET040895, Coordinates: 8.32, 39.316
+
+#### Diksis
+
+Code: ET040822, Coordinates: 8.043, 39.563
+
+#### Dodota
+
+Code: ET040805, Coordinates: 8.248, 39.297
+
+#### Golocha
+
+Code: ET040803, Coordinates: 8.216, 40.156
+
+#### Guna
+
+Code: ET040819, Coordinates: 8.329, 39.913
+
+#### Hitosa
+
+Code: ET040807, Coordinates: 8.071, 39.243
+
+#### Inkolo Wabe
+
+Code: ET040824, Coordinates: 7.424, 39.447
+
+#### Jeju
+
+Code: ET040804, Coordinates: 8.359, 39.657
+
+#### Limu Bilbilo
+
+Code: ET040818, Coordinates: 7.43, 39.271
+
+#### Lude Hitosa
+
+Code: ET040821, Coordinates: 8.097, 39.406
+
+#### Merti
+
+Code: ET040801, Coordinates: 8.529, 39.839
+
+#### Munessa
+
+Code: ET040817, Coordinates: 7.525, 38.983
+
+#### Robe
+
+Code: ET040812, Coordinates: 7.672, 39.8
+
+#### Seru
+
+Code: ET040811, Coordinates: 7.724, 40.346
+
+#### Shanan Kolu
+
+Code: ET040893, Coordinates: 8.45, 40.235
+
+#### Shirka
+
+Code: ET040814, Coordinates: 7.571, 39.577
+
+#### Sire
+
+Code: ET040820, Coordinates: 8.298, 39.502
+
+#### Sude
+
+Code: ET040808, Coordinates: 8.011, 39.81
+
+#### Tena
+
+Code: ET040813, Coordinates: 7.791, 39.505
+
+#### Tiyo
+
+Code: ET040816, Coordinates: 7.861, 39.132
+
+#### Ziway Dugda
+
+Code: ET040806, Coordinates: 8.009, 38.975
+
+### Bale
+
+Code: ET0411, Coordinates: 6.609, 40.149
+Woredas: 12
+
+#### Agarfa
+
+Code: ET041104, Coordinates: 7.319, 39.784
+
+#### Berbere
+
+Code: ET041114, Coordinates: 6.712, 40.165
+
+#### Dinsho
+
+Code: ET041122, Coordinates: 7.077, 39.771
+
+#### Gasera
+
+Code: ET041106, Coordinates: 7.382, 40.153
+
+#### Goba (OR)
+
+Code: ET041110, Coordinates: 6.857, 39.897
+
+#### Goba town
+
+Code: ET041120, Coordinates: 7.024, 39.973
+
+#### Goro (Bale)
+
+Code: ET041116, Coordinates: 6.993, 40.493
+
+#### Gura Damole
+
+Code: ET041115, Coordinates: 6.294, 40.573
+
+#### Harena Buluk
+
+Code: ET041111, Coordinates: 6.41, 39.542
+
+#### Mena (Bale)
+
+Code: ET041112, Coordinates: 6.267, 40.047
+
+#### Robe town
+
+Code: ET041119, Coordinates: 7.125, 40.025
+
+#### Sinana
+
+Code: ET041109, Coordinates: 7.128, 40.129
+
+### Borena
+
+Code: ET0412, Coordinates: 4.428, 37.982
+Woredas: 11
+
+#### Dilo
+
+Code: ET041219, Coordinates: 4.199, 37.774
+
+#### Dire
+
+Code: ET041211, Coordinates: 3.962, 38.217
+
+#### Dubluk
+
+Code: ET041291, Coordinates: 4.435, 38.137
+
+#### Elwaya
+
+Code: ET041295, Coordinates: 4.921, 37.722
+
+#### Gomole
+
+Code: ET041223, Coordinates: 5.171, 38.326
+
+#### Guchi
+
+Code: ET041290, Coordinates: 3.946, 39.135
+
+#### Miyo
+
+Code: ET041216, Coordinates: 3.843, 38.564
+
+#### Moyale (OR)
+
+Code: ET041210, Coordinates: 3.667, 39.124
+
+#### Teltale
+
+Code: ET041212, Coordinates: 4.744, 37.12
+
+#### Yabelo
+
+Code: ET041207, Coordinates: 4.773, 38.171
+
+#### Yabelo town
+
+Code: ET041296, Coordinates: 4.892, 38.106
+
+### Buno Bedele
+
+Code: ET0416, Coordinates: 8.486, 36.327
+Woredas: 10
+
+#### Bedele town
+
+Code: ET041621, Coordinates: 8.452, 36.349
+
+#### Bedele Zuria
+
+Code: ET041622, Coordinates: 8.497, 36.405
+
+#### Borecha
+
+Code: ET041607, Coordinates: 8.307, 36.652
+
+#### Chora (Buno Bedele)
+
+Code: ET041603, Coordinates: 8.391, 36.139
+
+#### Chwaka
+
+Code: ET041623, Coordinates: 8.892, 36.134
+
+#### Dabo Hana
+
+Code: ET041605, Coordinates: 8.706, 36.289
+
+#### Dedesa
+
+Code: ET041608, Coordinates: 8.132, 36.539
+
+#### Dega
+
+Code: ET041604, Coordinates: 8.597, 36.137
+
+#### Gechi
+
+Code: ET041606, Coordinates: 8.364, 36.481
+
+#### Meko
+
+Code: ET041618, Coordinates: 8.737, 35.996
+
+### East Bale
+
+Code: ET0421, Coordinates: 7.237, 41.257
+Woredas: 7
+
+#### Dawe Ketchen
+
+Code: ET042106, Coordinates: 6.653, 40.827
+
+#### Ginir
+
+Code: ET042103, Coordinates: 6.992, 40.893
+
+#### Ginir town
+
+Code: ET042107, Coordinates: 7.138, 40.733
+
+#### Gololcha Bale
+
+Code: ET042101, Coordinates: 7.539, 40.61
+
+#### Lege Hida
+
+Code: ET042102, Coordinates: 7.866, 41.406
+
+#### Rayitu
+
+Code: ET042104, Coordinates: 6.8, 41.463
+
+#### Seweyna
+
+Code: ET042105, Coordinates: 7.259, 41.481
+
+### East Borena
+
+Code: ET0422, Coordinates: 4.546, 39.023
+Woredas: 9
+
+#### Arero
+
+Code: ET042207, Coordinates: 4.848, 38.867
+
+#### Dhas
+
+Code: ET042209, Coordinates: 4.18, 38.927
+
+#### Gora Dola
+
+Code: ET042205, Coordinates: 5.528, 39.42
+
+#### Gumi Idalo
+
+Code: ET042206, Coordinates: 4.929, 39.547
+
+#### Liben
+
+Code: ET042202, Coordinates: 5.282, 39.64
+
+#### Meda Welabu
+
+Code: ET042203, Coordinates: 5.607, 40.231
+
+#### Negele town
+
+Code: ET042201, Coordinates: 5.338, 39.584
+
+#### Wachile
+
+Code: ET042208, Coordinates: 4.485, 39.407
+
+#### West Welabu
+
+Code: ET042204, Coordinates: 6.035, 39.466
+
+### East Hararge
+
+Code: ET0410, Coordinates: 8.844, 42.003
+Woredas: 24
+
+#### Babile (OR)
+
+Code: ET041004, Coordinates: 8.748, 42.571
+
+#### Babile town
+
+Code: ET041000, Coordinates: 9.224, 42.333
+
+#### Bedeno
+
+Code: ET041013, Coordinates: 9.064, 41.639
+
+#### Chinaksen
+
+Code: ET041015, Coordinates: 9.599, 42.57
+
+#### Deder
+
+Code: ET041011, Coordinates: 9.215, 41.437
+
+#### Deder town
+
+Code: ET041097, Coordinates: 9.309, 41.437
+
+#### Fedis
+
+Code: ET041005, Coordinates: 9.064, 42.127
+
+#### Girawa
+
+Code: ET041016, Coordinates: 9.029, 41.866
+
+#### Golo Oda
+
+Code: ET041017, Coordinates: 8.758, 41.631
+
+#### Goro Gutu
+
+Code: ET041010, Coordinates: 9.407, 41.339
+
+#### Goro Muti
+
+Code: ET041089, Coordinates: 9.216, 41.557
+
+#### Gursum (OR)
+
+Code: ET041003, Coordinates: 9.316, 42.448
+
+#### Haro Maya
+
+Code: ET041006, Coordinates: 9.271, 41.973
+
+#### Jarso (East Hararge)
+
+Code: ET041002, Coordinates: 9.554, 42.291
+
+#### Kersa (East Hararge)
+
+Code: ET041008, Coordinates: 9.381, 41.8
+
+#### Kombolcha
+
+Code: ET041001, Coordinates: 9.472, 42.153
+
+#### Kumbi
+
+Code: ET041098, Coordinates: 7.929, 41.718
+
+#### Kurfa Chele
+
+Code: ET041007, Coordinates: 9.23, 41.872
+
+#### Maya town
+
+Code: ET041019, Coordinates: 9.407, 42.003
+
+#### Mekanisa Oromo
+
+Code: ET041020, Coordinates: 9.624, 42.847
+
+#### Melka Balo
+
+Code: ET041012, Coordinates: 8.897, 41.328
+
+#### Meta
+
+Code: ET041009, Coordinates: 9.404, 41.61
+
+#### Meyu Muleke
+
+Code: ET041018, Coordinates: 8.502, 41.883
+
+#### Midhaga Tola
+
+Code: ET041014, Coordinates: 8.758, 42.206
+
+### East Shewa
+
+Code: ET0407, Coordinates: 8.502, 39.157
+Woredas: 16
+
+#### Ada&#39;a
+
+Code: ET040706, Coordinates: 8.843, 39.092
+
+#### Adama
+
+Code: ET040703, Coordinates: 8.317, 39.213
+
+#### Adama town
+
+Code: ET040714, Coordinates: 8.491, 39.279
+
+#### Adama Tulu Jido Kombolcha
+
+Code: ET040708, Coordinates: 7.757, 38.659
+
+#### Akaki
+
+Code: ET040712, Coordinates: 8.68, 38.768
+
+#### Batu town
+
+Code: ET040798, Coordinates: 7.924, 38.699
+
+#### Bishoftu town
+
+Code: ET040709, Coordinates: 8.756, 38.959
+
+#### Bora (OR)
+
+Code: ET040710, Coordinates: 8.314, 38.925
+
+#### Boset
+
+Code: ET040702, Coordinates: 8.642, 39.545
+
+#### Dugda
+
+Code: ET040707, Coordinates: 8.177, 38.765
+
+#### Fentale
+
+Code: ET040701, Coordinates: 8.919, 39.879
+
+#### Gimbichu
+
+Code: ET040705, Coordinates: 8.999, 39.188
+
+#### Liben Chukala
+
+Code: ET040711, Coordinates: 8.504, 38.889
+
+#### Lome (OR)
+
+Code: ET040704, Coordinates: 8.617, 39.209
+
+#### Metehara town
+
+Code: ET040799, Coordinates: 8.898, 39.921
+
+#### Mojo town
+
+Code: ET040797, Coordinates: 8.589, 39.123
+
+### East Wellega
+
+Code: ET0402, Coordinates: 9.405, 36.617
+Woredas: 18
+
+#### Bila Seyo
+
+Code: ET040207, Coordinates: 9.392, 36.934
+
+#### Boneya Boshe
+
+Code: ET040205, Coordinates: 8.916, 37.039
+
+#### Diga
+
+Code: ET040210, Coordinates: 9.049, 36.318
+
+#### Gida Ayana
+
+Code: ET040203, Coordinates: 9.906, 36.646
+
+#### Gobu Seyo
+
+Code: ET040208, Coordinates: 9.165, 36.976
+
+#### Guto Gida
+
+Code: ET040213, Coordinates: 9.197, 36.665
+
+#### Haro Limu
+
+Code: ET040204, Coordinates: 9.817, 36.254
+
+#### Ibantu
+
+Code: ET040202, Coordinates: 10.071, 36.445
+
+#### Jimma Arjo
+
+Code: ET040214, Coordinates: 8.72, 36.463
+
+#### Kiremu
+
+Code: ET040217, Coordinates: 10.06, 36.81
+
+#### Leka Dulecha
+
+Code: ET040212, Coordinates: 8.902, 36.465
+
+#### Limu (OR)
+
+Code: ET040201, Coordinates: 9.715, 36.461
+
+#### Nekemte town
+
+Code: ET040297, Coordinates: 9.084, 36.547
+
+#### Nunu Kumba
+
+Code: ET040215, Coordinates: 8.713, 36.72
+
+#### Sasiga
+
+Code: ET040211, Coordinates: 9.228, 36.382
+
+#### Sibu Sire
+
+Code: ET040209, Coordinates: 9.138, 36.887
+
+#### Wama Hagalo
+
+Code: ET040216, Coordinates: 8.797, 36.892
+
+#### Wayu Tuka
+
+Code: ET040206, Coordinates: 9.017, 36.624
+
+### Guji
+
+Code: ET0414, Coordinates: 5.833, 38.934
+Woredas: 14
+
+#### Adola
+
+Code: ET041403, Coordinates: 5.913, 39.102
+
+#### Adola town
+
+Code: ET041492, Coordinates: 5.883, 38.984
+
+#### Aga Wayu
+
+Code: ET041482, Coordinates: 5.489, 38.784
+
+#### Ana Sora
+
+Code: ET041411, Coordinates: 6.237, 38.783
+
+#### Arda Jila
+
+Code: ET041409, Coordinates: 6.087, 38.782
+
+#### Bore
+
+Code: ET041402, Coordinates: 6.365, 38.619
+
+#### Dama
+
+Code: ET041408, Coordinates: 6.261, 38.523
+
+#### Girja /Harenfema
+
+Code: ET041410, Coordinates: 6.137, 39.193
+
+#### Haro Walabu
+
+Code: ET041490, Coordinates: 6.114, 38.449
+
+#### Odo Shakiso
+
+Code: ET041405, Coordinates: 5.761, 38.818
+
+#### Saba Boru
+
+Code: ET041412, Coordinates: 5.395, 39.059
+
+#### Shakiso town
+
+Code: ET041499, Coordinates: 5.772, 38.911
+
+#### Uraga
+
+Code: ET041401, Coordinates: 6.058, 38.622
+
+#### Wadera
+
+Code: ET041404, Coordinates: 5.846, 39.287
+
+### Horo Gudru Wellega
+
+Code: ET0419, Coordinates: 9.71, 37.197
+Woredas: 13
+
+#### Ababo
+
+Code: ET041904, Coordinates: 9.78, 37.549
+
+#### Abay Chomen
+
+Code: ET041905, Coordinates: 9.634, 37.282
+
+#### Abe Dongoro
+
+Code: ET041910, Coordinates: 9.6, 36.835
+
+#### Amuru
+
+Code: ET041909, Coordinates: 10.121, 37.008
+
+#### Choman Guduru
+
+Code: ET041911, Coordinates: 9.382, 37.326
+
+#### Guduru
+
+Code: ET041903, Coordinates: 9.46, 37.541
+
+#### Horo
+
+Code: ET041901, Coordinates: 9.592, 37.15
+
+#### Horo Buluk
+
+Code: ET041912, Coordinates: 9.699, 37.122
+
+#### Jarte Jardega
+
+Code: ET041908, Coordinates: 9.904, 37.113
+
+#### Jimma Genete
+
+Code: ET041906, Coordinates: 9.388, 37.142
+
+#### Jimma Rare
+
+Code: ET041907, Coordinates: 9.252, 37.341
+
+#### Shambu town
+
+Code: ET041902, Coordinates: 9.568, 37.103
+
+#### Sulula Finca&#39;a
+
+Code: ET041913, Coordinates: 9.815, 37.375
+
+### Ilu Aba Bora
+
+Code: ET0403, Coordinates: 8.264, 35.481
+Woredas: 14
+
+#### Ale
+
+Code: ET040311, Coordinates: 8.122, 35.518
+
+#### Alge Sachi
+
+Code: ET040302, Coordinates: 8.594, 35.78
+
+#### Becho (Ilu Aba Bora)
+
+Code: ET040314, Coordinates: 8.091, 35.71
+
+#### Bilo Nopha
+
+Code: ET040315, Coordinates: 8.43, 35.53
+
+#### Bure (OR)
+
+Code: ET040312, Coordinates: 8.328, 35.128
+
+#### Darimu
+
+Code: ET040301, Coordinates: 8.619, 35.378
+
+#### Didu
+
+Code: ET040317, Coordinates: 7.937, 35.545
+
+#### Dorani
+
+Code: ET040324, Coordinates: 8.449, 35.82
+
+#### Halu /Huka
+
+Code: ET040319, Coordinates: 8.182, 35.348
+
+#### Hurumu
+
+Code: ET040316, Coordinates: 8.147, 35.855
+
+#### Metu town
+
+Code: ET040320, Coordinates: 8.307, 35.579
+
+#### Metu Zuria
+
+Code: ET040310, Coordinates: 8.353, 35.422
+
+#### Sale Nono
+
+Code: ET040313, Coordinates: 7.889, 35.188
+
+#### Yayu
+
+Code: ET040309, Coordinates: 8.272, 35.939
+
+### Jimma
+
+Code: ET0404, Coordinates: 7.673, 36.736
+Woredas: 22
+
+#### Agaro town
+
+Code: ET040417, Coordinates: 7.856, 36.597
+
+#### Botor Tolay
+
+Code: ET040495, Coordinates: 8.281, 37.327
+
+#### Chora (Jimma)
+
+Code: ET040415, Coordinates: 8.277, 37.082
+
+#### Dedo
+
+Code: ET040410, Coordinates: 7.439, 36.84
+
+#### Gera
+
+Code: ET040408, Coordinates: 7.697, 36.242
+
+#### Goma
+
+Code: ET040407, Coordinates: 7.81, 36.505
+
+#### Gumay
+
+Code: ET040416, Coordinates: 7.971, 36.431
+
+#### Jimma town
+
+Code: ET040418, Coordinates: 7.664, 36.83
+
+#### Kersa (Jimma)
+
+Code: ET040405, Coordinates: 7.778, 37.033
+
+#### Limu Kosa
+
+Code: ET040402, Coordinates: 8.028, 36.957
+
+#### Limu Seka
+
+Code: ET040401, Coordinates: 8.4, 36.884
+
+#### Mancho
+
+Code: ET040490, Coordinates: 7.388, 37.039
+
+#### Mena (Jimma)
+
+Code: ET040406, Coordinates: 7.781, 36.76
+
+#### Nono Benja
+
+Code: ET040499, Coordinates: 8.668, 37.089
+
+#### Omo Beyam
+
+Code: ET040491, Coordinates: 7.452, 37.269
+
+#### Omo Nada
+
+Code: ET040411, Coordinates: 7.637, 37.202
+
+#### Seka Chekorsa
+
+Code: ET040409, Coordinates: 7.537, 36.705
+
+#### Sekoru
+
+Code: ET040403, Coordinates: 8.115, 37.508
+
+#### Setema
+
+Code: ET040413, Coordinates: 8.064, 36.215
+
+#### Shebe Sambo
+
+Code: ET040414, Coordinates: 7.518, 36.462
+
+#### Sigmo
+
+Code: ET040412, Coordinates: 7.923, 36.019
+
+#### Tiro Afeta
+
+Code: ET040404, Coordinates: 7.96, 37.254
+
+### Kelem Wellega
+
+Code: ET0418, Coordinates: 8.813, 34.783
+Woredas: 12
+
+#### Anfilo
+
+Code: ET041807, Coordinates: 8.603, 34.526
+
+#### Dale Sadi
+
+Code: ET041808, Coordinates: 8.931, 35.201
+
+#### Dale Wabera
+
+Code: ET041803, Coordinates: 9.025, 35.061
+
+#### Denbi Dollo town
+
+Code: ET041806, Coordinates: 8.533, 34.801
+
+#### Gawo Kebe
+
+Code: ET041804, Coordinates: 9.148, 34.934
+
+#### Gidami
+
+Code: ET041809, Coordinates: 8.853, 34.422
+
+#### Hawa Galan
+
+Code: ET041801, Coordinates: 8.627, 34.992
+
+#### Jimma Horo
+
+Code: ET041810, Coordinates: 9.015, 34.758
+
+#### Lalo Kile
+
+Code: ET041811, Coordinates: 8.863, 35.331
+
+#### Sayo
+
+Code: ET041805, Coordinates: 8.442, 34.821
+
+#### Sedi Chenka
+
+Code: ET041812, Coordinates: 8.796, 35.088
+
+#### Yama Logi Welel
+
+Code: ET041802, Coordinates: 8.807, 34.859
+
+### North Shewa (OR)
+
+Code: ET0406, Coordinates: 9.692, 38.717
+Woredas: 21
+
+#### Abichugna Gne&#39;a
+
+Code: ET040609, Coordinates: 9.609, 39.233
+
+#### Aleltu
+
+Code: ET040617, Coordinates: 9.213, 39.131
+
+#### Bereh
+
+Code: ET040619, Coordinates: 9.236, 38.921
+
+#### Chancho town
+
+Code: ET040621, Coordinates: 9.299, 38.746
+
+#### Debre Libanos
+
+Code: ET040607, Coordinates: 9.66, 38.853
+
+#### Degem
+
+Code: ET040605, Coordinates: 9.815, 38.601
+
+#### Dera (OR)
+
+Code: ET040602, Coordinates: 10.213, 38.633
+
+#### Fiche town
+
+Code: ET040613, Coordinates: 9.788, 38.737
+
+#### Garba Guracha
+
+Code: ET040616, Coordinates: 9.809, 38.416
+
+#### Gerar Jarso
+
+Code: ET040606, Coordinates: 9.834, 38.772
+
+#### Hidabu Abote
+
+Code: ET040603, Coordinates: 9.959, 38.516
+
+#### Jida
+
+Code: ET040615, Coordinates: 9.399, 39.003
+
+#### Kimbibit
+
+Code: ET040610, Coordinates: 9.402, 39.229
+
+#### Kuyu
+
+Code: ET040604, Coordinates: 9.748, 38.305
+
+#### Mulo
+
+Code: ET040622, Coordinates: 9.286, 38.574
+
+#### Sendafa town
+
+Code: ET040623, Coordinates: 9.159, 39.02
+
+#### Sheno town
+
+Code: ET040611, Coordinates: 9.299, 39.253
+
+#### Sululta (OR)
+
+Code: ET040620, Coordinates: 9.386, 38.863
+
+#### Wara Jarso
+
+Code: ET040601, Coordinates: 9.954, 38.218
+
+#### Wuchale
+
+Code: ET040608, Coordinates: 9.524, 38.775
+
+#### Yaya Gulele
+
+Code: ET040614, Coordinates: 9.593, 38.622
+
+### Shager City
+
+Code: ET0420, Coordinates: 8.822, 38.759
+Woredas: 12
+
+#### Burayu
+
+Code: ET042001, Coordinates: 9.079, 38.668
+
+#### Eka Tafo
+
+Code: ET042002, Coordinates: 9.113, 38.874
+
+#### Furi
+
+Code: ET042003, Coordinates: 8.949, 38.656
+
+#### Galan
+
+Code: ET042004, Coordinates: 8.827, 38.74
+
+#### Galan Gudo
+
+Code: ET042005, Coordinates: 8.853, 38.674
+
+#### Gefersa Guje
+
+Code: ET042006, Coordinates: 9.072, 38.592
+
+#### Koye
+
+Code: ET042007, Coordinates: 8.896, 38.91
+
+#### Kura Jida
+
+Code: ET042008, Coordinates: 9.046, 38.96
+
+#### Mana Abichu
+
+Code: ET042009, Coordinates: 9.12, 38.683
+
+#### Melka Nonno
+
+Code: ET042010, Coordinates: 9.022, 38.639
+
+#### Sebeta
+
+Code: ET042011, Coordinates: 8.9, 38.58
+
+#### Sululta
+
+Code: ET042012, Coordinates: 9.164, 38.796
+
+### South West Shewa
+
+Code: ET0413, Coordinates: 8.593, 38.172
+Woredas: 13
+
+#### Ameya
+
+Code: ET041301, Coordinates: 8.558, 37.695
+
+#### Becho (SW Shewa)
+
+Code: ET041309, Coordinates: 8.659, 38.245
+
+#### Dawo
+
+Code: ET041304, Coordinates: 8.772, 38.109
+
+#### Goro (SW Shewa)
+
+Code: ET041312, Coordinates: 8.411, 37.853
+
+#### Ilu
+
+Code: ET041305, Coordinates: 8.822, 38.335
+
+#### Kersana Malima
+
+Code: ET041307, Coordinates: 8.568, 38.519
+
+#### Sebeta Hawas
+
+Code: ET041306, Coordinates: 8.752, 38.583
+
+#### Seden Sodo
+
+Code: ET041310, Coordinates: 8.426, 38.291
+
+#### Sodo Daci
+
+Code: ET041314, Coordinates: 8.479, 38.651
+
+#### Tole
+
+Code: ET041308, Coordinates: 8.621, 38.392
+
+#### Waliso
+
+Code: ET041303, Coordinates: 8.548, 38.039
+
+#### Wenchi
+
+Code: ET041302, Coordinates: 8.672, 37.888
+
+#### Woliso town
+
+Code: ET041311, Coordinates: 8.542, 37.978
+
+### West Arsi
+
+Code: ET0417, Coordinates: 7.059, 38.98
+Woredas: 17
+
+#### Adaba
+
+Code: ET041710, Coordinates: 6.989, 39.53
+
+#### Arsi Negele
+
+Code: ET041703, Coordinates: 7.452, 38.652
+
+#### Arsi Negele town
+
+Code: ET041799, Coordinates: 7.342, 38.672
+
+#### Dodola
+
+Code: ET041707, Coordinates: 6.888, 39.152
+
+#### Dodola town
+
+Code: ET041700, Coordinates: 6.979, 39.181
+
+#### Gedeb Asasa
+
+Code: ET041706, Coordinates: 7.183, 39.172
+
+#### Heban Arsi
+
+Code: ET041783, Coordinates: 7.558, 38.798
+
+#### Kofele
+
+Code: ET041704, Coordinates: 7.021, 38.865
+
+#### Kofele town
+
+Code: ET041713, Coordinates: 7.073, 38.786
+
+#### Kokosa
+
+Code: ET041708, Coordinates: 6.791, 38.81
+
+#### Kore
+
+Code: ET041705, Coordinates: 7.225, 38.93
+
+#### Nenesebo
+
+Code: ET041709, Coordinates: 6.583, 39.206
+
+#### Shala
+
+Code: ET041702, Coordinates: 7.351, 38.398
+
+#### Shashemene
+
+Code: ET041712, Coordinates: 7.276, 38.523
+
+#### Shashemene town
+
+Code: ET041711, Coordinates: 7.185, 38.544
+
+#### Siraro
+
+Code: ET041701, Coordinates: 7.129, 38.19
+
+#### Wondo
+
+Code: ET041797, Coordinates: 7.079, 38.673
+
+### West Guji
+
+Code: ET0415, Coordinates: 5.575, 38.317
+Woredas: 11
+
+#### Abaya
+
+Code: ET041513, Coordinates: 6.355, 38.017
+
+#### Birbirsa Kojowa
+
+Code: ET041596, Coordinates: 5.734, 38.57
+
+#### Bule Hora
+
+Code: ET041501, Coordinates: 5.649, 38.316
+
+#### Bule Hora town
+
+Code: ET041587, Coordinates: 5.643, 38.233
+
+#### Dugda Dawa
+
+Code: ET041515, Coordinates: 5.398, 38.127
+
+#### Gelana (West Guji)
+
+Code: ET041517, Coordinates: 5.988, 38.004
+
+#### Hambela Wamena
+
+Code: ET041509, Coordinates: 6.012, 38.38
+
+#### Kercha
+
+Code: ET041502, Coordinates: 5.719, 38.43
+
+#### Kercha town
+
+Code: ET041503, Coordinates: 5.78, 38.411
+
+#### Melka Soda
+
+Code: ET041518, Coordinates: 5.413, 38.618
+
+#### Suro Berguda
+
+Code: ET041594, Coordinates: 5.555, 38.054
+
+### West Hararge
+
+Code: ET0409, Coordinates: 8.67, 40.773
+Woredas: 17
+
+#### Anchar
+
+Code: ET040906, Coordinates: 8.714, 40.202
+
+#### Bedesa town
+
+Code: ET040914, Coordinates: 8.905, 40.775
+
+#### Boke
+
+Code: ET040910, Coordinates: 8.613, 40.748
+
+#### Burqua Dhintu
+
+Code: ET040998, Coordinates: 8.306, 41.14
+
+#### Chiro town
+
+Code: ET040905, Coordinates: 9.079, 40.867
+
+#### Chiro Zuria
+
+Code: ET040913, Coordinates: 9.057, 40.739
+
+#### Daro Lebu
+
+Code: ET040909, Coordinates: 8.465, 40.469
+
+#### Doba
+
+Code: ET040902, Coordinates: 9.327, 41.08
+
+#### Gemechis
+
+Code: ET040912, Coordinates: 8.858, 40.984
+
+#### Goba Koricha
+
+Code: ET040907, Coordinates: 8.97, 40.612
+
+#### Gumbi Bordede
+
+Code: ET040991, Coordinates: 9.011, 40.365
+
+#### Habro
+
+Code: ET040908, Coordinates: 8.754, 40.512
+
+#### Hawi Gudina
+
+Code: ET040915, Coordinates: 8.129, 40.705
+
+#### Kuni /Oda Bultum
+
+Code: ET040911, Coordinates: 8.579, 41.123
+
+#### Mesela /Shen Duggoo
+
+Code: ET040904, Coordinates: 8.987, 41.178
+
+#### Mieso
+
+Code: ET040901, Coordinates: 9.275, 40.685
+
+#### Tulo (OR)
+
+Code: ET040903, Coordinates: 9.177, 41.123
+
+### West Shewa
+
+Code: ET0405, Coordinates: 9.171, 37.842
+Woredas: 25
+
+#### Abuna Ginde Beret
+
+Code: ET040516, Coordinates: 9.668, 37.982
+
+#### Adda Berga
+
+Code: ET040513, Coordinates: 9.428, 38.417
+
+#### Ambo town
+
+Code: ET040515, Coordinates: 8.979, 37.861
+
+#### Ambo Zuria
+
+Code: ET040503, Coordinates: 9.045, 37.857
+
+#### Bako Tibe
+
+Code: ET040506, Coordinates: 9.096, 37.154
+
+#### Cheliya
+
+Code: ET040505, Coordinates: 9.023, 37.458
+
+#### Cobi
+
+Code: ET040592, Coordinates: 9.362, 37.862
+
+#### Dano
+
+Code: ET040507, Coordinates: 8.755, 37.29
+
+#### Dendi
+
+Code: ET040510, Coordinates: 8.972, 38.091
+
+#### Ejere /Addis Alem
+
+Code: ET040511, Coordinates: 9.068, 38.363
+
+#### Ejersa Lafo
+
+Code: ET040590, Coordinates: 9.015, 38.255
+
+#### Ginde Beret
+
+Code: ET040501, Coordinates: 9.637, 37.752
+
+#### Holeta town
+
+Code: ET040512, Coordinates: 9.063, 38.499
+
+#### Ifata
+
+Code: ET040519, Coordinates: 9.181, 37.924
+
+#### Illu Galan
+
+Code: ET040500, Coordinates: 8.97, 37.294
+
+#### Jeldu
+
+Code: ET040502, Coordinates: 9.215, 38.182
+
+#### Jibat
+
+Code: ET040518, Coordinates: 8.715, 37.485
+
+#### Liban Jawi
+
+Code: ET040597, Coordinates: 8.925, 37.521
+
+#### Meta Robi
+
+Code: ET040514, Coordinates: 9.347, 38.235
+
+#### Meta Walkite
+
+Code: ET040594, Coordinates: 9.577, 38.235
+
+#### Mida Kegn
+
+Code: ET040504, Coordinates: 9.201, 37.569
+
+#### Nono
+
+Code: ET040508, Coordinates: 8.522, 37.439
+
+#### Tikur Enchini
+
+Code: ET040509, Coordinates: 8.793, 37.644
+
+#### Toke Kutaye
+
+Code: ET040517, Coordinates: 8.951, 37.717
+
+#### Welmera
+
+Code: ET040520, Coordinates: 9.163, 38.477
+
+### West Wellega
+
+Code: ET0401, Coordinates: 9.525, 35.197
+Woredas: 23
+
+#### Ayira
+
+Code: ET040107, Coordinates: 9.131, 35.312
+
+#### Babo
+
+Code: ET040111, Coordinates: 9.446, 35.097
+
+#### Begi
+
+Code: ET040116, Coordinates: 9.361, 34.52
+
+#### Boji Chekorsa
+
+Code: ET040110, Coordinates: 9.285, 35.506
+
+#### Boji Dirmeji
+
+Code: ET040106, Coordinates: 9.401, 35.634
+
+#### Gaji
+
+Code: ET040113, Coordinates: 9.037, 35.596
+
+#### Gimbi
+
+Code: ET040103, Coordinates: 9.106, 35.971
+
+#### Gimbi town
+
+Code: ET040193, Coordinates: 9.174, 35.83
+
+#### Gudetu Kondole
+
+Code: ET040109, Coordinates: 9.397, 34.758
+
+#### Guliso
+
+Code: ET040119, Coordinates: 9.27, 35.318
+
+#### Haru
+
+Code: ET040114, Coordinates: 8.981, 35.856
+
+#### Homa
+
+Code: ET040117, Coordinates: 9.061, 35.713
+
+#### Jarso (West Wellega)
+
+Code: ET040108, Coordinates: 9.444, 35.325
+
+#### Kiltu Kara
+
+Code: ET040105, Coordinates: 9.712, 35.278
+
+#### Lalo Asabi
+
+Code: ET040104, Coordinates: 9.205, 35.671
+
+#### Leta Sibu
+
+Code: ET040197, Coordinates: 9.597, 35.347
+
+#### Mana Sibu
+
+Code: ET040101, Coordinates: 9.758, 35.029
+
+#### Mendi town
+
+Code: ET040198, Coordinates: 9.801, 35.102
+
+#### Nejo
+
+Code: ET040102, Coordinates: 9.567, 35.592
+
+#### Nejo town
+
+Code: ET040199, Coordinates: 9.502, 35.506
+
+#### Nole Kaba
+
+Code: ET040115, Coordinates: 8.805, 35.785
+
+#### Sayo Nole
+
+Code: ET040118, Coordinates: 8.839, 35.582
+
+#### Yubdo
+
+Code: ET040112, Coordinates: 8.974, 35.458
+

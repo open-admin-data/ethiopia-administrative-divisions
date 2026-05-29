@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET030805",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abergele (AM)",
+      "en": "Abergele (AM)",
+      "slug": "abergele-am"
+    },
+    "code": {
+      "id": "ET030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.077",
+      "lon": "38.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030809",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amde Work town",
+      "en": "Amde Work town",
+      "slug": "amde-work-town"
+    },
+    "code": {
+      "id": "ET030809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.43",
+      "lon": "38.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030803",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dehana",
+      "en": "Dehana",
+      "slug": "dehana"
+    },
+    "code": {
+      "id": "ET030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.446",
+      "lon": "38.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030804",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gaz Gibla",
+      "en": "Gaz Gibla",
+      "slug": "gaz-gibla"
+    },
+    "code": {
+      "id": "ET030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.337",
+      "lon": "39.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030806",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sahila",
+      "en": "Sahila",
+      "slug": "sahila"
+    },
+    "code": {
+      "id": "ET030806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.936",
+      "lon": "38.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030802",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sekota",
+      "en": "Sekota",
+      "slug": "sekota"
+    },
+    "code": {
+      "id": "ET030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.666",
+      "lon": "38.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030807",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sekota town",
+      "en": "Sekota town",
+      "slug": "sekota-town"
+    },
+    "code": {
+      "id": "ET030807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.618",
+      "lon": "39.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030808",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tsagbeji",
+      "en": "Tsagbeji",
+      "slug": "tsagbeji"
+    },
+    "code": {
+      "id": "ET030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.77",
+      "lon": "39.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030801",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zequala",
+      "en": "Zequala",
+      "slug": "zequala"
+    },
+    "code": {
+      "id": "ET030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0308",
+      "level": 2,
+      "name": {
+        "local": "Wag Hamra",
+        "en": "Wag Hamra",
+        "slug": "wag-hamra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0308",
+        "level": 2,
+        "name": {
+          "local": "Wag Hamra",
+          "en": "Wag Hamra",
+          "slug": "wag-hamra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.691",
+      "lon": "38.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

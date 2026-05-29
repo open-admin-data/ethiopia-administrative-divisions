@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ET040311",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ale",
+      "en": "Ale",
+      "slug": "ale"
+    },
+    "code": {
+      "id": "ET040311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.122",
+      "lon": "35.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Alge Sachi",
+      "en": "Alge Sachi",
+      "slug": "alge-sachi"
+    },
+    "code": {
+      "id": "ET040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.594",
+      "lon": "35.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040314",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Becho (Ilu Aba Bora)",
+      "en": "Becho (Ilu Aba Bora)",
+      "slug": "becho-ilu-aba-bora"
+    },
+    "code": {
+      "id": "ET040314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.091",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040315",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bilo Nopha",
+      "en": "Bilo Nopha",
+      "slug": "bilo-nopha"
+    },
+    "code": {
+      "id": "ET040315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.43",
+      "lon": "35.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040312",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bure (OR)",
+      "en": "Bure (OR)",
+      "slug": "bure-or"
+    },
+    "code": {
+      "id": "ET040312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.328",
+      "lon": "35.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Darimu",
+      "en": "Darimu",
+      "slug": "darimu"
+    },
+    "code": {
+      "id": "ET040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.619",
+      "lon": "35.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040317",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Didu",
+      "en": "Didu",
+      "slug": "didu"
+    },
+    "code": {
+      "id": "ET040317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.937",
+      "lon": "35.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040324",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dorani",
+      "en": "Dorani",
+      "slug": "dorani"
+    },
+    "code": {
+      "id": "ET040324",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.449",
+      "lon": "35.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040319",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Halu /Huka",
+      "en": "Halu /Huka",
+      "slug": "halu-huka"
+    },
+    "code": {
+      "id": "ET040319",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.182",
+      "lon": "35.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040316",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hurumu",
+      "en": "Hurumu",
+      "slug": "hurumu"
+    },
+    "code": {
+      "id": "ET040316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.147",
+      "lon": "35.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040320",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Metu town",
+      "en": "Metu town",
+      "slug": "metu-town"
+    },
+    "code": {
+      "id": "ET040320",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.307",
+      "lon": "35.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Metu Zuria",
+      "en": "Metu Zuria",
+      "slug": "metu-zuria"
+    },
+    "code": {
+      "id": "ET040310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.353",
+      "lon": "35.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040313",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sale Nono",
+      "en": "Sale Nono",
+      "slug": "sale-nono"
+    },
+    "code": {
+      "id": "ET040313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.889",
+      "lon": "35.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yayu",
+      "en": "Yayu",
+      "slug": "yayu"
+    },
+    "code": {
+      "id": "ET040309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0403",
+      "level": 2,
+      "name": {
+        "local": "Ilu Aba Bora",
+        "en": "Ilu Aba Bora",
+        "slug": "ilu-aba-bora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0403",
+        "level": 2,
+        "name": {
+          "local": "Ilu Aba Bora",
+          "en": "Ilu Aba Bora",
+          "slug": "ilu-aba-bora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.272",
+      "lon": "35.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

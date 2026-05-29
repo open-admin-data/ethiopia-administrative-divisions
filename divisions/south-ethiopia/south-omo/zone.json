@@ -1,0 +1,47 @@
+{
+  "id": "ET0812",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "South Omo",
+    "en": "South Omo",
+    "slug": "south-omo"
+  },
+  "code": {
+    "id": "ET0812",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.049",
+    "lon": "36.413"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET051001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ayun",
+      "en": "Ayun",
+      "slug": "ayun"
+    },
+    "code": {
+      "id": "ET051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.119",
+      "lon": "42.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051006",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dihun",
+      "en": "Dihun",
+      "slug": "dihun"
+    },
+    "code": {
+      "id": "ET051006",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.1",
+      "lon": "42.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051002",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Elwayne",
+      "en": "Elwayne",
+      "slug": "elwayne"
+    },
+    "code": {
+      "id": "ET051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.562",
+      "lon": "43.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051003",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Garbo",
+      "en": "Garbo",
+      "slug": "garbo"
+    },
+    "code": {
+      "id": "ET051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.318",
+      "lon": "43.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051096",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hararey",
+      "en": "Hararey",
+      "slug": "hararey"
+    },
+    "code": {
+      "id": "ET051096",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "42.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051095",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Horshagah",
+      "en": "Horshagah",
+      "slug": "horshagah"
+    },
+    "code": {
+      "id": "ET051095",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.949",
+      "lon": "43.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051005",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sagag",
+      "en": "Sagag",
+      "slug": "sagag"
+    },
+    "code": {
+      "id": "ET051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0510",
+      "level": 2,
+      "name": {
+        "local": "Nogob",
+        "en": "Nogob",
+        "slug": "nogob"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0510",
+        "level": 2,
+        "name": {
+          "local": "Nogob",
+          "en": "Nogob",
+          "slug": "nogob"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.632",
+      "lon": "42.909"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

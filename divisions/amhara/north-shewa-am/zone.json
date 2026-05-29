@@ -1,0 +1,47 @@
+{
+  "id": "ET0305",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "North Shewa (AM)",
+    "en": "North Shewa (AM)",
+    "slug": "north-shewa-am"
+  },
+  "code": {
+    "id": "ET0305",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.803",
+    "lon": "39.487"
+  },
+  "metadata": {},
+  "source": {}
+}

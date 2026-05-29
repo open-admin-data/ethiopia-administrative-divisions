@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET070102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abeshege",
+      "en": "Abeshege",
+      "slug": "abeshege"
+    },
+    "code": {
+      "id": "ET070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.292",
+      "lon": "37.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Cheha",
+      "en": "Cheha",
+      "slug": "cheha"
+    },
+    "code": {
+      "id": "ET070110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.186",
+      "lon": "37.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070116",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Emdebir town",
+      "en": "Emdebir town",
+      "slug": "emdebir-town"
+    },
+    "code": {
+      "id": "ET070116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.122",
+      "lon": "37.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Endiguagn",
+      "en": "Endiguagn",
+      "slug": "endiguagn"
+    },
+    "code": {
+      "id": "ET070108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.825",
+      "lon": "37.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enemor Ener",
+      "en": "Enemor Ener",
+      "slug": "enemor-ener"
+    },
+    "code": {
+      "id": "ET070111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "37.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070120",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enor Ener",
+      "en": "Enor Ener",
+      "slug": "enor-ener"
+    },
+    "code": {
+      "id": "ET070120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.927",
+      "lon": "37.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ezha",
+      "en": "Ezha",
+      "slug": "ezha"
+    },
+    "code": {
+      "id": "ET070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.144",
+      "lon": "38.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gedebano Gutazer Welene",
+      "en": "Gedebano Gutazer Welene",
+      "slug": "gedebano-gutazer-welene"
+    },
+    "code": {
+      "id": "ET070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.319",
+      "lon": "38.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Geta",
+      "en": "Geta",
+      "slug": "geta"
+    },
+    "code": {
+      "id": "ET070113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.927",
+      "lon": "37.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gumer",
+      "en": "Gumer",
+      "slug": "gumer"
+    },
+    "code": {
+      "id": "ET070109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.987",
+      "lon": "38.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Muhur Na Aklil",
+      "en": "Muhur Na Aklil",
+      "slug": "muhur-na-aklil"
+    },
+    "code": {
+      "id": "ET070112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.184",
+      "lon": "38.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Welkite town",
+      "en": "Welkite town",
+      "slug": "welkite-town"
+    },
+    "code": {
+      "id": "ET070114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0701",
+      "level": 2,
+      "name": {
+        "local": "Guraghe",
+        "en": "Guraghe",
+        "slug": "guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0701",
+        "level": 2,
+        "name": {
+          "local": "Guraghe",
+          "en": "Guraghe",
+          "slug": "guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.289",
+      "lon": "37.787"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

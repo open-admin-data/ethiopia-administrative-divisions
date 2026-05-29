@@ -1,0 +1,41 @@
+# Ethiopia Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Tigray](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/tigray.txt) — 6 zones, 75 woredas
+- [Afar](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/afar.txt) — 6 zones, 49 woredas
+- [Amhara](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/amhara.txt) — 14 zones, 225 woredas
+- [Oromia](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/oromia.txt) — 22 zones, 349 woredas
+- [Somali](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/somali.txt) — 11 zones, 100 woredas
+- [Benishangul-Gumuz](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/benishangul-gumuz.txt) — 4 zones, 26 woredas
+- [Central Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/central-ethiopia.txt) — 10 zones, 69 woredas
+- [South Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/south-ethiopia.txt) — 12 zones, 93 woredas
+- [South West Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/south-west-ethiopia.txt) — 6 zones, 59 woredas
+- [Gambela](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/gambela.txt) — 4 zones, 15 woredas
+- [Harari](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/harari.txt) — 1 zones, 9 woredas
+- [Addis Ababa](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/addis-ababa.txt) — 1 zones, 11 woredas
+- [Dire Dawa](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/dire-dawa.txt) — 2 zones, 13 woredas
+- [Sidama](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/sidama.txt) — 5 zones, 37 woredas
+- [Contested](https://github.com/open-admin-data/ethiopia-administrative-divisions/blob/main/docs/llms-full/contested.txt) — 3 zones, 18 woredas
+
+## Summary
+
+| Region | Zones | Woredas | 
+|---|---|---|
+| Tigray | 6 | 75 | 
+| Afar | 6 | 49 | 
+| Amhara | 14 | 225 | 
+| Oromia | 22 | 349 | 
+| Somali | 11 | 100 | 
+| Benishangul-Gumuz | 4 | 26 | 
+| Central Ethiopia | 10 | 69 | 
+| South Ethiopia | 12 | 93 | 
+| South West Ethiopia | 6 | 59 | 
+| Gambela | 4 | 15 | 
+| Harari | 1 | 9 | 
+| Addis Ababa | 1 | 11 | 
+| Dire Dawa | 2 | 13 | 
+| Sidama | 5 | 37 | 
+| Contested | 3 | 18 | 

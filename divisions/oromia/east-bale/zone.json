@@ -1,0 +1,47 @@
+{
+  "id": "ET0421",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "East Bale",
+    "en": "East Bale",
+    "slug": "east-bale"
+  },
+  "code": {
+    "id": "ET0421",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.237",
+    "lon": "41.257"
+  },
+  "metadata": {},
+  "source": {}
+}

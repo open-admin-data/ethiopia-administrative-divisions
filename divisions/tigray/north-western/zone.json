@@ -1,0 +1,47 @@
+{
+  "id": "ET0101",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "North Western",
+    "en": "North Western",
+    "slug": "north-western"
+  },
+  "code": {
+    "id": "ET0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET01",
+    "level": 1,
+    "name": {
+      "local": "Tigray",
+      "en": "Tigray",
+      "slug": "tigray"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.235",
+    "lon": "38.016"
+  },
+  "metadata": {},
+  "source": {}
+}

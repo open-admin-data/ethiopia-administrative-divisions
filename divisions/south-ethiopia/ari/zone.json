@@ -1,0 +1,47 @@
+{
+  "id": "ET0805",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Ari",
+    "en": "Ari",
+    "slug": "ari"
+  },
+  "code": {
+    "id": "ET0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.932",
+    "lon": "36.527"
+  },
+  "metadata": {},
+  "source": {}
+}

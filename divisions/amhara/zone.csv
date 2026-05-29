@@ -1,0 +1,15 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET0309,Awi,Awi,awi,ET0309,16,11.016,36.834
+ET0314,Bahir Dar town Admin,Bahir Dar town Admin,bahir-dar-town-admin,ET0314,5,11.963,37.289
+ET0311,Central Gondar,Central Gondar,central-gondar,ET0311,20,12.594,37.329
+ET0306,East Gojam,East Gojam,east-gojam,ET0306,26,10.506,37.931
+ET0313,North Gojam,North Gojam,north-gojam,ET0313,10,11.531,36.876
+ET0301,North Gondar,North Gondar,north-gondar,ET0301,8,13.236,37.777
+ET0305,North Shewa (AM),North Shewa (AM),north-shewa-am,ET0305,32,9.803,39.487
+ET0303,North Wello,North Wello,north-wello,ET0303,18,11.829,38.837
+ET0310,Oromo Nationality Administration,Oromo Nationality Administration,oromo-nationality-administration,ET0310,9,10.741,40.011
+ET0302,South Gondar,South Gondar,south-gondar,ET0302,21,11.757,38.095
+ET0304,South Wello,South Wello,south-wello,ET0304,32,10.997,39.208
+ET0308,Wag Hamra,Wag Hamra,wag-hamra,ET0308,9,12.721,38.817
+ET0307,West Gojam,West Gojam,west-gojam,ET0307,12,10.692,37.212
+ET0312,West Gondar,West Gondar,west-gondar,ET0312,7,12.44,36.158

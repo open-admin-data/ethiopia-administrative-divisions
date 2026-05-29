@@ -1,0 +1,47 @@
+{
+  "id": "ET1105",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "West Omo",
+    "en": "West Omo",
+    "slug": "west-omo"
+  },
+  "code": {
+    "id": "ET1105",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET11",
+    "level": 1,
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.146",
+    "lon": "35.554"
+  },
+  "metadata": {},
+  "source": {}
+}

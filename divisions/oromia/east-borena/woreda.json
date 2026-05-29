@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET042207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arero",
+      "en": "Arero",
+      "slug": "arero"
+    },
+    "code": {
+      "id": "ET042207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.848",
+      "lon": "38.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dhas",
+      "en": "Dhas",
+      "slug": "dhas"
+    },
+    "code": {
+      "id": "ET042209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.18",
+      "lon": "38.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gora Dola",
+      "en": "Gora Dola",
+      "slug": "gora-dola"
+    },
+    "code": {
+      "id": "ET042205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.528",
+      "lon": "39.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gumi Idalo",
+      "en": "Gumi Idalo",
+      "slug": "gumi-idalo"
+    },
+    "code": {
+      "id": "ET042206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.929",
+      "lon": "39.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Liben",
+      "en": "Liben",
+      "slug": "liben"
+    },
+    "code": {
+      "id": "ET042202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.282",
+      "lon": "39.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meda Welabu",
+      "en": "Meda Welabu",
+      "slug": "meda-welabu"
+    },
+    "code": {
+      "id": "ET042203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.607",
+      "lon": "40.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Negele town",
+      "en": "Negele town",
+      "slug": "negele-town"
+    },
+    "code": {
+      "id": "ET042201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.338",
+      "lon": "39.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wachile",
+      "en": "Wachile",
+      "slug": "wachile"
+    },
+    "code": {
+      "id": "ET042208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.485",
+      "lon": "39.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "West Welabu",
+      "en": "West Welabu",
+      "slug": "west-welabu"
+    },
+    "code": {
+      "id": "ET042204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0422",
+      "level": 2,
+      "name": {
+        "local": "East Borena",
+        "en": "East Borena",
+        "slug": "east-borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0422",
+        "level": 2,
+        "name": {
+          "local": "East Borena",
+          "en": "East Borena",
+          "slug": "east-borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.035",
+      "lon": "39.466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

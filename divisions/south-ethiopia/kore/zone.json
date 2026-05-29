@@ -1,0 +1,47 @@
+{
+  "id": "ET0808",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Kore",
+    "en": "Kore",
+    "slug": "kore"
+  },
+  "code": {
+    "id": "ET0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.788",
+    "lon": "37.815"
+  },
+  "metadata": {},
+  "source": {}
+}

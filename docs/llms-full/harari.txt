@@ -1,0 +1,50 @@
+# Harari — Ethiopia Administrative Divisions
+
+> 1 zones, 9 woredas
+> Code: ET13
+> Coordinates: 9.29, 42.173
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Harari
+
+Code: ET1301, Coordinates: 9.29, 42.173
+Woredas: 9
+
+#### Abadir
+
+Code: ET130109, Coordinates: 9.31, 42.123
+
+#### Aboker
+
+Code: ET130108, Coordinates: 9.342, 42.112
+
+#### Amir Nur
+
+Code: ET130107, Coordinates: 9.308, 42.176
+
+#### Dire Teyara
+
+Code: ET130106, Coordinates: 9.379, 42.142
+
+#### Erer (HR)
+
+Code: ET130105, Coordinates: 9.328, 42.225
+
+#### Hakim
+
+Code: ET130104, Coordinates: 9.256, 42.093
+
+#### Jinela
+
+Code: ET130103, Coordinates: 9.297, 42.089
+
+#### Shenkor
+
+Code: ET130102, Coordinates: 9.344, 42.149
+
+#### Sofi
+
+Code: ET130101, Coordinates: 9.258, 42.191
+

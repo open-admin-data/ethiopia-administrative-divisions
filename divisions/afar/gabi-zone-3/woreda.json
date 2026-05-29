@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET020308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abida",
+      "en": "Abida",
+      "slug": "abida"
+    },
+    "code": {
+      "id": "ET020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.132",
+      "lon": "40.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amibara",
+      "en": "Amibara",
+      "slug": "amibara"
+    },
+    "code": {
+      "id": "ET020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.237",
+      "lon": "40.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arguba",
+      "en": "Arguba",
+      "slug": "arguba"
+    },
+    "code": {
+      "id": "ET020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.455",
+      "lon": "39.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Awash Fantale",
+      "en": "Awash Fantale",
+      "slug": "awash-fantale"
+    },
+    "code": {
+      "id": "ET020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "40.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020396",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Awash town",
+      "en": "Awash town",
+      "slug": "awash-town"
+    },
+    "code": {
+      "id": "ET020396",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.994",
+      "lon": "40.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Borimodaytu",
+      "en": "Borimodaytu",
+      "slug": "borimodaytu"
+    },
+    "code": {
+      "id": "ET020309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.126",
+      "lon": "40.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dulecha",
+      "en": "Dulecha",
+      "slug": "dulecha"
+    },
+    "code": {
+      "id": "ET020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.486",
+      "lon": "40.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gala'alu",
+      "en": "Gala'alu",
+      "slug": "galaalu"
+    },
+    "code": {
+      "id": "ET020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.823",
+      "lon": "40.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gewane",
+      "en": "Gewane",
+      "slug": "gewane"
+    },
+    "code": {
+      "id": "ET020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.166",
+      "lon": "40.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hanruka",
+      "en": "Hanruka",
+      "slug": "hanruka"
+    },
+    "code": {
+      "id": "ET020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.557",
+      "lon": "40.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Werer",
+      "en": "Werer",
+      "slug": "werer"
+    },
+    "code": {
+      "id": "ET020310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0203",
+      "level": 2,
+      "name": {
+        "local": "Gabi /Zone 3",
+        "en": "Gabi /Zone 3",
+        "slug": "gabi-zone-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0203",
+        "level": 2,
+        "name": {
+          "local": "Gabi /Zone 3",
+          "en": "Gabi /Zone 3",
+          "slug": "gabi-zone-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.313",
+      "lon": "40.203"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

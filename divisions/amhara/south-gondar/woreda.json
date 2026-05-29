@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "ET030299",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adiss Zemen town",
+      "en": "Adiss Zemen town",
+      "slug": "adiss-zemen-town"
+    },
+    "code": {
+      "id": "ET030299",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.123",
+      "lon": "37.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030211",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Andabet /West Esite",
+      "en": "Andabet /West Esite",
+      "slug": "andabet-west-esite"
+    },
+    "code": {
+      "id": "ET030211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.373",
+      "lon": "37.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Tabor town",
+      "en": "Debre Tabor town",
+      "slug": "debre-tabor-town"
+    },
+    "code": {
+      "id": "ET030210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.863",
+      "lon": "38.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dera (AM)",
+      "en": "Dera (AM)",
+      "slug": "dera-am"
+    },
+    "code": {
+      "id": "ET030209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.641",
+      "lon": "37.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "East Esite",
+      "en": "East Esite",
+      "slug": "east-esite"
+    },
+    "code": {
+      "id": "ET030208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.494",
+      "lon": "38.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ebenat",
+      "en": "Ebenat",
+      "slug": "ebenat"
+    },
+    "code": {
+      "id": "ET030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.244",
+      "lon": "38.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030217",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ebenat town",
+      "en": "Ebenat town",
+      "slug": "ebenat-town"
+    },
+    "code": {
+      "id": "ET030217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.123",
+      "lon": "38.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Farta",
+      "en": "Farta",
+      "slug": "farta"
+    },
+    "code": {
+      "id": "ET030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.755",
+      "lon": "38.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fogera",
+      "en": "Fogera",
+      "slug": "fogera"
+    },
+    "code": {
+      "id": "ET030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.851",
+      "lon": "37.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030212",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guna Begemider",
+      "en": "Guna Begemider",
+      "slug": "guna-begemider"
+    },
+    "code": {
+      "id": "ET030212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.897",
+      "lon": "38.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030218",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hamusit town",
+      "en": "Hamusit town",
+      "slug": "hamusit-town"
+    },
+    "code": {
+      "id": "ET030218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "37.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lay Gayint",
+      "en": "Lay Gayint",
+      "slug": "lay-gayint"
+    },
+    "code": {
+      "id": "ET030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.853",
+      "lon": "38.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Libokemekem",
+      "en": "Libokemekem",
+      "slug": "libokemekem"
+    },
+    "code": {
+      "id": "ET030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.068",
+      "lon": "37.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030298",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mekan Eyesuse",
+      "en": "Mekan Eyesuse",
+      "slug": "mekan-eyesuse"
+    },
+    "code": {
+      "id": "ET030298",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.652",
+      "lon": "38.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030213",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mena Meketewa",
+      "en": "Mena Meketewa",
+      "slug": "mena-meketewa"
+    },
+    "code": {
+      "id": "ET030213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.116",
+      "lon": "38.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030215",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nefas Mewicha town",
+      "en": "Nefas Mewicha town",
+      "slug": "nefas-mewicha-town"
+    },
+    "code": {
+      "id": "ET030215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.733",
+      "lon": "38.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030214",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sede Muja",
+      "en": "Sede Muja",
+      "slug": "sede-muja"
+    },
+    "code": {
+      "id": "ET030214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.397",
+      "lon": "38.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Semada",
+      "en": "Semada",
+      "slug": "semada"
+    },
+    "code": {
+      "id": "ET030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.296",
+      "lon": "38.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tach Gayint",
+      "en": "Tach Gayint",
+      "slug": "tach-gayint"
+    },
+    "code": {
+      "id": "ET030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.564",
+      "lon": "38.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030216",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wegeda town",
+      "en": "Wegeda town",
+      "slug": "wegeda-town"
+    },
+    "code": {
+      "id": "ET030216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.399",
+      "lon": "38.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030293",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Woreta town",
+      "en": "Woreta town",
+      "slug": "woreta-town"
+    },
+    "code": {
+      "id": "ET030293",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0302",
+      "level": 2,
+      "name": {
+        "local": "South Gondar",
+        "en": "South Gondar",
+        "slug": "south-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0302",
+        "level": 2,
+        "name": {
+          "local": "South Gondar",
+          "en": "South Gondar",
+          "slug": "south-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.923",
+      "lon": "37.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

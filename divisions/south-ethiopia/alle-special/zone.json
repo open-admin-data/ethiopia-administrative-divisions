@@ -1,0 +1,47 @@
+{
+  "id": "ET0806",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Alle Special",
+    "en": "Alle Special",
+    "slug": "alle-special"
+  },
+  "code": {
+    "id": "ET0806",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.568",
+    "lon": "37.162"
+  },
+  "metadata": {},
+  "source": {}
+}

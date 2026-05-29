@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET050105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Afdem",
+      "en": "Afdem",
+      "slug": "afdem"
+    },
+    "code": {
+      "id": "ET050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.74",
+      "lon": "40.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ayisha",
+      "en": "Ayisha",
+      "slug": "ayisha"
+    },
+    "code": {
+      "id": "ET050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.689",
+      "lon": "42.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daymeed",
+      "en": "Daymeed",
+      "slug": "daymeed"
+    },
+    "code": {
+      "id": "ET050108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.558",
+      "lon": "40.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dembel",
+      "en": "Dembel",
+      "slug": "dembel"
+    },
+    "code": {
+      "id": "ET050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.916",
+      "lon": "42.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dhunyar",
+      "en": "Dhunyar",
+      "slug": "dhunyar"
+    },
+    "code": {
+      "id": "ET050109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.482",
+      "lon": "41.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Erer (SM)",
+      "en": "Erer (SM)",
+      "slug": "erer-sm"
+    },
+    "code": {
+      "id": "ET050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "41.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050199",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gablalu",
+      "en": "Gablalu",
+      "slug": "gablalu"
+    },
+    "code": {
+      "id": "ET050199",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.639",
+      "lon": "41.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050198",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gota-Biki",
+      "en": "Gota-Biki",
+      "slug": "gota-biki"
+    },
+    "code": {
+      "id": "ET050198",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.69",
+      "lon": "41.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hadhagala",
+      "en": "Hadhagala",
+      "slug": "hadhagala"
+    },
+    "code": {
+      "id": "ET050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "42.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Miesso",
+      "en": "Miesso",
+      "slug": "miesso"
+    },
+    "code": {
+      "id": "ET050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.47",
+      "lon": "40.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shinile",
+      "en": "Shinile",
+      "slug": "shinile"
+    },
+    "code": {
+      "id": "ET050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0501",
+      "level": 2,
+      "name": {
+        "local": "Siti",
+        "en": "Siti",
+        "slug": "siti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0501",
+        "level": 2,
+        "name": {
+          "local": "Siti",
+          "en": "Siti",
+          "slug": "siti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.935",
+      "lon": "41.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

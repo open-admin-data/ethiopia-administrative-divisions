@@ -1,0 +1,47 @@
+{
+  "id": "ET0311",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Central Gondar",
+    "en": "Central Gondar",
+    "slug": "central-gondar"
+  },
+  "code": {
+    "id": "ET0311",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.594",
+    "lon": "37.329"
+  },
+  "metadata": {},
+  "source": {}
+}

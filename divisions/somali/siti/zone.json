@@ -1,0 +1,47 @@
+{
+  "id": "ET0501",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Siti",
+    "en": "Siti",
+    "slug": "siti"
+  },
+  "code": {
+    "id": "ET0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET05",
+    "level": 1,
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.25",
+    "lon": "41.834"
+  },
+  "metadata": {},
+  "source": {}
+}

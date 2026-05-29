@@ -1,0 +1,47 @@
+{
+  "id": "ET0505",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Korahe",
+    "en": "Korahe",
+    "slug": "korahe"
+  },
+  "code": {
+    "id": "ET0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET05",
+    "level": 1,
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.447",
+    "lon": "44.645"
+  },
+  "metadata": {},
+  "source": {}
+}

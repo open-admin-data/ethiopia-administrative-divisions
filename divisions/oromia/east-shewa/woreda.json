@@ -1,0 +1,866 @@
+[
+  {
+    "id": "ET040706",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ada'a",
+      "en": "Ada'a",
+      "slug": "adaa"
+    },
+    "code": {
+      "id": "ET040706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.843",
+      "lon": "39.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040703",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adama",
+      "en": "Adama",
+      "slug": "adama"
+    },
+    "code": {
+      "id": "ET040703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.317",
+      "lon": "39.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040714",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adama town",
+      "en": "Adama town",
+      "slug": "adama-town"
+    },
+    "code": {
+      "id": "ET040714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.491",
+      "lon": "39.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040708",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adama Tulu Jido Kombolcha",
+      "en": "Adama Tulu Jido Kombolcha",
+      "slug": "adama-tulu-jido-kombolcha"
+    },
+    "code": {
+      "id": "ET040708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.757",
+      "lon": "38.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040712",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Akaki",
+      "en": "Akaki",
+      "slug": "akaki"
+    },
+    "code": {
+      "id": "ET040712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.68",
+      "lon": "38.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040798",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Batu town",
+      "en": "Batu town",
+      "slug": "batu-town"
+    },
+    "code": {
+      "id": "ET040798",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.924",
+      "lon": "38.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040709",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bishoftu town",
+      "en": "Bishoftu town",
+      "slug": "bishoftu-town"
+    },
+    "code": {
+      "id": "ET040709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "38.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040710",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bora (OR)",
+      "en": "Bora (OR)",
+      "slug": "bora-or"
+    },
+    "code": {
+      "id": "ET040710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.314",
+      "lon": "38.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040702",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boset",
+      "en": "Boset",
+      "slug": "boset"
+    },
+    "code": {
+      "id": "ET040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "39.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040707",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dugda",
+      "en": "Dugda",
+      "slug": "dugda"
+    },
+    "code": {
+      "id": "ET040707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.177",
+      "lon": "38.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040701",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fentale",
+      "en": "Fentale",
+      "slug": "fentale"
+    },
+    "code": {
+      "id": "ET040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.919",
+      "lon": "39.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040705",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gimbichu",
+      "en": "Gimbichu",
+      "slug": "gimbichu"
+    },
+    "code": {
+      "id": "ET040705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.999",
+      "lon": "39.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040711",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Liben Chukala",
+      "en": "Liben Chukala",
+      "slug": "liben-chukala"
+    },
+    "code": {
+      "id": "ET040711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.504",
+      "lon": "38.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040704",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lome (OR)",
+      "en": "Lome (OR)",
+      "slug": "lome-or"
+    },
+    "code": {
+      "id": "ET040704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.617",
+      "lon": "39.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040799",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Metehara town",
+      "en": "Metehara town",
+      "slug": "metehara-town"
+    },
+    "code": {
+      "id": "ET040799",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.898",
+      "lon": "39.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040797",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mojo town",
+      "en": "Mojo town",
+      "slug": "mojo-town"
+    },
+    "code": {
+      "id": "ET040797",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0407",
+      "level": 2,
+      "name": {
+        "local": "East Shewa",
+        "en": "East Shewa",
+        "slug": "east-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0407",
+        "level": 2,
+        "name": {
+          "local": "East Shewa",
+          "en": "East Shewa",
+          "slug": "east-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.589",
+      "lon": "39.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

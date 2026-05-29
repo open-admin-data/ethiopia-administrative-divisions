@@ -1,0 +1,47 @@
+{
+  "id": "ET0503",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Jarar",
+    "en": "Jarar",
+    "slug": "jarar"
+  },
+  "code": {
+    "id": "ET0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET05",
+    "level": 1,
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.131",
+    "lon": "44.315"
+  },
+  "metadata": {},
+  "source": {}
+}

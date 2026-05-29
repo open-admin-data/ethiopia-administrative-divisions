@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ET040516",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abuna Ginde Beret",
+      "en": "Abuna Ginde Beret",
+      "slug": "abuna-ginde-beret"
+    },
+    "code": {
+      "id": "ET040516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.668",
+      "lon": "37.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040513",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adda Berga",
+      "en": "Adda Berga",
+      "slug": "adda-berga"
+    },
+    "code": {
+      "id": "ET040513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.428",
+      "lon": "38.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040515",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ambo town",
+      "en": "Ambo town",
+      "slug": "ambo-town"
+    },
+    "code": {
+      "id": "ET040515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.979",
+      "lon": "37.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ambo Zuria",
+      "en": "Ambo Zuria",
+      "slug": "ambo-zuria"
+    },
+    "code": {
+      "id": "ET040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.045",
+      "lon": "37.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040506",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bako Tibe",
+      "en": "Bako Tibe",
+      "slug": "bako-tibe"
+    },
+    "code": {
+      "id": "ET040506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "37.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040505",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Cheliya",
+      "en": "Cheliya",
+      "slug": "cheliya"
+    },
+    "code": {
+      "id": "ET040505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.023",
+      "lon": "37.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040592",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Cobi",
+      "en": "Cobi",
+      "slug": "cobi"
+    },
+    "code": {
+      "id": "ET040592",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "37.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040507",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dano",
+      "en": "Dano",
+      "slug": "dano"
+    },
+    "code": {
+      "id": "ET040507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.755",
+      "lon": "37.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040510",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dendi",
+      "en": "Dendi",
+      "slug": "dendi"
+    },
+    "code": {
+      "id": "ET040510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.972",
+      "lon": "38.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040511",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ejere /Addis Alem",
+      "en": "Ejere /Addis Alem",
+      "slug": "ejere-addis-alem"
+    },
+    "code": {
+      "id": "ET040511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.068",
+      "lon": "38.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040590",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ejersa Lafo",
+      "en": "Ejersa Lafo",
+      "slug": "ejersa-lafo"
+    },
+    "code": {
+      "id": "ET040590",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.015",
+      "lon": "38.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ginde Beret",
+      "en": "Ginde Beret",
+      "slug": "ginde-beret"
+    },
+    "code": {
+      "id": "ET040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.637",
+      "lon": "37.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040512",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Holeta town",
+      "en": "Holeta town",
+      "slug": "holeta-town"
+    },
+    "code": {
+      "id": "ET040512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.063",
+      "lon": "38.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040519",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ifata",
+      "en": "Ifata",
+      "slug": "ifata"
+    },
+    "code": {
+      "id": "ET040519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.181",
+      "lon": "37.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040500",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Illu Galan",
+      "en": "Illu Galan",
+      "slug": "illu-galan"
+    },
+    "code": {
+      "id": "ET040500",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.97",
+      "lon": "37.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jeldu",
+      "en": "Jeldu",
+      "slug": "jeldu"
+    },
+    "code": {
+      "id": "ET040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.215",
+      "lon": "38.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040518",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jibat",
+      "en": "Jibat",
+      "slug": "jibat"
+    },
+    "code": {
+      "id": "ET040518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.715",
+      "lon": "37.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040597",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Liban Jawi",
+      "en": "Liban Jawi",
+      "slug": "liban-jawi"
+    },
+    "code": {
+      "id": "ET040597",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.925",
+      "lon": "37.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040514",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meta Robi",
+      "en": "Meta Robi",
+      "slug": "meta-robi"
+    },
+    "code": {
+      "id": "ET040514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.347",
+      "lon": "38.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040594",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meta Walkite",
+      "en": "Meta Walkite",
+      "slug": "meta-walkite"
+    },
+    "code": {
+      "id": "ET040594",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.577",
+      "lon": "38.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mida Kegn",
+      "en": "Mida Kegn",
+      "slug": "mida-kegn"
+    },
+    "code": {
+      "id": "ET040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.201",
+      "lon": "37.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040508",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nono",
+      "en": "Nono",
+      "slug": "nono"
+    },
+    "code": {
+      "id": "ET040508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.522",
+      "lon": "37.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040509",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tikur Enchini",
+      "en": "Tikur Enchini",
+      "slug": "tikur-enchini"
+    },
+    "code": {
+      "id": "ET040509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.793",
+      "lon": "37.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040517",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Toke Kutaye",
+      "en": "Toke Kutaye",
+      "slug": "toke-kutaye"
+    },
+    "code": {
+      "id": "ET040517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.951",
+      "lon": "37.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040520",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Welmera",
+      "en": "Welmera",
+      "slug": "welmera"
+    },
+    "code": {
+      "id": "ET040520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0405",
+      "level": 2,
+      "name": {
+        "local": "West Shewa",
+        "en": "West Shewa",
+        "slug": "west-shewa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0405",
+        "level": 2,
+        "name": {
+          "local": "West Shewa",
+          "en": "West Shewa",
+          "slug": "west-shewa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.163",
+      "lon": "38.477"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

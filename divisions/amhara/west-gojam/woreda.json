@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET030710",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bure (AM)",
+      "en": "Bure (AM)",
+      "slug": "bure-am"
+    },
+    "code": {
+      "id": "ET030710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.542",
+      "lon": "37.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030798",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bure town",
+      "en": "Bure town",
+      "slug": "bure-town"
+    },
+    "code": {
+      "id": "ET030798",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.706",
+      "lon": "37.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030707",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dega Damot",
+      "en": "Dega Damot",
+      "slug": "dega-damot"
+    },
+    "code": {
+      "id": "ET030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.862",
+      "lon": "37.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030708",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dembecha",
+      "en": "Dembecha",
+      "slug": "dembecha"
+    },
+    "code": {
+      "id": "ET030708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.554",
+      "lon": "37.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030717",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Denbecha town",
+      "en": "Denbecha town",
+      "slug": "denbecha-town"
+    },
+    "code": {
+      "id": "ET030717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.566",
+      "lon": "37.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030714",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Finote Selam town",
+      "en": "Finote Selam town",
+      "slug": "finote-selam-town"
+    },
+    "code": {
+      "id": "ET030714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.685",
+      "lon": "37.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030709",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jabi Tehnan",
+      "en": "Jabi Tehnan",
+      "slug": "jabi-tehnan"
+    },
+    "code": {
+      "id": "ET030709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.62",
+      "lon": "37.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030720",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jiga town",
+      "en": "Jiga town",
+      "slug": "jiga-town"
+    },
+    "code": {
+      "id": "ET030720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.675",
+      "lon": "37.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030706",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Quarit",
+      "en": "Quarit",
+      "slug": "quarit"
+    },
+    "code": {
+      "id": "ET030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.975",
+      "lon": "37.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030705",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sekela",
+      "en": "Sekela",
+      "slug": "sekela"
+    },
+    "code": {
+      "id": "ET030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.001",
+      "lon": "37.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030716",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shendi town",
+      "en": "Shendi town",
+      "slug": "shendi-town"
+    },
+    "code": {
+      "id": "ET030716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.641",
+      "lon": "36.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030711",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wemberma",
+      "en": "Wemberma",
+      "slug": "wemberma"
+    },
+    "code": {
+      "id": "ET030711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0307",
+      "level": 2,
+      "name": {
+        "local": "West Gojam",
+        "en": "West Gojam",
+        "slug": "west-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0307",
+        "level": 2,
+        "name": {
+          "local": "West Gojam",
+          "en": "West Gojam",
+          "slug": "west-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.518",
+      "lon": "36.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

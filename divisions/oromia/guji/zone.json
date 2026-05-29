@@ -1,0 +1,47 @@
+{
+  "id": "ET0414",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Guji",
+    "en": "Guji",
+    "slug": "guji"
+  },
+  "code": {
+    "id": "ET0414",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.833",
+    "lon": "38.934"
+  },
+  "metadata": {},
+  "source": {}
+}

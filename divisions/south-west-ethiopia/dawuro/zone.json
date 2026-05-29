@@ -1,0 +1,47 @@
+{
+  "id": "ET1104",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Dawuro",
+    "en": "Dawuro",
+    "slug": "dawuro"
+  },
+  "code": {
+    "id": "ET1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET11",
+    "level": 1,
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.971",
+    "lon": "37.1"
+  },
+  "metadata": {},
+  "source": {}
+}

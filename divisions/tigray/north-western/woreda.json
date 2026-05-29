@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET010111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adi Daero",
+      "en": "Adi Daero",
+      "slug": "adi-daero"
+    },
+    "code": {
+      "id": "ET010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.275",
+      "lon": "38.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Asgede",
+      "en": "Asgede",
+      "slug": "asgede"
+    },
+    "code": {
+      "id": "ET010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.043",
+      "lon": "37.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Endabaguna town",
+      "en": "Endabaguna town",
+      "slug": "endabaguna-town"
+    },
+    "code": {
+      "id": "ET010114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.944",
+      "lon": "38.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Laelay Koraro",
+      "en": "Laelay Koraro",
+      "slug": "laelay-koraro"
+    },
+    "code": {
+      "id": "ET010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.16",
+      "lon": "38.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Maekel Adiyabo",
+      "en": "Maekel Adiyabo",
+      "slug": "maekel-adiyabo"
+    },
+    "code": {
+      "id": "ET010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.531",
+      "lon": "38.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Seyemti Adyabo",
+      "en": "Seyemti Adyabo",
+      "slug": "seyemti-adyabo"
+    },
+    "code": {
+      "id": "ET010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.493",
+      "lon": "38.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sheraro town",
+      "en": "Sheraro town",
+      "slug": "sheraro-town"
+    },
+    "code": {
+      "id": "ET010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.408",
+      "lon": "37.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shire Endaslasie town",
+      "en": "Shire Endaslasie town",
+      "slug": "shire-endaslasie-town"
+    },
+    "code": {
+      "id": "ET010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.103",
+      "lon": "38.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tahtay Adiyabo",
+      "en": "Tahtay Adiyabo",
+      "slug": "tahtay-adiyabo"
+    },
+    "code": {
+      "id": "ET010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.307",
+      "lon": "37.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tahtay Koraro",
+      "en": "Tahtay Koraro",
+      "slug": "tahtay-koraro"
+    },
+    "code": {
+      "id": "ET010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.085",
+      "lon": "38.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tsimbla",
+      "en": "Tsimbla",
+      "slug": "tsimbla"
+    },
+    "code": {
+      "id": "ET010113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "38.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zana",
+      "en": "Zana",
+      "slug": "zana"
+    },
+    "code": {
+      "id": "ET010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0101",
+      "level": 2,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0101",
+        "level": 2,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.869",
+      "lon": "38.438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

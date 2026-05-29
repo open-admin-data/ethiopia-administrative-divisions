@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET0201,Awsi /Zone 1,Awsi /Zone 1,awsi-zone-1,ET0201,13,12.037,41.163
+ET0204,Fanti /Zone 4,Fanti /Zone 4,fanti-zone-4,ET0204,6,12.327,40.318
+ET0203,Gabi /Zone 3,Gabi /Zone 3,gabi-zone-3,ET0203,11,9.913,40.702
+ET0205,Hari /Zone 5,Hari /Zone 5,hari-zone-5,ET0205,5,10.413,40.268
+ET0202,Kilbati /Zone 2,Kilbati /Zone 2,kilbati-zone-2,ET0202,10,13.451,40.649
+ET0206,Mahi /Zone 6,Mahi /Zone 6,mahi-zone-6,ET0206,4,10.88,40.946

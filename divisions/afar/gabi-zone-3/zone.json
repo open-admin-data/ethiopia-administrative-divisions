@@ -1,0 +1,47 @@
+{
+  "id": "ET0203",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Gabi /Zone 3",
+    "en": "Gabi /Zone 3",
+    "slug": "gabi-zone-3"
+  },
+  "code": {
+    "id": "ET0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET02",
+    "level": 1,
+    "name": {
+      "local": "Afar",
+      "en": "Afar",
+      "slug": "afar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.913",
+    "lon": "40.702"
+  },
+  "metadata": {},
+  "source": {}
+}

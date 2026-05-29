@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ET1401",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Region 14",
+      "en": "Region 14",
+      "slug": "region-14"
+    },
+    "code": {
+      "id": "ET1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET14",
+      "level": 1,
+      "name": {
+        "local": "Addis Ababa",
+        "en": "Addis Ababa",
+        "slug": "addis-ababa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.98",
+      "lon": "38.786"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

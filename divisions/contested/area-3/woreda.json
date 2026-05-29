@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET990304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Alamata town",
+      "en": "Alamata town",
+      "slug": "alamata-town"
+    },
+    "code": {
+      "id": "ET990304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.418",
+      "lon": "39.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chercher",
+      "en": "Chercher",
+      "slug": "chercher"
+    },
+    "code": {
+      "id": "ET990306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.509",
+      "lon": "39.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Korem town",
+      "en": "Korem town",
+      "slug": "korem-town"
+    },
+    "code": {
+      "id": "ET990303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.507",
+      "lon": "39.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ofla",
+      "en": "Ofla",
+      "slug": "ofla"
+    },
+    "code": {
+      "id": "ET990302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.551",
+      "lon": "39.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Raya Alamata",
+      "en": "Raya Alamata",
+      "slug": "raya-alamata"
+    },
+    "code": {
+      "id": "ET990301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.387",
+      "lon": "39.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zata",
+      "en": "Zata",
+      "slug": "zata"
+    },
+    "code": {
+      "id": "ET990305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9903",
+      "level": 2,
+      "name": {
+        "local": "Area 3",
+        "en": "Area 3",
+        "slug": "area-3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9903",
+        "level": 2,
+        "name": {
+          "local": "Area 3",
+          "en": "Area 3",
+          "slug": "area-3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.535",
+      "lon": "39.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

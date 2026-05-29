@@ -1,0 +1,30 @@
+{
+  "id": "ET99",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Contested",
+    "en": "Contested",
+    "slug": "contested"
+  },
+  "code": {
+    "id": "ET99",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 3,
+    "woreda": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.797",
+    "lon": "37.274"
+  },
+  "metadata": {},
+  "source": {}
+}

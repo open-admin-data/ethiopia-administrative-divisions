@@ -1,0 +1,47 @@
+{
+  "id": "ET1201",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Nuwer",
+    "en": "Nuwer",
+    "slug": "nuwer"
+  },
+  "code": {
+    "id": "ET1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET12",
+    "level": 1,
+    "name": {
+      "local": "Gambela",
+      "en": "Gambela",
+      "slug": "gambela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET12",
+      "level": 1,
+      "name": {
+        "local": "Gambela",
+        "en": "Gambela",
+        "slug": "gambela"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.112",
+    "lon": "33.263"
+  },
+  "metadata": {},
+  "source": {}
+}

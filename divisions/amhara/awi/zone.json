@@ -1,0 +1,47 @@
+{
+  "id": "ET0309",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Awi",
+    "en": "Awi",
+    "slug": "awi"
+  },
+  "code": {
+    "id": "ET0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.016",
+    "lon": "36.834"
+  },
+  "metadata": {},
+  "source": {}
+}

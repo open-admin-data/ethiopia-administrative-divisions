@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ET010607",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adigudom",
+      "en": "Adigudom",
+      "slug": "adigudom"
+    },
+    "code": {
+      "id": "ET010607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.244",
+      "lon": "39.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degua Temben",
+      "en": "Degua Temben",
+      "slug": "degua-temben"
+    },
+    "code": {
+      "id": "ET010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.519",
+      "lon": "39.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010602",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enderta",
+      "en": "Enderta",
+      "slug": "enderta"
+    },
+    "code": {
+      "id": "ET010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.493",
+      "lon": "39.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010605",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hagere Selam town",
+      "en": "Hagere Selam town",
+      "slug": "hagere-selam-town"
+    },
+    "code": {
+      "id": "ET010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.64",
+      "lon": "39.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hintalo",
+      "en": "Hintalo",
+      "slug": "hintalo"
+    },
+    "code": {
+      "id": "ET010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.181",
+      "lon": "39.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Saharti",
+      "en": "Saharti",
+      "slug": "saharti"
+    },
+    "code": {
+      "id": "ET010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.378",
+      "lon": "39.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010606",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Samre",
+      "en": "Samre",
+      "slug": "samre"
+    },
+    "code": {
+      "id": "ET010606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.114",
+      "lon": "39.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010608",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wajirat",
+      "en": "Wajirat",
+      "slug": "wajirat"
+    },
+    "code": {
+      "id": "ET010608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0106",
+      "level": 2,
+      "name": {
+        "local": "South Eastern",
+        "en": "South Eastern",
+        "slug": "south-eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0106",
+        "level": 2,
+        "name": {
+          "local": "South Eastern",
+          "en": "South Eastern",
+          "slug": "south-eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.047",
+      "lon": "39.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

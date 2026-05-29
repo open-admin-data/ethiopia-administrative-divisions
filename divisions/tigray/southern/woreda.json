@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ET010402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bora (TG)",
+      "en": "Bora (TG)",
+      "slug": "bora-tg"
+    },
+    "code": {
+      "id": "ET010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.883",
+      "lon": "39.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Emba Alaje",
+      "en": "Emba Alaje",
+      "slug": "emba-alaje"
+    },
+    "code": {
+      "id": "ET010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.934",
+      "lon": "39.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Endamehoni",
+      "en": "Endamehoni",
+      "slug": "endamehoni"
+    },
+    "code": {
+      "id": "ET010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.757",
+      "lon": "39.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Maichew town",
+      "en": "Maichew town",
+      "slug": "maichew-town"
+    },
+    "code": {
+      "id": "ET010409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.785",
+      "lon": "39.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010412",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mekhoni town",
+      "en": "Mekhoni town",
+      "slug": "mekhoni-town"
+    },
+    "code": {
+      "id": "ET010412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "39.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Neqsege",
+      "en": "Neqsege",
+      "slug": "neqsege"
+    },
+    "code": {
+      "id": "ET010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.751",
+      "lon": "39.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Raya Azebo",
+      "en": "Raya Azebo",
+      "slug": "raya-azebo"
+    },
+    "code": {
+      "id": "ET010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.78",
+      "lon": "39.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Selewa",
+      "en": "Selewa",
+      "slug": "selewa"
+    },
+    "code": {
+      "id": "ET010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0104",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0104",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.002",
+      "lon": "39.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

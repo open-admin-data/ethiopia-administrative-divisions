@@ -1,0 +1,704 @@
+[
+  {
+    "id": "ET020109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adar",
+      "en": "Adar",
+      "slug": "adar"
+    },
+    "code": {
+      "id": "ET020109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.273",
+      "lon": "40.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Afambo",
+      "en": "Afambo",
+      "slug": "afambo"
+    },
+    "code": {
+      "id": "ET020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.258",
+      "lon": "41.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Asayita",
+      "en": "Asayita",
+      "slug": "asayita"
+    },
+    "code": {
+      "id": "ET020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.709",
+      "lon": "41.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Asayita town",
+      "en": "Asayita town",
+      "slug": "asayita-town"
+    },
+    "code": {
+      "id": "ET020111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.612",
+      "lon": "41.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chifra",
+      "en": "Chifra",
+      "slug": "chifra"
+    },
+    "code": {
+      "id": "ET020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.585",
+      "lon": "40.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chifra town",
+      "en": "Chifra town",
+      "slug": "chifra-town"
+    },
+    "code": {
+      "id": "ET020113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.607",
+      "lon": "40.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dubti",
+      "en": "Dubti",
+      "slug": "dubti"
+    },
+    "code": {
+      "id": "ET020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.782",
+      "lon": "41.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dubti town",
+      "en": "Dubti town",
+      "slug": "dubti-town"
+    },
+    "code": {
+      "id": "ET020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.748",
+      "lon": "41.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Elidar",
+      "en": "Elidar",
+      "slug": "elidar"
+    },
+    "code": {
+      "id": "ET020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.286",
+      "lon": "41.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kori",
+      "en": "Kori",
+      "slug": "kori"
+    },
+    "code": {
+      "id": "ET020108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.442",
+      "lon": "40.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mile",
+      "en": "Mile",
+      "slug": "mile"
+    },
+    "code": {
+      "id": "ET020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.521",
+      "lon": "40.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mile town",
+      "en": "Mile town",
+      "slug": "mile-town"
+    },
+    "code": {
+      "id": "ET020112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.422",
+      "lon": "40.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020198",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Samera Logiya town",
+      "en": "Samera Logiya town",
+      "slug": "samera-logiya-town"
+    },
+    "code": {
+      "id": "ET020198",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0201",
+      "level": 2,
+      "name": {
+        "local": "Awsi /Zone 1",
+        "en": "Awsi /Zone 1",
+        "slug": "awsi-zone-1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0201",
+        "level": 2,
+        "name": {
+          "local": "Awsi /Zone 1",
+          "en": "Awsi /Zone 1",
+          "slug": "awsi-zone-1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.756",
+      "lon": "40.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET041621",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bedele town",
+      "en": "Bedele town",
+      "slug": "bedele-town"
+    },
+    "code": {
+      "id": "ET041621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.452",
+      "lon": "36.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041622",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bedele Zuria",
+      "en": "Bedele Zuria",
+      "slug": "bedele-zuria"
+    },
+    "code": {
+      "id": "ET041622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.497",
+      "lon": "36.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041607",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Borecha",
+      "en": "Borecha",
+      "slug": "borecha"
+    },
+    "code": {
+      "id": "ET041607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.307",
+      "lon": "36.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chora (Buno Bedele)",
+      "en": "Chora (Buno Bedele)",
+      "slug": "chora-buno-bedele"
+    },
+    "code": {
+      "id": "ET041603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.391",
+      "lon": "36.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041623",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chwaka",
+      "en": "Chwaka",
+      "slug": "chwaka"
+    },
+    "code": {
+      "id": "ET041623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "36.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041605",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dabo Hana",
+      "en": "Dabo Hana",
+      "slug": "dabo-hana"
+    },
+    "code": {
+      "id": "ET041605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.706",
+      "lon": "36.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041608",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dedesa",
+      "en": "Dedesa",
+      "slug": "dedesa"
+    },
+    "code": {
+      "id": "ET041608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.132",
+      "lon": "36.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dega",
+      "en": "Dega",
+      "slug": "dega"
+    },
+    "code": {
+      "id": "ET041604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.597",
+      "lon": "36.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041606",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gechi",
+      "en": "Gechi",
+      "slug": "gechi"
+    },
+    "code": {
+      "id": "ET041606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.364",
+      "lon": "36.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041618",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meko",
+      "en": "Meko",
+      "slug": "meko"
+    },
+    "code": {
+      "id": "ET041618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0416",
+      "level": 2,
+      "name": {
+        "local": "Buno Bedele",
+        "en": "Buno Bedele",
+        "slug": "buno-bedele"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0416",
+        "level": 2,
+        "name": {
+          "local": "Buno Bedele",
+          "en": "Buno Bedele",
+          "slug": "buno-bedele"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.737",
+      "lon": "35.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

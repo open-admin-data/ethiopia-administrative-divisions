@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ET080701",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Derashe",
+      "en": "Derashe",
+      "slug": "derashe"
+    },
+    "code": {
+      "id": "ET080701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0807",
+      "level": 2,
+      "name": {
+        "local": "Derashe",
+        "en": "Derashe",
+        "slug": "derashe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0807",
+        "level": 2,
+        "name": {
+          "local": "Derashe",
+          "en": "Derashe",
+          "slug": "derashe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.614",
+      "lon": "37.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080702",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gidole town",
+      "en": "Gidole town",
+      "slug": "gidole-town"
+    },
+    "code": {
+      "id": "ET080702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0807",
+      "level": 2,
+      "name": {
+        "local": "Derashe",
+        "en": "Derashe",
+        "slug": "derashe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0807",
+        "level": 2,
+        "name": {
+          "local": "Derashe",
+          "en": "Derashe",
+          "slug": "derashe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.646",
+      "lon": "37.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

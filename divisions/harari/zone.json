@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ET1301",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Harari",
+      "en": "Harari",
+      "slug": "harari"
+    },
+    "code": {
+      "id": "ET1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET13",
+      "level": 1,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.29",
+      "lon": "42.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

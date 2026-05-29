@@ -1,0 +1,441 @@
+# South Ethiopia — Ethiopia Administrative Divisions
+
+> 12 zones, 93 woredas
+> Code: ET08
+> Coordinates: 5.778, 36.89
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Alle Special
+
+Code: ET0806, Coordinates: 5.568, 37.162
+Woredas: 1
+
+#### Alle Special
+
+Code: ET080601, Coordinates: 5.568, 37.162
+
+### Ari
+
+Code: ET0805, Coordinates: 5.932, 36.527
+Woredas: 6
+
+#### Baka Dawula
+
+Code: ET080501, Coordinates: 5.776, 36.628
+
+#### Gelila town
+
+Code: ET080504, Coordinates: 6.18, 36.658
+
+#### Jinka town
+
+Code: ET080506, Coordinates: 5.771, 36.569
+
+#### North Ari
+
+Code: ET080508, Coordinates: 6.174, 36.59
+
+#### South Ari
+
+Code: ET080511, Coordinates: 5.901, 36.488
+
+#### Wub Ari
+
+Code: ET080513, Coordinates: 6.06, 36.622
+
+### Basketo
+
+Code: ET0804, Coordinates: 6.282, 36.56
+Woredas: 2
+
+#### Basketo Special
+
+Code: ET080401, Coordinates: 6.282, 36.56
+
+#### Laska town
+
+Code: ET080402, Coordinates: 6.299, 36.623
+
+### Burji
+
+Code: ET0810, Coordinates: 5.482, 37.777
+Woredas: 1
+
+#### Burji
+
+Code: ET081001, Coordinates: 5.482, 37.777
+
+### Derashe
+
+Code: ET0807, Coordinates: 5.653, 37.377
+Woredas: 2
+
+#### Derashe
+
+Code: ET080701, Coordinates: 5.614, 37.45
+
+#### Gidole town
+
+Code: ET080702, Coordinates: 5.646, 37.367
+
+### Gamo
+
+Code: ET0802, Coordinates: 6.189, 37.429
+Woredas: 20
+
+#### Arba Minch town
+
+Code: ET080201, Coordinates: 6.051, 37.564
+
+#### Arba Minch Zuria
+
+Code: ET080202, Coordinates: 5.913, 37.552
+
+#### Birbir town
+
+Code: ET080203, Coordinates: 6.295, 37.77
+
+#### Bonke
+
+Code: ET080204, Coordinates: 6.122, 37.335
+
+#### Boreda
+
+Code: ET080205, Coordinates: 6.529, 37.657
+
+#### Chencha town
+
+Code: ET080206, Coordinates: 6.244, 37.578
+
+#### Chencha Zuriya
+
+Code: ET080207, Coordinates: 6.222, 37.509
+
+#### Daramalo
+
+Code: ET080208, Coordinates: 6.29, 37.297
+
+#### Dita
+
+Code: ET080209, Coordinates: 6.337, 37.502
+
+#### Gacho Baba
+
+Code: ET080210, Coordinates: 6.085, 37.426
+
+#### Garda Marta
+
+Code: ET080211, Coordinates: 5.862, 37.076
+
+#### Geressie
+
+Code: ET080212, Coordinates: 5.877, 37.252
+
+#### Geressie town
+
+Code: ET080213, Coordinates: 5.915, 37.307
+
+#### Kemba town
+
+Code: ET080214, Coordinates: 6.056, 37.173
+
+#### Kemba Zuria
+
+Code: ET080215, Coordinates: 6.108, 37.183
+
+#### Kogota /Ezo
+
+Code: ET080216, Coordinates: 6.37, 37.577
+
+#### Kucha
+
+Code: ET080217, Coordinates: 6.511, 37.385
+
+#### Kucha Alpha
+
+Code: ET080218, Coordinates: 6.588, 37.25
+
+#### Mirab Abaya
+
+Code: ET080219, Coordinates: 6.318, 37.735
+
+#### Selamber town
+
+Code: ET080220, Coordinates: 6.474, 37.458
+
+### Gedeo
+
+Code: ET0811, Coordinates: 6.144, 38.272
+Woredas: 13
+
+#### Bule
+
+Code: ET081104, Coordinates: 6.284, 38.394
+
+#### Chelelektu town
+
+Code: ET081112, Coordinates: 6.006, 38.154
+
+#### Churso
+
+Code: ET081108, Coordinates: 6.064, 38.269
+
+#### Dila town
+
+Code: ET081109, Coordinates: 6.41, 38.301
+
+#### Dila Zuria
+
+Code: ET081105, Coordinates: 6.354, 38.342
+
+#### Gedeb
+
+Code: ET081106, Coordinates: 5.921, 38.345
+
+#### Gedeb town
+
+Code: ET081110, Coordinates: 5.898, 38.242
+
+#### Kochere
+
+Code: ET081103, Coordinates: 6.045, 38.164
+
+#### Rape
+
+Code: ET081107, Coordinates: 6.186, 38.338
+
+#### Wenago
+
+Code: ET081101, Coordinates: 6.282, 38.258
+
+#### Wonago town
+
+Code: ET081113, Coordinates: 6.318, 38.258
+
+#### Yirgachefe
+
+Code: ET081102, Coordinates: 6.168, 38.244
+
+#### Yirgachefe town
+
+Code: ET081111, Coordinates: 6.159, 38.204
+
+### Gofa
+
+Code: ET0803, Coordinates: 6.368, 36.858
+Woredas: 11
+
+#### Beto town
+
+Code: ET080301, Coordinates: 6.057, 36.887
+
+#### Buleqi town
+
+Code: ET080302, Coordinates: 6.276, 36.812
+
+#### Denba Gofa
+
+Code: ET080303, Coordinates: 6.464, 37.012
+
+#### Gezei Gofa
+
+Code: ET080304, Coordinates: 6.359, 36.807
+
+#### Laha town
+
+Code: ET080305, Coordinates: 6.468, 36.586
+
+#### Melekoza
+
+Code: ET080306, Coordinates: 6.515, 36.683
+
+#### Melo Gada
+
+Code: ET080307, Coordinates: 6.601, 36.836
+
+#### O&#39;yida
+
+Code: ET080308, Coordinates: 6.194, 36.816
+
+#### Sawla town
+
+Code: ET080309, Coordinates: 6.294, 36.891
+
+#### Uba Debre Tsehay
+
+Code: ET080310, Coordinates: 6.027, 36.787
+
+#### Zala
+
+Code: ET080311, Coordinates: 6.291, 37.084
+
+### Konso
+
+Code: ET0809, Coordinates: 5.355, 37.369
+Woredas: 5
+
+#### Karat town
+
+Code: ET080903, Coordinates: 5.336, 37.442
+
+#### Karat Zuria
+
+Code: ET080902, Coordinates: 5.313, 37.561
+
+#### Kena
+
+Code: ET080901, Coordinates: 5.247, 37.348
+
+#### Kolme
+
+Code: ET080905, Coordinates: 5.305, 37.158
+
+#### Segen Zuria
+
+Code: ET080904, Coordinates: 5.496, 37.559
+
+### Kore
+
+Code: ET0808, Coordinates: 5.788, 37.815
+Woredas: 2
+
+#### Amaro
+
+Code: ET080801, Coordinates: 5.788, 37.815
+
+#### Kele town
+
+Code: ET080802, Coordinates: 5.833, 37.895
+
+### South Omo
+
+Code: ET0812, Coordinates: 5.049, 36.413
+Woredas: 7
+
+#### Bena Tsemay
+
+Code: ET081201, Coordinates: 5.451, 36.666
+
+#### Dasenech /Kuraz
+
+Code: ET081202, Coordinates: 4.685, 36.091
+
+#### Hamer
+
+Code: ET081203, Coordinates: 5.077, 36.338
+
+#### Malie
+
+Code: ET081204, Coordinates: 5.763, 36.881
+
+#### Nyngatom
+
+Code: ET081205, Coordinates: 5.127, 35.993
+
+#### Salamago
+
+Code: ET081206, Coordinates: 5.951, 36.165
+
+#### Turmi town
+
+Code: ET081207, Coordinates: 4.968, 36.486
+
+### Wolayita
+
+Code: ET0801, Coordinates: 6.863, 37.724
+Woredas: 23
+
+#### Abela Abaya
+
+Code: ET080121, Coordinates: 6.647, 37.846
+
+#### Areka town
+
+Code: ET080114, Coordinates: 7.066, 37.706
+
+#### Bale Awassa town
+
+Code: ET080123, Coordinates: 6.912, 37.545
+
+#### Bayera Koyesha
+
+Code: ET080122, Coordinates: 6.814, 37.615
+
+#### Boditi town
+
+Code: ET080115, Coordinates: 6.953, 37.862
+
+#### Boloso Bombe
+
+Code: ET080108, Coordinates: 7.108, 37.553
+
+#### Boloso Sore
+
+Code: ET080101, Coordinates: 7.09, 37.673
+
+#### Damot Gale
+
+Code: ET080102, Coordinates: 7.015, 37.934
+
+#### Damot Pullasa
+
+Code: ET080111, Coordinates: 7.047, 37.86
+
+#### Damot Sore
+
+Code: ET080109, Coordinates: 6.885, 37.652
+
+#### Damot Woide
+
+Code: ET080103, Coordinates: 6.892, 37.93
+
+#### Duguna Fango
+
+Code: ET080112, Coordinates: 6.921, 38.05
+
+#### Gesuba town
+
+Code: ET080117, Coordinates: 6.727, 37.551
+
+#### Gununo Hamus town
+
+Code: ET080118, Coordinates: 6.927, 37.655
+
+#### Hobicha Abaya
+
+Code: ET080119, Coordinates: 6.705, 37.952
+
+#### Humbo
+
+Code: ET080104, Coordinates: 6.686, 37.718
+
+#### Kawo Koyesha
+
+Code: ET080120, Coordinates: 6.759, 37.44
+
+#### Kindo Daddaye
+
+Code: ET080110, Coordinates: 6.78, 37.329
+
+#### Kindo Koyesha
+
+Code: ET080106, Coordinates: 6.931, 37.458
+
+#### Ofa
+
+Code: ET080107, Coordinates: 6.669, 37.531
+
+#### Sodo town
+
+Code: ET080113, Coordinates: 6.857, 37.759
+
+#### Sodo Zuria
+
+Code: ET080105, Coordinates: 6.781, 37.664
+
+#### Tebela town
+
+Code: ET080116, Coordinates: 6.703, 37.772
+

@@ -1,0 +1,30 @@
+{
+  "id": "ET08",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "South Ethiopia",
+    "en": "South Ethiopia",
+    "slug": "south-ethiopia"
+  },
+  "code": {
+    "id": "ET08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 12,
+    "woreda": 93
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.778",
+    "lon": "36.89"
+  },
+  "metadata": {},
+  "source": {}
+}

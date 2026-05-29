@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ET1603",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central"
+    },
+    "code": {
+      "id": "ET1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.747",
+      "lon": "38.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1605",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "code": {
+      "id": "ET1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.428",
+      "lon": "38.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1601",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Hawassa town Admin",
+      "en": "Hawassa town Admin",
+      "slug": "hawassa-town-admin"
+    },
+    "code": {
+      "id": "ET1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.017",
+      "lon": "38.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1602",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "code": {
+      "id": "ET1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.979",
+      "lon": "38.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1604",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "code": {
+      "id": "ET1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.543",
+      "lon": "38.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

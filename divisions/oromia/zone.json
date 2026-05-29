@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "ET0408",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Arsi",
+      "en": "Arsi",
+      "slug": "arsi"
+    },
+    "code": {
+      "id": "ET0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.937",
+      "lon": "39.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0411",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Bale",
+      "en": "Bale",
+      "slug": "bale"
+    },
+    "code": {
+      "id": "ET0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.609",
+      "lon": "40.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0412",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Borena",
+      "en": "Borena",
+      "slug": "borena"
+    },
+    "code": {
+      "id": "ET0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.428",
+      "lon": "37.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0416",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Buno Bedele",
+      "en": "Buno Bedele",
+      "slug": "buno-bedele"
+    },
+    "code": {
+      "id": "ET0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.486",
+      "lon": "36.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0421",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Bale",
+      "en": "East Bale",
+      "slug": "east-bale"
+    },
+    "code": {
+      "id": "ET0421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.237",
+      "lon": "41.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0422",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Borena",
+      "en": "East Borena",
+      "slug": "east-borena"
+    },
+    "code": {
+      "id": "ET0422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.546",
+      "lon": "39.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0410",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Hararge",
+      "en": "East Hararge",
+      "slug": "east-hararge"
+    },
+    "code": {
+      "id": "ET0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.844",
+      "lon": "42.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0407",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Shewa",
+      "en": "East Shewa",
+      "slug": "east-shewa"
+    },
+    "code": {
+      "id": "ET0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.502",
+      "lon": "39.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0402",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "East Wellega",
+      "en": "East Wellega",
+      "slug": "east-wellega"
+    },
+    "code": {
+      "id": "ET0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.405",
+      "lon": "36.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0414",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Guji",
+      "en": "Guji",
+      "slug": "guji"
+    },
+    "code": {
+      "id": "ET0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.833",
+      "lon": "38.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0419",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Horo Gudru Wellega",
+      "en": "Horo Gudru Wellega",
+      "slug": "horo-gudru-wellega"
+    },
+    "code": {
+      "id": "ET0419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "37.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0403",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Ilu Aba Bora",
+      "en": "Ilu Aba Bora",
+      "slug": "ilu-aba-bora"
+    },
+    "code": {
+      "id": "ET0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.264",
+      "lon": "35.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0404",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Jimma",
+      "en": "Jimma",
+      "slug": "jimma"
+    },
+    "code": {
+      "id": "ET0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.673",
+      "lon": "36.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0418",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kelem Wellega",
+      "en": "Kelem Wellega",
+      "slug": "kelem-wellega"
+    },
+    "code": {
+      "id": "ET0418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.813",
+      "lon": "34.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0406",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "North Shewa (OR)",
+      "en": "North Shewa (OR)",
+      "slug": "north-shewa-or"
+    },
+    "code": {
+      "id": "ET0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.692",
+      "lon": "38.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0420",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Shager City",
+      "en": "Shager City",
+      "slug": "shager-city"
+    },
+    "code": {
+      "id": "ET0420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.822",
+      "lon": "38.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0413",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "South West Shewa",
+      "en": "South West Shewa",
+      "slug": "south-west-shewa"
+    },
+    "code": {
+      "id": "ET0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.593",
+      "lon": "38.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0417",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Arsi",
+      "en": "West Arsi",
+      "slug": "west-arsi"
+    },
+    "code": {
+      "id": "ET0417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.059",
+      "lon": "38.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0415",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Guji",
+      "en": "West Guji",
+      "slug": "west-guji"
+    },
+    "code": {
+      "id": "ET0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.575",
+      "lon": "38.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0409",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Hararge",
+      "en": "West Hararge",
+      "slug": "west-hararge"
+    },
+    "code": {
+      "id": "ET0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.67",
+      "lon": "40.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0405",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Shewa",
+      "en": "West Shewa",
+      "slug": "west-shewa"
+    },
+    "code": {
+      "id": "ET0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.171",
+      "lon": "37.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0401",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Wellega",
+      "en": "West Wellega",
+      "slug": "west-wellega"
+    },
+    "code": {
+      "id": "ET0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.525",
+      "lon": "35.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

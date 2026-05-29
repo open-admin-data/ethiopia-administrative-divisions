@@ -1,0 +1,30 @@
+{
+  "id": "ET12",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gambela",
+    "en": "Gambela",
+    "slug": "gambela"
+  },
+  "code": {
+    "id": "ET12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 4,
+    "woreda": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.684",
+    "lon": "34.337"
+  },
+  "metadata": {},
+  "source": {}
+}

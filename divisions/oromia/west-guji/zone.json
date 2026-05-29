@@ -1,0 +1,47 @@
+{
+  "id": "ET0415",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "West Guji",
+    "en": "West Guji",
+    "slug": "west-guji"
+  },
+  "code": {
+    "id": "ET0415",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.575",
+    "lon": "38.317"
+  },
+  "metadata": {},
+  "source": {}
+}

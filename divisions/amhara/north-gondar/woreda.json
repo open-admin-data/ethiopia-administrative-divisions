@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ET030101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Addi Arekay",
+      "en": "Addi Arekay",
+      "slug": "addi-arekay"
+    },
+    "code": {
+      "id": "ET030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.377",
+      "lon": "37.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Beyeda",
+      "en": "Beyeda",
+      "slug": "beyeda"
+    },
+    "code": {
+      "id": "ET030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.24",
+      "lon": "38.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dabat",
+      "en": "Dabat",
+      "slug": "dabat"
+    },
+    "code": {
+      "id": "ET030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.024",
+      "lon": "37.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dabat town",
+      "en": "Dabat town",
+      "slug": "dabat-town"
+    },
+    "code": {
+      "id": "ET030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.981",
+      "lon": "37.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debark",
+      "en": "Debark",
+      "slug": "debark"
+    },
+    "code": {
+      "id": "ET030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.231",
+      "lon": "37.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030198",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debark town",
+      "en": "Debark town",
+      "slug": "debark-town"
+    },
+    "code": {
+      "id": "ET030198",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.15",
+      "lon": "37.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Janamora",
+      "en": "Janamora",
+      "slug": "janamora"
+    },
+    "code": {
+      "id": "ET030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.04",
+      "lon": "38.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030119",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Telemt",
+      "en": "Telemt",
+      "slug": "telemt"
+    },
+    "code": {
+      "id": "ET030119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0301",
+      "level": 2,
+      "name": {
+        "local": "North Gondar",
+        "en": "North Gondar",
+        "slug": "north-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0301",
+        "level": 2,
+        "name": {
+          "local": "North Gondar",
+          "en": "North Gondar",
+          "slug": "north-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.453",
+      "lon": "38.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

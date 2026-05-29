@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ET080401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Basketo Special",
+      "en": "Basketo Special",
+      "slug": "basketo-special"
+    },
+    "code": {
+      "id": "ET080401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0804",
+      "level": 2,
+      "name": {
+        "local": "Basketo",
+        "en": "Basketo",
+        "slug": "basketo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0804",
+        "level": 2,
+        "name": {
+          "local": "Basketo",
+          "en": "Basketo",
+          "slug": "basketo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.282",
+      "lon": "36.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Laska town",
+      "en": "Laska town",
+      "slug": "laska-town"
+    },
+    "code": {
+      "id": "ET080402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0804",
+      "level": 2,
+      "name": {
+        "local": "Basketo",
+        "en": "Basketo",
+        "slug": "basketo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0804",
+        "level": 2,
+        "name": {
+          "local": "Basketo",
+          "en": "Basketo",
+          "slug": "basketo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.299",
+      "lon": "36.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

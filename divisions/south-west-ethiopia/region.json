@@ -1,0 +1,30 @@
+{
+  "id": "ET11",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "South West Ethiopia",
+    "en": "South West Ethiopia",
+    "slug": "south-west-ethiopia"
+  },
+  "code": {
+    "id": "ET11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 6,
+    "woreda": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.977",
+    "lon": "36.192"
+  },
+  "metadata": {},
+  "source": {}
+}

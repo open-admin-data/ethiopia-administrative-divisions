@@ -1,0 +1,47 @@
+{
+  "id": "ET0302",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "South Gondar",
+    "en": "South Gondar",
+    "slug": "south-gondar"
+  },
+  "code": {
+    "id": "ET0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.757",
+    "lon": "38.095"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET041513",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abaya",
+      "en": "Abaya",
+      "slug": "abaya"
+    },
+    "code": {
+      "id": "ET041513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.355",
+      "lon": "38.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041596",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Birbirsa Kojowa",
+      "en": "Birbirsa Kojowa",
+      "slug": "birbirsa-kojowa"
+    },
+    "code": {
+      "id": "ET041596",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.734",
+      "lon": "38.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bule Hora",
+      "en": "Bule Hora",
+      "slug": "bule-hora"
+    },
+    "code": {
+      "id": "ET041501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.649",
+      "lon": "38.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041587",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bule Hora town",
+      "en": "Bule Hora town",
+      "slug": "bule-hora-town"
+    },
+    "code": {
+      "id": "ET041587",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.643",
+      "lon": "38.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041515",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dugda Dawa",
+      "en": "Dugda Dawa",
+      "slug": "dugda-dawa"
+    },
+    "code": {
+      "id": "ET041515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.398",
+      "lon": "38.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041517",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gelana (West Guji)",
+      "en": "Gelana (West Guji)",
+      "slug": "gelana-west-guji"
+    },
+    "code": {
+      "id": "ET041517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.988",
+      "lon": "38.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041509",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hambela Wamena",
+      "en": "Hambela Wamena",
+      "slug": "hambela-wamena"
+    },
+    "code": {
+      "id": "ET041509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.012",
+      "lon": "38.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kercha",
+      "en": "Kercha",
+      "slug": "kercha"
+    },
+    "code": {
+      "id": "ET041502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.719",
+      "lon": "38.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kercha town",
+      "en": "Kercha town",
+      "slug": "kercha-town"
+    },
+    "code": {
+      "id": "ET041503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.78",
+      "lon": "38.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041518",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Melka Soda",
+      "en": "Melka Soda",
+      "slug": "melka-soda"
+    },
+    "code": {
+      "id": "ET041518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.413",
+      "lon": "38.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041594",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Suro Berguda",
+      "en": "Suro Berguda",
+      "slug": "suro-berguda"
+    },
+    "code": {
+      "id": "ET041594",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0415",
+      "level": 2,
+      "name": {
+        "local": "West Guji",
+        "en": "West Guji",
+        "slug": "west-guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0415",
+        "level": 2,
+        "name": {
+          "local": "West Guji",
+          "en": "West Guji",
+          "slug": "west-guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "38.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

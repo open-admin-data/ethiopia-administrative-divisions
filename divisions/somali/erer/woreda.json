@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ET050402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fik",
+      "en": "Fik",
+      "slug": "fik"
+    },
+    "code": {
+      "id": "ET050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "42.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hamero",
+      "en": "Hamero",
+      "slug": "hamero"
+    },
+    "code": {
+      "id": "ET050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.635",
+      "lon": "42.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lagahida",
+      "en": "Lagahida",
+      "slug": "lagahida"
+    },
+    "code": {
+      "id": "ET050407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.428",
+      "lon": "42.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meyumuluka",
+      "en": "Meyumuluka",
+      "slug": "meyumuluka"
+    },
+    "code": {
+      "id": "ET050408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.265",
+      "lon": "42.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050497",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Qubi",
+      "en": "Qubi",
+      "slug": "qubi"
+    },
+    "code": {
+      "id": "ET050497",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.722",
+      "lon": "41.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Salahad",
+      "en": "Salahad",
+      "slug": "salahad"
+    },
+    "code": {
+      "id": "ET050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.12",
+      "lon": "42.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050499",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wangey",
+      "en": "Wangey",
+      "slug": "wangey"
+    },
+    "code": {
+      "id": "ET050499",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.444",
+      "lon": "42.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050498",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yahob",
+      "en": "Yahob",
+      "slug": "yahob"
+    },
+    "code": {
+      "id": "ET050498",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0504",
+      "level": 2,
+      "name": {
+        "local": "Erer",
+        "en": "Erer",
+        "slug": "erer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0504",
+        "level": 2,
+        "name": {
+          "local": "Erer",
+          "en": "Erer",
+          "slug": "erer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.854",
+      "lon": "42.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

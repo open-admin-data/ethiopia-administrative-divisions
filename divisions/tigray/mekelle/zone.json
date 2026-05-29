@@ -1,0 +1,47 @@
+{
+  "id": "ET0107",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Mekelle",
+    "en": "Mekelle",
+    "slug": "mekelle"
+  },
+  "code": {
+    "id": "ET0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET01",
+    "level": 1,
+    "name": {
+      "local": "Tigray",
+      "en": "Tigray",
+      "slug": "tigray"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.476",
+    "lon": "39.505"
+  },
+  "metadata": {},
+  "source": {}
+}

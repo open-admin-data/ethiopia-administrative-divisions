@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ET080201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arba Minch town",
+      "en": "Arba Minch town",
+      "slug": "arba-minch-town"
+    },
+    "code": {
+      "id": "ET080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.051",
+      "lon": "37.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arba Minch Zuria",
+      "en": "Arba Minch Zuria",
+      "slug": "arba-minch-zuria"
+    },
+    "code": {
+      "id": "ET080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "37.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Birbir town",
+      "en": "Birbir town",
+      "slug": "birbir-town"
+    },
+    "code": {
+      "id": "ET080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.295",
+      "lon": "37.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bonke",
+      "en": "Bonke",
+      "slug": "bonke"
+    },
+    "code": {
+      "id": "ET080204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.122",
+      "lon": "37.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boreda",
+      "en": "Boreda",
+      "slug": "boreda"
+    },
+    "code": {
+      "id": "ET080205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "37.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chencha town",
+      "en": "Chencha town",
+      "slug": "chencha-town"
+    },
+    "code": {
+      "id": "ET080206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.244",
+      "lon": "37.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chencha Zuriya",
+      "en": "Chencha Zuriya",
+      "slug": "chencha-zuriya"
+    },
+    "code": {
+      "id": "ET080207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.222",
+      "lon": "37.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daramalo",
+      "en": "Daramalo",
+      "slug": "daramalo"
+    },
+    "code": {
+      "id": "ET080208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.29",
+      "lon": "37.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dita",
+      "en": "Dita",
+      "slug": "dita"
+    },
+    "code": {
+      "id": "ET080209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.337",
+      "lon": "37.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gacho Baba",
+      "en": "Gacho Baba",
+      "slug": "gacho-baba"
+    },
+    "code": {
+      "id": "ET080210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.085",
+      "lon": "37.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080211",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Garda Marta",
+      "en": "Garda Marta",
+      "slug": "garda-marta"
+    },
+    "code": {
+      "id": "ET080211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.862",
+      "lon": "37.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080212",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Geressie",
+      "en": "Geressie",
+      "slug": "geressie"
+    },
+    "code": {
+      "id": "ET080212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.877",
+      "lon": "37.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080213",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Geressie town",
+      "en": "Geressie town",
+      "slug": "geressie-town"
+    },
+    "code": {
+      "id": "ET080213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.915",
+      "lon": "37.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080214",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kemba town",
+      "en": "Kemba town",
+      "slug": "kemba-town"
+    },
+    "code": {
+      "id": "ET080214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.056",
+      "lon": "37.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080215",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kemba Zuria",
+      "en": "Kemba Zuria",
+      "slug": "kemba-zuria"
+    },
+    "code": {
+      "id": "ET080215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.108",
+      "lon": "37.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080216",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kogota /Ezo",
+      "en": "Kogota /Ezo",
+      "slug": "kogota-ezo"
+    },
+    "code": {
+      "id": "ET080216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.37",
+      "lon": "37.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080217",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kucha",
+      "en": "Kucha",
+      "slug": "kucha"
+    },
+    "code": {
+      "id": "ET080217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.511",
+      "lon": "37.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080218",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kucha Alpha",
+      "en": "Kucha Alpha",
+      "slug": "kucha-alpha"
+    },
+    "code": {
+      "id": "ET080218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.588",
+      "lon": "37.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080219",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mirab Abaya",
+      "en": "Mirab Abaya",
+      "slug": "mirab-abaya"
+    },
+    "code": {
+      "id": "ET080219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.318",
+      "lon": "37.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080220",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Selamber town",
+      "en": "Selamber town",
+      "slug": "selamber-town"
+    },
+    "code": {
+      "id": "ET080220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0802",
+      "level": 2,
+      "name": {
+        "local": "Gamo",
+        "en": "Gamo",
+        "slug": "gamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0802",
+        "level": 2,
+        "name": {
+          "local": "Gamo",
+          "en": "Gamo",
+          "slug": "gamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.474",
+      "lon": "37.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ET041403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adola",
+      "en": "Adola",
+      "slug": "adola"
+    },
+    "code": {
+      "id": "ET041403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "39.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041492",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adola town",
+      "en": "Adola town",
+      "slug": "adola-town"
+    },
+    "code": {
+      "id": "ET041492",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "38.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041482",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aga Wayu",
+      "en": "Aga Wayu",
+      "slug": "aga-wayu"
+    },
+    "code": {
+      "id": "ET041482",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.489",
+      "lon": "38.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041411",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ana Sora",
+      "en": "Ana Sora",
+      "slug": "ana-sora"
+    },
+    "code": {
+      "id": "ET041411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.237",
+      "lon": "38.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arda Jila",
+      "en": "Arda Jila",
+      "slug": "arda-jila"
+    },
+    "code": {
+      "id": "ET041409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.087",
+      "lon": "38.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bore",
+      "en": "Bore",
+      "slug": "bore"
+    },
+    "code": {
+      "id": "ET041402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.365",
+      "lon": "38.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dama",
+      "en": "Dama",
+      "slug": "dama"
+    },
+    "code": {
+      "id": "ET041408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.261",
+      "lon": "38.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041410",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Girja /Harenfema",
+      "en": "Girja /Harenfema",
+      "slug": "girja-harenfema"
+    },
+    "code": {
+      "id": "ET041410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "39.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041490",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Haro Walabu",
+      "en": "Haro Walabu",
+      "slug": "haro-walabu"
+    },
+    "code": {
+      "id": "ET041490",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.114",
+      "lon": "38.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Odo Shakiso",
+      "en": "Odo Shakiso",
+      "slug": "odo-shakiso"
+    },
+    "code": {
+      "id": "ET041405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.761",
+      "lon": "38.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041412",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Saba Boru",
+      "en": "Saba Boru",
+      "slug": "saba-boru"
+    },
+    "code": {
+      "id": "ET041412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.395",
+      "lon": "39.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041499",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shakiso town",
+      "en": "Shakiso town",
+      "slug": "shakiso-town"
+    },
+    "code": {
+      "id": "ET041499",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.772",
+      "lon": "38.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Uraga",
+      "en": "Uraga",
+      "slug": "uraga"
+    },
+    "code": {
+      "id": "ET041401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.058",
+      "lon": "38.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wadera",
+      "en": "Wadera",
+      "slug": "wadera"
+    },
+    "code": {
+      "id": "ET041404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0414",
+      "level": 2,
+      "name": {
+        "local": "Guji",
+        "en": "Guji",
+        "slug": "guji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0414",
+        "level": 2,
+        "name": {
+          "local": "Guji",
+          "en": "Guji",
+          "slug": "guji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.846",
+      "lon": "39.287"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

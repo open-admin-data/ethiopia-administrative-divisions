@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET0704,East Guraghe,East Guraghe,east-guraghe,ET0704,6,8.167,38.368
+ET0701,Guraghe,Guraghe,guraghe,ET0701,12,8.132,37.902
+ET0702,Hadiya,Hadiya,hadiya,ET0702,17,7.564,37.731
+ET0714,Halaba,Halaba,halaba,ET0714,4,7.367,38.198
+ET0700,Kebena Special,Kebena Special,kebena-special,ET0700,1,8.322,37.909
+ET0703,Kembata,Kembata,kembata,ET0703,10,7.294,37.83
+ET0725,Mareko Special,Mareko Special,mareko-special,ET0725,1,7.995,38.532
+ET0720,Siltie,Siltie,siltie,ET0720,13,7.808,38.226
+ET0726,Tembaro Special,Tembaro Special,tembaro-special,ET0726,1,7.269,37.487
+ET0724,Yem,Yem,yem,ET0724,4,7.813,37.488

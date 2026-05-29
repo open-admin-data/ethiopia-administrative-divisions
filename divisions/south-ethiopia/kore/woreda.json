@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ET080801",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amaro",
+      "en": "Amaro",
+      "slug": "amaro"
+    },
+    "code": {
+      "id": "ET080801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0808",
+      "level": 2,
+      "name": {
+        "local": "Kore",
+        "en": "Kore",
+        "slug": "kore"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0808",
+        "level": 2,
+        "name": {
+          "local": "Kore",
+          "en": "Kore",
+          "slug": "kore"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.788",
+      "lon": "37.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080802",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kele town",
+      "en": "Kele town",
+      "slug": "kele-town"
+    },
+    "code": {
+      "id": "ET080802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0808",
+      "level": 2,
+      "name": {
+        "local": "Kore",
+        "en": "Kore",
+        "slug": "kore"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0808",
+        "level": 2,
+        "name": {
+          "local": "Kore",
+          "en": "Kore",
+          "slug": "kore"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.833",
+      "lon": "37.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

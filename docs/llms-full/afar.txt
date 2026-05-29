@@ -1,0 +1,235 @@
+# Afar — Ethiopia Administrative Divisions
+
+> 6 zones, 49 woredas
+> Code: ET02
+> Coordinates: 12.036, 40.773
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Awsi /Zone 1
+
+Code: ET0201, Coordinates: 12.037, 41.163
+Woredas: 13
+
+#### Adar
+
+Code: ET020109, Coordinates: 11.273, 40.437
+
+#### Afambo
+
+Code: ET020104, Coordinates: 11.258, 41.655
+
+#### Asayita
+
+Code: ET020103, Coordinates: 11.709, 41.35
+
+#### Asayita town
+
+Code: ET020111, Coordinates: 11.612, 41.416
+
+#### Chifra
+
+Code: ET020106, Coordinates: 11.585, 40.227
+
+#### Chifra town
+
+Code: ET020113, Coordinates: 11.607, 40.016
+
+#### Dubti
+
+Code: ET020101, Coordinates: 11.782, 41.151
+
+#### Dubti town
+
+Code: ET020107, Coordinates: 11.748, 41.08
+
+#### Elidar
+
+Code: ET020102, Coordinates: 12.286, 41.742
+
+#### Kori
+
+Code: ET020108, Coordinates: 12.442, 40.98
+
+#### Mile
+
+Code: ET020105, Coordinates: 11.521, 40.699
+
+#### Mile town
+
+Code: ET020112, Coordinates: 11.422, 40.763
+
+#### Samera Logiya town
+
+Code: ET020198, Coordinates: 11.756, 40.975
+
+### Fanti /Zone 4
+
+Code: ET0204, Coordinates: 12.327, 40.318
+Woredas: 6
+
+#### Awra (AF)
+
+Code: ET020401, Coordinates: 12.049, 40.316
+
+#### Euwa
+
+Code: ET020402, Coordinates: 11.834, 40.171
+
+#### Gulina
+
+Code: ET020405, Coordinates: 12.181, 39.982
+
+#### Mabay
+
+Code: ET020406, Coordinates: 12.673, 40.624
+
+#### Teru
+
+Code: ET020403, Coordinates: 12.48, 40.292
+
+#### Yalo
+
+Code: ET020404, Coordinates: 12.424, 39.942
+
+### Gabi /Zone 3
+
+Code: ET0203, Coordinates: 9.913, 40.702
+Woredas: 11
+
+#### Abida
+
+Code: ET020308, Coordinates: 10.132, 40.816
+
+#### Amibara
+
+Code: ET020301, Coordinates: 9.237, 40.259
+
+#### Arguba
+
+Code: ET020306, Coordinates: 9.455, 39.905
+
+#### Awash Fantale
+
+Code: ET020302, Coordinates: 9.103, 40.019
+
+#### Awash town
+
+Code: ET020396, Coordinates: 8.994, 40.147
+
+#### Borimodaytu
+
+Code: ET020309, Coordinates: 10.126, 40.469
+
+#### Dulecha
+
+Code: ET020304, Coordinates: 9.486, 40.059
+
+#### Gala&#39;alu
+
+Code: ET020305, Coordinates: 9.823, 40.635
+
+#### Gewane
+
+Code: ET020303, Coordinates: 10.166, 40.63
+
+#### Hanruka
+
+Code: ET020307, Coordinates: 9.557, 40.459
+
+#### Werer
+
+Code: ET020310, Coordinates: 9.313, 40.203
+
+### Hari /Zone 5
+
+Code: ET0205, Coordinates: 10.413, 40.268
+Woredas: 5
+
+#### Dalefage
+
+Code: ET020504, Coordinates: 10.476, 40.459
+
+#### Dawe
+
+Code: ET020503, Coordinates: 10.731, 40.206
+
+#### Hadelela
+
+Code: ET020505, Coordinates: 10.273, 40.283
+
+#### Samurobi
+
+Code: ET020502, Coordinates: 9.874, 40.145
+
+#### Telalek
+
+Code: ET020501, Coordinates: 10.975, 40.315
+
+### Kilbati /Zone 2
+
+Code: ET0202, Coordinates: 13.451, 40.649
+Woredas: 10
+
+#### Abaala
+
+Code: ET020203, Coordinates: 13.224, 39.89
+
+#### Abaala town
+
+Code: ET020209, Coordinates: 13.36, 39.791
+
+#### Afdera
+
+Code: ET020207, Coordinates: 13.547, 40.716
+
+#### Berahile
+
+Code: ET020205, Coordinates: 13.961, 40.181
+
+#### Bidu
+
+Code: ET020208, Coordinates: 13.003, 41.38
+
+#### Dalol
+
+Code: ET020206, Coordinates: 14.309, 40.139
+
+#### Erebti
+
+Code: ET020201, Coordinates: 13.141, 40.149
+
+#### Kunneba
+
+Code: ET020202, Coordinates: 14.053, 39.953
+
+#### Megale
+
+Code: ET020204, Coordinates: 12.682, 39.965
+
+#### Wasama
+
+Code: ET020210, Coordinates: 13.5, 39.863
+
+### Mahi /Zone 6
+
+Code: ET0206, Coordinates: 10.88, 40.946
+Woredas: 4
+
+#### Gerani
+
+Code: ET020601, Coordinates: 11.209, 41.322
+
+#### Kilalu
+
+Code: ET020602, Coordinates: 11.009, 40.981
+
+#### Sibaybi
+
+Code: ET020604, Coordinates: 10.443, 40.835
+
+#### Yangudi
+
+Code: ET020603, Coordinates: 10.807, 40.684
+

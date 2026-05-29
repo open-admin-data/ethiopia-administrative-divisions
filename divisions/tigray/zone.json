@@ -1,0 +1,284 @@
+[
+  {
+    "id": "ET0102",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central"
+    },
+    "code": {
+      "id": "ET0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.97",
+      "lon": "38.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0103",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "code": {
+      "id": "ET0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.077",
+      "lon": "39.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0107",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Mekelle",
+      "en": "Mekelle",
+      "slug": "mekelle"
+    },
+    "code": {
+      "id": "ET0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.476",
+      "lon": "39.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0101",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "North Western",
+      "en": "North Western",
+      "slug": "north-western"
+    },
+    "code": {
+      "id": "ET0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.235",
+      "lon": "38.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0106",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "South Eastern",
+      "en": "South Eastern",
+      "slug": "south-eastern"
+    },
+    "code": {
+      "id": "ET0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.221",
+      "lon": "39.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0104",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "code": {
+      "id": "ET0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.828",
+      "lon": "39.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

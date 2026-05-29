@@ -1,0 +1,47 @@
+{
+  "id": "ET0510",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Nogob",
+    "en": "Nogob",
+    "slug": "nogob"
+  },
+  "code": {
+    "id": "ET0510",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET05",
+    "level": 1,
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.133",
+    "lon": "42.985"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ET0103",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Eastern",
+    "en": "Eastern",
+    "slug": "eastern"
+  },
+  "code": {
+    "id": "ET0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET01",
+    "level": 1,
+    "name": {
+      "local": "Tigray",
+      "en": "Tigray",
+      "slug": "tigray"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET01",
+      "level": 1,
+      "name": {
+        "local": "Tigray",
+        "en": "Tigray",
+        "slug": "tigray"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.077",
+    "lon": "39.561"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "ET0201",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Awsi /Zone 1",
+      "en": "Awsi /Zone 1",
+      "slug": "awsi-zone-1"
+    },
+    "code": {
+      "id": "ET0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.037",
+      "lon": "41.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0204",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Fanti /Zone 4",
+      "en": "Fanti /Zone 4",
+      "slug": "fanti-zone-4"
+    },
+    "code": {
+      "id": "ET0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.327",
+      "lon": "40.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0203",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Gabi /Zone 3",
+      "en": "Gabi /Zone 3",
+      "slug": "gabi-zone-3"
+    },
+    "code": {
+      "id": "ET0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.913",
+      "lon": "40.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0205",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Hari /Zone 5",
+      "en": "Hari /Zone 5",
+      "slug": "hari-zone-5"
+    },
+    "code": {
+      "id": "ET0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.413",
+      "lon": "40.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0202",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kilbati /Zone 2",
+      "en": "Kilbati /Zone 2",
+      "slug": "kilbati-zone-2"
+    },
+    "code": {
+      "id": "ET0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.451",
+      "lon": "40.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0206",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Mahi /Zone 6",
+      "en": "Mahi /Zone 6",
+      "slug": "mahi-zone-6"
+    },
+    "code": {
+      "id": "ET0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET02",
+      "level": 1,
+      "name": {
+        "local": "Afar",
+        "en": "Afar",
+        "slug": "afar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.88",
+      "lon": "40.946"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "ET05",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Somali",
+    "en": "Somali",
+    "slug": "somali"
+  },
+  "code": {
+    "id": "ET05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 11,
+    "woreda": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.929",
+    "lon": "43.329"
+  },
+  "metadata": {},
+  "source": {}
+}

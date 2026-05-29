@@ -1,0 +1,30 @@
+{
+  "id": "ET02",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Afar",
+    "en": "Afar",
+    "slug": "afar"
+  },
+  "code": {
+    "id": "ET02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 6,
+    "woreda": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.036",
+    "lon": "40.773"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ET1202",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Agnewak",
+    "en": "Agnewak",
+    "slug": "agnewak"
+  },
+  "code": {
+    "id": "ET1202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET12",
+    "level": 1,
+    "name": {
+      "local": "Gambela",
+      "en": "Gambela",
+      "slug": "gambela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET12",
+      "level": 1,
+      "name": {
+        "local": "Gambela",
+        "en": "Gambela",
+        "slug": "gambela"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.548",
+    "lon": "34.455"
+  },
+  "metadata": {},
+  "source": {}
+}

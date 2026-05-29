@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET160507",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aroresa",
+      "en": "Aroresa",
+      "slug": "aroresa"
+    },
+    "code": {
+      "id": "ET160507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.355",
+      "lon": "39.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160503",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bensa",
+      "en": "Bensa",
+      "slug": "bensa"
+    },
+    "code": {
+      "id": "ET160503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.534",
+      "lon": "38.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160502",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bona Zuria",
+      "en": "Bona Zuria",
+      "slug": "bona-zuria"
+    },
+    "code": {
+      "id": "ET160502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.502",
+      "lon": "38.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bura",
+      "en": "Bura",
+      "slug": "bura"
+    },
+    "code": {
+      "id": "ET160501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.627",
+      "lon": "38.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160509",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chabe Gambeltu",
+      "en": "Chabe Gambeltu",
+      "slug": "chabe-gambeltu"
+    },
+    "code": {
+      "id": "ET160509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.428",
+      "lon": "38.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160506",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chire",
+      "en": "Chire",
+      "slug": "chire"
+    },
+    "code": {
+      "id": "ET160506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.492",
+      "lon": "39.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160505",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daella",
+      "en": "Daella",
+      "slug": "daella"
+    },
+    "code": {
+      "id": "ET160505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.514",
+      "lon": "38.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daye town",
+      "en": "Daye town",
+      "slug": "daye-town"
+    },
+    "code": {
+      "id": "ET160504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.521",
+      "lon": "38.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160508",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hokko",
+      "en": "Hokko",
+      "slug": "hokko"
+    },
+    "code": {
+      "id": "ET160508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1605",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1605",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.222",
+      "lon": "38.982"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

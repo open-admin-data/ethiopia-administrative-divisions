@@ -1,0 +1,339 @@
+# Tigray — Ethiopia Administrative Divisions
+
+> 6 zones, 75 woredas
+> Code: ET01
+> Coordinates: 13.867, 38.904
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Central
+
+Code: ET0102, Coordinates: 13.97, 38.892
+Woredas: 22
+
+#### Abergele (TG)
+
+Code: ET010210, Coordinates: 13.364, 38.886
+
+#### Abiy Adi town
+
+Code: ET010211, Coordinates: 13.633, 38.993
+
+#### Adet
+
+Code: ET010207, Coordinates: 13.832, 38.62
+
+#### Adwa
+
+Code: ET010204, Coordinates: 14.175, 39.001
+
+#### Adwa town
+
+Code: ET010212, Coordinates: 14.167, 38.884
+
+#### Aheferom
+
+Code: ET010202, Coordinates: 14.321, 39.078
+
+#### Ahsea
+
+Code: ET010215, Coordinates: 14.401, 38.94
+
+#### Axum town
+
+Code: ET010213, Coordinates: 14.122, 38.727
+
+#### Chila
+
+Code: ET010201, Coordinates: 14.31, 38.574
+
+#### Egela
+
+Code: ET010216, Coordinates: 14.502, 39.111
+
+#### Emba Sieneti
+
+Code: ET010219, Coordinates: 14.052, 39.254
+
+#### Endaba Tsahma
+
+Code: ET010203, Coordinates: 13.991, 39.117
+
+#### Endafelasi
+
+Code: ET010218, Coordinates: 13.919, 38.961
+
+#### Enticho town
+
+Code: ET010220, Coordinates: 14.278, 39.149
+
+#### Hahayle
+
+Code: ET010217, Coordinates: 14.167, 39.118
+
+#### Keyhe tekli
+
+Code: ET010221, Coordinates: 13.76, 39.035
+
+#### Kola Tembien
+
+Code: ET010208, Coordinates: 13.641, 38.774
+
+#### Laelay Maychew
+
+Code: ET010205, Coordinates: 14.156, 38.764
+
+#### Naeder
+
+Code: ET010209, Coordinates: 13.916, 38.793
+
+#### Rama Adi Arbaete
+
+Code: ET010214, Coordinates: 14.374, 38.766
+
+#### Tahtay Maychew
+
+Code: ET010206, Coordinates: 14.074, 38.57
+
+#### Tanqua Melashe
+
+Code: ET010222, Coordinates: 13.536, 39.01
+
+### Eastern
+
+Code: ET0103, Coordinates: 14.077, 39.561
+Woredas: 18
+
+#### Adigrat town
+
+Code: ET010308, Coordinates: 14.275, 39.466
+
+#### Agulae
+
+Code: ET010316, Coordinates: 13.677, 39.677
+
+#### Atsbi
+
+Code: ET010307, Coordinates: 13.921, 39.749
+
+#### Atsbi town
+
+Code: ET010315, Coordinates: 13.868, 39.737
+
+#### Bizet
+
+Code: ET010310, Coordinates: 14.269, 39.29
+
+#### Edaga Hamus town
+
+Code: ET010311, Coordinates: 14.186, 39.562
+
+#### Erob
+
+Code: ET010302, Coordinates: 14.491, 39.677
+
+#### Freweyni town
+
+Code: ET010313, Coordinates: 14.054, 39.576
+
+#### Ganta Afeshum
+
+Code: ET010304, Coordinates: 14.231, 39.423
+
+#### Geraleta
+
+Code: ET010317, Coordinates: 13.766, 39.304
+
+#### Gulo Mekeda
+
+Code: ET010301, Coordinates: 14.414, 39.4
+
+#### Hawzen
+
+Code: ET010305, Coordinates: 14.001, 39.372
+
+#### Hawzen town
+
+Code: ET010312, Coordinates: 13.974, 39.43
+
+#### Kilte Awulaelo
+
+Code: ET010306, Coordinates: 13.837, 39.532
+
+#### Sebuha Saesie
+
+Code: ET010303, Coordinates: 14.266, 39.628
+
+#### Tsaeda Emba
+
+Code: ET010314, Coordinates: 14.067, 39.646
+
+#### Wukro town
+
+Code: ET010309, Coordinates: 13.781, 39.591
+
+#### Zala Anbesa town
+
+Code: ET010318, Coordinates: 14.525, 39.387
+
+### Mekelle
+
+Code: ET0107, Coordinates: 13.476, 39.505
+Woredas: 7
+
+#### Adihaki Sub City
+
+Code: ET010705, Coordinates: 13.479, 39.451
+
+#### Ayder Sub City
+
+Code: ET010703, Coordinates: 13.551, 39.467
+
+#### Hadnet Sub City
+
+Code: ET010702, Coordinates: 13.449, 39.44
+
+#### Hawelti Sub City
+
+Code: ET010704, Coordinates: 13.504, 39.445
+
+#### Kuiha Sub City
+
+Code: ET010701, Coordinates: 13.45, 39.553
+
+#### Qedamay Weyane Sub City
+
+Code: ET010706, Coordinates: 13.486, 39.481
+
+#### Semen Sub City
+
+Code: ET010707, Coordinates: 13.531, 39.512
+
+### North Western
+
+Code: ET0101, Coordinates: 14.235, 38.016
+Woredas: 12
+
+#### Adi Daero
+
+Code: ET010111, Coordinates: 14.275, 38.154
+
+#### Asgede
+
+Code: ET010105, Coordinates: 14.043, 37.908
+
+#### Endabaguna town
+
+Code: ET010114, Coordinates: 13.944, 38.18
+
+#### Laelay Koraro
+
+Code: ET010109, Coordinates: 14.16, 38.451
+
+#### Maekel Adiyabo
+
+Code: ET010112, Coordinates: 14.531, 38.026
+
+#### Seyemti Adyabo
+
+Code: ET010110, Coordinates: 14.493, 38.224
+
+#### Sheraro town
+
+Code: ET010107, Coordinates: 14.408, 37.784
+
+#### Shire Endaslasie town
+
+Code: ET010108, Coordinates: 14.103, 38.286
+
+#### Tahtay Adiyabo
+
+Code: ET010101, Coordinates: 14.307, 37.684
+
+#### Tahtay Koraro
+
+Code: ET010104, Coordinates: 14.085, 38.314
+
+#### Tsimbla
+
+Code: ET010113, Coordinates: 13.861, 38.111
+
+#### Zana
+
+Code: ET010103, Coordinates: 13.869, 38.438
+
+### South Eastern
+
+Code: ET0106, Coordinates: 13.221, 39.426
+Woredas: 8
+
+#### Adigudom
+
+Code: ET010607, Coordinates: 13.244, 39.503
+
+#### Degua Temben
+
+Code: ET010604, Coordinates: 13.519, 39.156
+
+#### Enderta
+
+Code: ET010602, Coordinates: 13.493, 39.356
+
+#### Hagere Selam town
+
+Code: ET010605, Coordinates: 13.64, 39.17
+
+#### Hintalo
+
+Code: ET010603, Coordinates: 13.181, 39.422
+
+#### Saharti
+
+Code: ET010601, Coordinates: 13.378, 39.169
+
+#### Samre
+
+Code: ET010606, Coordinates: 13.114, 39.174
+
+#### Wajirat
+
+Code: ET010608, Coordinates: 13.047, 39.713
+
+### Southern
+
+Code: ET0104, Coordinates: 12.828, 39.556
+Woredas: 8
+
+#### Bora (TG)
+
+Code: ET010402, Coordinates: 12.883, 39.341
+
+#### Emba Alaje
+
+Code: ET010404, Coordinates: 12.934, 39.505
+
+#### Endamehoni
+
+Code: ET010405, Coordinates: 12.757, 39.491
+
+#### Maichew town
+
+Code: ET010409, Coordinates: 12.785, 39.542
+
+#### Mekhoni town
+
+Code: ET010412, Coordinates: 12.796, 39.643
+
+#### Neqsege
+
+Code: ET010403, Coordinates: 12.751, 39.346
+
+#### Raya Azebo
+
+Code: ET010406, Coordinates: 12.78, 39.738
+
+#### Selewa
+
+Code: ET010401, Coordinates: 13.002, 39.332
+

@@ -1,0 +1,30 @@
+{
+  "id": "ET16",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sidama",
+    "en": "Sidama",
+    "slug": "sidama"
+  },
+  "code": {
+    "id": "ET16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 5,
+    "woreda": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.664",
+    "lon": "38.546"
+  },
+  "metadata": {},
+  "source": {}
+}

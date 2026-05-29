@@ -1,0 +1,47 @@
+{
+  "id": "ET0604",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Kamashi",
+    "en": "Kamashi",
+    "slug": "kamashi"
+  },
+  "code": {
+    "id": "ET0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET06",
+    "level": 1,
+    "name": {
+      "local": "Benishangul-Gumuz",
+      "en": "Benishangul-Gumuz",
+      "slug": "benishangul-gumuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET06",
+      "level": 1,
+      "name": {
+        "local": "Benishangul-Gumuz",
+        "en": "Benishangul-Gumuz",
+        "slug": "benishangul-gumuz"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.664",
+    "lon": "35.813"
+  },
+  "metadata": {},
+  "source": {}
+}

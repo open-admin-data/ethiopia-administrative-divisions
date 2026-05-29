@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET080501",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Baka Dawula",
+      "en": "Baka Dawula",
+      "slug": "baka-dawula"
+    },
+    "code": {
+      "id": "ET080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.776",
+      "lon": "36.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080504",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gelila town",
+      "en": "Gelila town",
+      "slug": "gelila-town"
+    },
+    "code": {
+      "id": "ET080504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.18",
+      "lon": "36.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080506",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jinka town",
+      "en": "Jinka town",
+      "slug": "jinka-town"
+    },
+    "code": {
+      "id": "ET080506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.771",
+      "lon": "36.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080508",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "North Ari",
+      "en": "North Ari",
+      "slug": "north-ari"
+    },
+    "code": {
+      "id": "ET080508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.174",
+      "lon": "36.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080511",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "South Ari",
+      "en": "South Ari",
+      "slug": "south-ari"
+    },
+    "code": {
+      "id": "ET080511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.901",
+      "lon": "36.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080513",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wub Ari",
+      "en": "Wub Ari",
+      "slug": "wub-ari"
+    },
+    "code": {
+      "id": "ET080513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0805",
+      "level": 2,
+      "name": {
+        "local": "Ari",
+        "en": "Ari",
+        "slug": "ari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0805",
+        "level": 2,
+        "name": {
+          "local": "Ari",
+          "en": "Ari",
+          "slug": "ari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.06",
+      "lon": "36.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

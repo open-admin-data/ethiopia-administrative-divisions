@@ -1,0 +1,133 @@
+# Benishangul-Gumuz — Ethiopia Administrative Divisions
+
+> 4 zones, 26 woredas
+> Code: ET06
+> Coordinates: 10.504, 35.44
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Assosa
+
+Code: ET0603, Coordinates: 10.225, 34.712
+Woredas: 11
+
+#### Abrahmo
+
+Code: ET060303, Coordinates: 9.931, 34.401
+
+#### Assosa town Admin
+
+Code: ET060309, Coordinates: 10.057, 34.54
+
+#### Bambasi
+
+Code: ET060305, Coordinates: 9.767, 34.661
+
+#### Bambasi town
+
+Code: ET060310, Coordinates: 9.758, 34.731
+
+#### Bilidigilu
+
+Code: ET060306, Coordinates: 10.129, 35.114
+
+#### Homosha
+
+Code: ET060307, Coordinates: 10.314, 34.574
+
+#### Kurmuk
+
+Code: ET060302, Coordinates: 10.568, 34.459
+
+#### Menge
+
+Code: ET060301, Coordinates: 10.393, 34.842
+
+#### Sherkole
+
+Code: ET060304, Coordinates: 10.617, 34.808
+
+#### Undulu
+
+Code: ET060308, Coordinates: 10.215, 34.917
+
+#### Ura
+
+Code: ET060311, Coordinates: 10.105, 34.653
+
+### Kamashi
+
+Code: ET0604, Coordinates: 9.664, 35.813
+Woredas: 6
+
+#### Dembe
+
+Code: ET060404, Coordinates: 9.8, 35.65
+
+#### Kamashi
+
+Code: ET060403, Coordinates: 9.478, 35.91
+
+#### Kamashi town
+
+Code: ET060400, Coordinates: 9.517, 35.858
+
+#### Mezniga
+
+Code: ET060405, Coordinates: 9.421, 36.375
+
+#### Sedal
+
+Code: ET060402, Coordinates: 10.569, 35.078
+
+#### Zayi
+
+Code: ET060401, Coordinates: 9.957, 35.935
+
+### Mao-komo Special
+
+Code: ET0605, Coordinates: 9.356, 34.286
+Woredas: 1
+
+#### Mao-komo Special
+
+Code: ET060508, Coordinates: 9.356, 34.286
+
+### Metekel
+
+Code: ET0602, Coordinates: 11.002, 35.769
+Woredas: 8
+
+#### Bulen
+
+Code: ET060207, Coordinates: 10.608, 35.957
+
+#### Dangur
+
+Code: ET060201, Coordinates: 11.372, 36.025
+
+#### Dibate
+
+Code: ET060205, Coordinates: 10.467, 36.214
+
+#### Gilgel Beles town
+
+Code: ET060200, Coordinates: 11.153, 36.341
+
+#### Guba
+
+Code: ET060202, Coordinates: 11.497, 35.456
+
+#### Mandura
+
+Code: ET060204, Coordinates: 11.02, 36.279
+
+#### Pawe
+
+Code: ET060206, Coordinates: 11.298, 36.409
+
+#### Wembera
+
+Code: ET060203, Coordinates: 10.606, 35.552
+

@@ -1,0 +1,71 @@
+# Dire Dawa — Ethiopia Administrative Divisions
+
+> 2 zones, 13 woredas
+> Code: ET15
+> Coordinates: 9.582, 41.881
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Dire Dawa rural
+
+Code: ET1502, Coordinates: 9.562, 42.034
+Woredas: 4
+
+#### Aseliso
+
+Code: ET150201, Coordinates: 9.572, 41.783
+
+#### Biyoawale
+
+Code: ET150208, Coordinates: 9.576, 42
+
+#### Jeldessa
+
+Code: ET150206, Coordinates: 9.69, 42.187
+
+#### Wahil
+
+Code: ET150207, Coordinates: 9.52, 41.861
+
+### Dire Dawa urban
+
+Code: ET1501, Coordinates: 9.624, 41.836
+Woredas: 9
+
+#### Addis Ketema (DD)
+
+Code: ET150109, Coordinates: 9.589, 41.86
+
+#### Dechatu
+
+Code: ET150111, Coordinates: 9.601, 41.883
+
+#### Gende Kore
+
+Code: ET150110, Coordinates: 9.6, 41.855
+
+#### Hafat Issa
+
+Code: ET150112, Coordinates: 9.605, 41.869
+
+#### Kazira
+
+Code: ET150113, Coordinates: 9.636, 41.855
+
+#### Legehare
+
+Code: ET150105, Coordinates: 9.605, 41.877
+
+#### Malka Jabti /M.Jebdu
+
+Code: ET150104, Coordinates: 9.629, 41.795
+
+#### Police Maret
+
+Code: ET150114, Coordinates: 9.639, 41.868
+
+#### Sabian
+
+Code: ET150103, Coordinates: 9.627, 41.835
+

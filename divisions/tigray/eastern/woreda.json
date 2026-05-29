@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ET010308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adigrat town",
+      "en": "Adigrat town",
+      "slug": "adigrat-town"
+    },
+    "code": {
+      "id": "ET010308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.275",
+      "lon": "39.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010316",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Agulae",
+      "en": "Agulae",
+      "slug": "agulae"
+    },
+    "code": {
+      "id": "ET010316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.677",
+      "lon": "39.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Atsbi",
+      "en": "Atsbi",
+      "slug": "atsbi"
+    },
+    "code": {
+      "id": "ET010307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.921",
+      "lon": "39.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010315",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Atsbi town",
+      "en": "Atsbi town",
+      "slug": "atsbi-town"
+    },
+    "code": {
+      "id": "ET010315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.868",
+      "lon": "39.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bizet",
+      "en": "Bizet",
+      "slug": "bizet"
+    },
+    "code": {
+      "id": "ET010310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.269",
+      "lon": "39.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010311",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Edaga Hamus town",
+      "en": "Edaga Hamus town",
+      "slug": "edaga-hamus-town"
+    },
+    "code": {
+      "id": "ET010311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.186",
+      "lon": "39.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Erob",
+      "en": "Erob",
+      "slug": "erob"
+    },
+    "code": {
+      "id": "ET010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.491",
+      "lon": "39.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010313",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Freweyni town",
+      "en": "Freweyni town",
+      "slug": "freweyni-town"
+    },
+    "code": {
+      "id": "ET010313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.054",
+      "lon": "39.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ganta Afeshum",
+      "en": "Ganta Afeshum",
+      "slug": "ganta-afeshum"
+    },
+    "code": {
+      "id": "ET010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.231",
+      "lon": "39.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010317",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Geraleta",
+      "en": "Geraleta",
+      "slug": "geraleta"
+    },
+    "code": {
+      "id": "ET010317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.766",
+      "lon": "39.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gulo Mekeda",
+      "en": "Gulo Mekeda",
+      "slug": "gulo-mekeda"
+    },
+    "code": {
+      "id": "ET010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.414",
+      "lon": "39.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawzen",
+      "en": "Hawzen",
+      "slug": "hawzen"
+    },
+    "code": {
+      "id": "ET010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.001",
+      "lon": "39.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010312",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawzen town",
+      "en": "Hawzen town",
+      "slug": "hawzen-town"
+    },
+    "code": {
+      "id": "ET010312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.974",
+      "lon": "39.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kilte Awulaelo",
+      "en": "Kilte Awulaelo",
+      "slug": "kilte-awulaelo"
+    },
+    "code": {
+      "id": "ET010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.837",
+      "lon": "39.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sebuha Saesie",
+      "en": "Sebuha Saesie",
+      "slug": "sebuha-saesie"
+    },
+    "code": {
+      "id": "ET010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.266",
+      "lon": "39.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010314",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tsaeda Emba",
+      "en": "Tsaeda Emba",
+      "slug": "tsaeda-emba"
+    },
+    "code": {
+      "id": "ET010314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.067",
+      "lon": "39.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wukro town",
+      "en": "Wukro town",
+      "slug": "wukro-town"
+    },
+    "code": {
+      "id": "ET010309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.781",
+      "lon": "39.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010318",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zala Anbesa town",
+      "en": "Zala Anbesa town",
+      "slug": "zala-anbesa-town"
+    },
+    "code": {
+      "id": "ET010318",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0103",
+      "level": 2,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0103",
+        "level": 2,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.525",
+      "lon": "39.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

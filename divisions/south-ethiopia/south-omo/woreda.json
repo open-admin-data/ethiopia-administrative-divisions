@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET081201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bena Tsemay",
+      "en": "Bena Tsemay",
+      "slug": "bena-tsemay"
+    },
+    "code": {
+      "id": "ET081201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.451",
+      "lon": "36.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dasenech /Kuraz",
+      "en": "Dasenech /Kuraz",
+      "slug": "dasenech-kuraz"
+    },
+    "code": {
+      "id": "ET081202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.685",
+      "lon": "36.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hamer",
+      "en": "Hamer",
+      "slug": "hamer"
+    },
+    "code": {
+      "id": "ET081203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.077",
+      "lon": "36.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Malie",
+      "en": "Malie",
+      "slug": "malie"
+    },
+    "code": {
+      "id": "ET081204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.763",
+      "lon": "36.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nyngatom",
+      "en": "Nyngatom",
+      "slug": "nyngatom"
+    },
+    "code": {
+      "id": "ET081205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.127",
+      "lon": "35.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Salamago",
+      "en": "Salamago",
+      "slug": "salamago"
+    },
+    "code": {
+      "id": "ET081206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.951",
+      "lon": "36.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET081207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Turmi town",
+      "en": "Turmi town",
+      "slug": "turmi-town"
+    },
+    "code": {
+      "id": "ET081207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0812",
+      "level": 2,
+      "name": {
+        "local": "South Omo",
+        "en": "South Omo",
+        "slug": "south-omo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0812",
+        "level": 2,
+        "name": {
+          "local": "South Omo",
+          "en": "South Omo",
+          "slug": "south-omo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.968",
+      "lon": "36.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

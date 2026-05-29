@@ -1,0 +1,47 @@
+{
+  "id": "ET0313",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "North Gojam",
+    "en": "North Gojam",
+    "slug": "north-gojam"
+  },
+  "code": {
+    "id": "ET0313",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.531",
+    "lon": "36.876"
+  },
+  "metadata": {},
+  "source": {}
+}

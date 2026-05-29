@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET080601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Alle Special",
+      "en": "Alle Special",
+      "slug": "alle-special"
+    },
+    "code": {
+      "id": "ET080601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0806",
+      "level": 2,
+      "name": {
+        "local": "Alle Special",
+        "en": "Alle Special",
+        "slug": "alle-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0806",
+        "level": 2,
+        "name": {
+          "local": "Alle Special",
+          "en": "Alle Special",
+          "slug": "alle-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "37.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

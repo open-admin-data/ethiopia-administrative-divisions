@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET130109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abadir",
+      "en": "Abadir",
+      "slug": "abadir"
+    },
+    "code": {
+      "id": "ET130109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.31",
+      "lon": "42.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aboker",
+      "en": "Aboker",
+      "slug": "aboker"
+    },
+    "code": {
+      "id": "ET130108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.342",
+      "lon": "42.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amir Nur",
+      "en": "Amir Nur",
+      "slug": "amir-nur"
+    },
+    "code": {
+      "id": "ET130107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.308",
+      "lon": "42.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dire Teyara",
+      "en": "Dire Teyara",
+      "slug": "dire-teyara"
+    },
+    "code": {
+      "id": "ET130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.379",
+      "lon": "42.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Erer (HR)",
+      "en": "Erer (HR)",
+      "slug": "erer-hr"
+    },
+    "code": {
+      "id": "ET130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.328",
+      "lon": "42.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hakim",
+      "en": "Hakim",
+      "slug": "hakim"
+    },
+    "code": {
+      "id": "ET130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.256",
+      "lon": "42.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jinela",
+      "en": "Jinela",
+      "slug": "jinela"
+    },
+    "code": {
+      "id": "ET130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.297",
+      "lon": "42.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shenkor",
+      "en": "Shenkor",
+      "slug": "shenkor"
+    },
+    "code": {
+      "id": "ET130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.344",
+      "lon": "42.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET130101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sofi",
+      "en": "Sofi",
+      "slug": "sofi"
+    },
+    "code": {
+      "id": "ET130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1301",
+      "level": 2,
+      "name": {
+        "local": "Harari",
+        "en": "Harari",
+        "slug": "harari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET13",
+        "level": 1,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      },
+      {
+        "id": "ET1301",
+        "level": 2,
+        "name": {
+          "local": "Harari",
+          "en": "Harari",
+          "slug": "harari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.258",
+      "lon": "42.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ET0803",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Gofa",
+    "en": "Gofa",
+    "slug": "gofa"
+  },
+  "code": {
+    "id": "ET0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.368",
+    "lon": "36.858"
+  },
+  "metadata": {},
+  "source": {}
+}

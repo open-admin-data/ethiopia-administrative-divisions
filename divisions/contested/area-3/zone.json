@@ -1,0 +1,47 @@
+{
+  "id": "ET9903",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Area 3",
+    "en": "Area 3",
+    "slug": "area-3"
+  },
+  "code": {
+    "id": "ET9903",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET99",
+    "level": 1,
+    "name": {
+      "local": "Contested",
+      "en": "Contested",
+      "slug": "contested"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET99",
+      "level": 1,
+      "name": {
+        "local": "Contested",
+        "en": "Contested",
+        "slug": "contested"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.488",
+    "lon": "39.527"
+  },
+  "metadata": {},
+  "source": {}
+}

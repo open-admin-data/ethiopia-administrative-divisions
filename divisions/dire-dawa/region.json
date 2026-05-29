@@ -1,0 +1,30 @@
+{
+  "id": "ET15",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Dire Dawa",
+    "en": "Dire Dawa",
+    "slug": "dire-dawa"
+  },
+  "code": {
+    "id": "ET15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 2,
+    "woreda": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.582",
+    "lon": "41.881"
+  },
+  "metadata": {},
+  "source": {}
+}

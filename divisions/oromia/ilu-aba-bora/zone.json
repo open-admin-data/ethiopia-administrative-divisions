@@ -1,0 +1,47 @@
+{
+  "id": "ET0403",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Ilu Aba Bora",
+    "en": "Ilu Aba Bora",
+    "slug": "ilu-aba-bora"
+  },
+  "code": {
+    "id": "ET0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.264",
+    "lon": "35.481"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ET072403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Deri Saja zuria",
+      "en": "Deri Saja zuria",
+      "slug": "deri-saja-zuria"
+    },
+    "code": {
+      "id": "ET072403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0724",
+      "level": 2,
+      "name": {
+        "local": "Yem",
+        "en": "Yem",
+        "slug": "yem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0724",
+        "level": 2,
+        "name": {
+          "local": "Yem",
+          "en": "Yem",
+          "slug": "yem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.982",
+      "lon": "37.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Fofa",
+      "en": "Fofa",
+      "slug": "fofa"
+    },
+    "code": {
+      "id": "ET072402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0724",
+      "level": 2,
+      "name": {
+        "local": "Yem",
+        "en": "Yem",
+        "slug": "yem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0724",
+        "level": 2,
+        "name": {
+          "local": "Yem",
+          "en": "Yem",
+          "slug": "yem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.85",
+      "lon": "37.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Saja town",
+      "en": "Saja town",
+      "slug": "saja-town"
+    },
+    "code": {
+      "id": "ET072401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0724",
+      "level": 2,
+      "name": {
+        "local": "Yem",
+        "en": "Yem",
+        "slug": "yem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0724",
+        "level": 2,
+        "name": {
+          "local": "Yem",
+          "en": "Yem",
+          "slug": "yem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.971",
+      "lon": "37.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET072404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Toba",
+      "en": "Toba",
+      "slug": "toba"
+    },
+    "code": {
+      "id": "ET072404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0724",
+      "level": 2,
+      "name": {
+        "local": "Yem",
+        "en": "Yem",
+        "slug": "yem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0724",
+        "level": 2,
+        "name": {
+          "local": "Yem",
+          "en": "Yem",
+          "slug": "yem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.79",
+      "lon": "37.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

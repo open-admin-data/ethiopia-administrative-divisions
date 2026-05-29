@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET120201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abobo",
+      "en": "Abobo",
+      "slug": "abobo"
+    },
+    "code": {
+      "id": "ET120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.921",
+      "lon": "34.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dima (GM)",
+      "en": "Dima (GM)",
+      "slug": "dima-gm"
+    },
+    "code": {
+      "id": "ET120205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.003",
+      "lon": "34.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120200",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gambela National Park",
+      "en": "Gambela National Park",
+      "slug": "gambela-national-park"
+    },
+    "code": {
+      "id": "ET120200",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.106",
+      "lon": "33.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gambela town",
+      "en": "Gambela town",
+      "slug": "gambela-town"
+    },
+    "code": {
+      "id": "ET120206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.246",
+      "lon": "34.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gambela Zuria",
+      "en": "Gambela Zuria",
+      "slug": "gambela-zuria"
+    },
+    "code": {
+      "id": "ET120202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.148",
+      "lon": "34.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gog",
+      "en": "Gog",
+      "slug": "gog"
+    },
+    "code": {
+      "id": "ET120203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.62",
+      "lon": "34.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jore",
+      "en": "Jore",
+      "slug": "jore"
+    },
+    "code": {
+      "id": "ET120204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1202",
+      "level": 2,
+      "name": {
+        "local": "Agnewak",
+        "en": "Agnewak",
+        "slug": "agnewak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1202",
+        "level": 2,
+        "name": {
+          "local": "Agnewak",
+          "en": "Agnewak",
+          "slug": "agnewak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.897",
+      "lon": "33.739"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

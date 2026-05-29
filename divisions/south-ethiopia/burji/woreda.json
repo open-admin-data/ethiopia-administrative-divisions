@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET081001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Burji",
+      "en": "Burji",
+      "slug": "burji"
+    },
+    "code": {
+      "id": "ET081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0810",
+      "level": 2,
+      "name": {
+        "local": "Burji",
+        "en": "Burji",
+        "slug": "burji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0810",
+        "level": 2,
+        "name": {
+          "local": "Burji",
+          "en": "Burji",
+          "slug": "burji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.482",
+      "lon": "37.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

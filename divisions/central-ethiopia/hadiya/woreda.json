@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ET070215",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ameka",
+      "en": "Ameka",
+      "slug": "ameka"
+    },
+    "code": {
+      "id": "ET070215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "37.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Analemmo",
+      "en": "Analemmo",
+      "slug": "analemmo"
+    },
+    "code": {
+      "id": "ET070208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.637",
+      "lon": "37.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Duna",
+      "en": "Duna",
+      "slug": "duna"
+    },
+    "code": {
+      "id": "ET070207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.34",
+      "lon": "37.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gibe",
+      "en": "Gibe",
+      "slug": "gibe"
+    },
+    "code": {
+      "id": "ET070210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.741",
+      "lon": "37.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070213",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gimbichu town",
+      "en": "Gimbichu town",
+      "slug": "gimbichu-town"
+    },
+    "code": {
+      "id": "ET070213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.448",
+      "lon": "37.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gombora",
+      "en": "Gombora",
+      "slug": "gombora"
+    },
+    "code": {
+      "id": "ET070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.586",
+      "lon": "37.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070211",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hosaena town",
+      "en": "Hosaena town",
+      "slug": "hosaena-town"
+    },
+    "code": {
+      "id": "ET070211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.543",
+      "lon": "37.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070214",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jajura town",
+      "en": "Jajura town",
+      "slug": "jajura-town"
+    },
+    "code": {
+      "id": "ET070214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.459",
+      "lon": "37.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lemmo",
+      "en": "Lemmo",
+      "slug": "lemmo"
+    },
+    "code": {
+      "id": "ET070203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.535",
+      "lon": "37.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mirab Badowach",
+      "en": "Mirab Badowach",
+      "slug": "mirab-badowach"
+    },
+    "code": {
+      "id": "ET070209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.134",
+      "lon": "37.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070217",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mirab Soro",
+      "en": "Mirab Soro",
+      "slug": "mirab-soro"
+    },
+    "code": {
+      "id": "ET070217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.381",
+      "lon": "37.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Misha",
+      "en": "Misha",
+      "slug": "misha"
+    },
+    "code": {
+      "id": "ET070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.676",
+      "lon": "37.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Misrak Badawacho",
+      "en": "Misrak Badawacho",
+      "slug": "misrak-badawacho"
+    },
+    "code": {
+      "id": "ET070205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.209",
+      "lon": "38.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shashogo",
+      "en": "Shashogo",
+      "slug": "shashogo"
+    },
+    "code": {
+      "id": "ET070204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.5",
+      "lon": "38.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070212",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shone town",
+      "en": "Shone town",
+      "slug": "shone-town"
+    },
+    "code": {
+      "id": "ET070212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.139",
+      "lon": "37.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070216",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Siraro Badawacho",
+      "en": "Siraro Badawacho",
+      "slug": "siraro-badawacho"
+    },
+    "code": {
+      "id": "ET070216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.114",
+      "lon": "38.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Soro",
+      "en": "Soro",
+      "slug": "soro"
+    },
+    "code": {
+      "id": "ET070206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0702",
+      "level": 2,
+      "name": {
+        "local": "Hadiya",
+        "en": "Hadiya",
+        "slug": "hadiya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0702",
+        "level": 2,
+        "name": {
+          "local": "Hadiya",
+          "en": "Hadiya",
+          "slug": "hadiya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.499",
+      "lon": "37.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

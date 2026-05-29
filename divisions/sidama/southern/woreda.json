@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET160405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aleta Chuko",
+      "en": "Aleta Chuko",
+      "slug": "aleta-chuko"
+    },
+    "code": {
+      "id": "ET160405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.566",
+      "lon": "38.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aleta Wendo",
+      "en": "Aleta Wendo",
+      "slug": "aleta-wendo"
+    },
+    "code": {
+      "id": "ET160403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.602",
+      "lon": "38.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aleta Wondo town",
+      "en": "Aleta Wondo town",
+      "slug": "aleta-wondo-town"
+    },
+    "code": {
+      "id": "ET160404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.606",
+      "lon": "38.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bursa",
+      "en": "Bursa",
+      "slug": "bursa"
+    },
+    "code": {
+      "id": "ET160401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.627",
+      "lon": "38.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160410",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chirone",
+      "en": "Chirone",
+      "slug": "chirone"
+    },
+    "code": {
+      "id": "ET160410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.454",
+      "lon": "38.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chuko town",
+      "en": "Chuko town",
+      "slug": "chuko-town"
+    },
+    "code": {
+      "id": "ET160406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "38.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dara",
+      "en": "Dara",
+      "slug": "dara"
+    },
+    "code": {
+      "id": "ET160407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.442",
+      "lon": "38.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dara Otilicho",
+      "en": "Dara Otilicho",
+      "slug": "dara-otilicho"
+    },
+    "code": {
+      "id": "ET160408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.489",
+      "lon": "38.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hulla",
+      "en": "Hulla",
+      "slug": "hulla"
+    },
+    "code": {
+      "id": "ET160409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.47",
+      "lon": "38.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Teticha",
+      "en": "Teticha",
+      "slug": "teticha"
+    },
+    "code": {
+      "id": "ET160402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1604",
+      "level": 2,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1604",
+        "level": 2,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.57",
+      "lon": "38.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ET120301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Godere",
+      "en": "Godere",
+      "slug": "godere"
+    },
+    "code": {
+      "id": "ET120301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1203",
+      "level": 2,
+      "name": {
+        "local": "Majang",
+        "en": "Majang",
+        "slug": "majang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1203",
+        "level": 2,
+        "name": {
+          "local": "Majang",
+          "en": "Majang",
+          "slug": "majang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.201",
+      "lon": "35.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mengesh",
+      "en": "Mengesh",
+      "slug": "mengesh"
+    },
+    "code": {
+      "id": "ET120308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1203",
+      "level": 2,
+      "name": {
+        "local": "Majang",
+        "en": "Majang",
+        "slug": "majang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1203",
+        "level": 2,
+        "name": {
+          "local": "Majang",
+          "en": "Majang",
+          "slug": "majang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.437",
+      "lon": "35.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

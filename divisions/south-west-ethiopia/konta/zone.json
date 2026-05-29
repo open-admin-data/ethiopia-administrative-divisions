@@ -1,0 +1,47 @@
+{
+  "id": "ET1106",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Konta",
+    "en": "Konta",
+    "slug": "konta"
+  },
+  "code": {
+    "id": "ET1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET11",
+    "level": 1,
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.871",
+    "lon": "36.609"
+  },
+  "metadata": {},
+  "source": {}
+}

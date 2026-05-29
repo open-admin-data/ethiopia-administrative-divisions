@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET160101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawassa town",
+      "en": "Hawassa town",
+      "slug": "hawassa-town"
+    },
+    "code": {
+      "id": "ET160101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1601",
+      "level": 2,
+      "name": {
+        "local": "Hawassa town Admin",
+        "en": "Hawassa town Admin",
+        "slug": "hawassa-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1601",
+        "level": 2,
+        "name": {
+          "local": "Hawassa town Admin",
+          "en": "Hawassa town Admin",
+          "slug": "hawassa-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.017",
+      "lon": "38.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

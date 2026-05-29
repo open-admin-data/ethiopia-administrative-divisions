@@ -1,0 +1,566 @@
+[
+  {
+    "id": "ET0806",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Alle Special",
+      "en": "Alle Special",
+      "slug": "alle-special"
+    },
+    "code": {
+      "id": "ET0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "37.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0805",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Ari",
+      "en": "Ari",
+      "slug": "ari"
+    },
+    "code": {
+      "id": "ET0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.932",
+      "lon": "36.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0804",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Basketo",
+      "en": "Basketo",
+      "slug": "basketo"
+    },
+    "code": {
+      "id": "ET0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.282",
+      "lon": "36.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0810",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Burji",
+      "en": "Burji",
+      "slug": "burji"
+    },
+    "code": {
+      "id": "ET0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.482",
+      "lon": "37.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0807",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Derashe",
+      "en": "Derashe",
+      "slug": "derashe"
+    },
+    "code": {
+      "id": "ET0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.653",
+      "lon": "37.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0802",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Gamo",
+      "en": "Gamo",
+      "slug": "gamo"
+    },
+    "code": {
+      "id": "ET0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.189",
+      "lon": "37.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0811",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Gedeo",
+      "en": "Gedeo",
+      "slug": "gedeo"
+    },
+    "code": {
+      "id": "ET0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.144",
+      "lon": "38.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0803",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Gofa",
+      "en": "Gofa",
+      "slug": "gofa"
+    },
+    "code": {
+      "id": "ET0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.368",
+      "lon": "36.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0809",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Konso",
+      "en": "Konso",
+      "slug": "konso"
+    },
+    "code": {
+      "id": "ET0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.355",
+      "lon": "37.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0808",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kore",
+      "en": "Kore",
+      "slug": "kore"
+    },
+    "code": {
+      "id": "ET0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.788",
+      "lon": "37.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0812",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "South Omo",
+      "en": "South Omo",
+      "slug": "south-omo"
+    },
+    "code": {
+      "id": "ET0812",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.049",
+      "lon": "36.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET0801",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Wolayita",
+      "en": "Wolayita",
+      "slug": "wolayita"
+    },
+    "code": {
+      "id": "ET0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.863",
+      "lon": "37.724"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

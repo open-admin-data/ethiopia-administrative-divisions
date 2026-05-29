@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET160209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bilate Zuria",
+      "en": "Bilate Zuria",
+      "slug": "bilate-zuria"
+    },
+    "code": {
+      "id": "ET160209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.939",
+      "lon": "38.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boricha",
+      "en": "Boricha",
+      "slug": "boricha"
+    },
+    "code": {
+      "id": "ET160208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.919",
+      "lon": "38.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gorche",
+      "en": "Gorche",
+      "slug": "gorche"
+    },
+    "code": {
+      "id": "ET160204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.838",
+      "lon": "38.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawassa Zuria",
+      "en": "Hawassa Zuria",
+      "slug": "hawassa-zuria"
+    },
+    "code": {
+      "id": "ET160210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.054",
+      "lon": "38.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawela",
+      "en": "Hawela",
+      "slug": "hawela"
+    },
+    "code": {
+      "id": "ET160205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.92",
+      "lon": "38.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Leku town",
+      "en": "Leku town",
+      "slug": "leku-town"
+    },
+    "code": {
+      "id": "ET160206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.873",
+      "lon": "38.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Malga",
+      "en": "Malga",
+      "slug": "malga"
+    },
+    "code": {
+      "id": "ET160203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "38.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shebe Dino",
+      "en": "Shebe Dino",
+      "slug": "shebe-dino"
+    },
+    "code": {
+      "id": "ET160207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.882",
+      "lon": "38.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wondo-Genet",
+      "en": "Wondo-Genet",
+      "slug": "wondo-genet"
+    },
+    "code": {
+      "id": "ET160202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.021",
+      "lon": "38.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET160201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wondo-Genet town",
+      "en": "Wondo-Genet town",
+      "slug": "wondo-genet-town"
+    },
+    "code": {
+      "id": "ET160201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1602",
+      "level": 2,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET16",
+        "level": 1,
+        "name": {
+          "local": "Sidama",
+          "en": "Sidama",
+          "slug": "sidama"
+        }
+      },
+      {
+        "id": "ET1602",
+        "level": 2,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.046",
+      "lon": "38.613"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

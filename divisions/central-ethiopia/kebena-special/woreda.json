@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET070001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kebena Special",
+      "en": "Kebena Special",
+      "slug": "kebena-special"
+    },
+    "code": {
+      "id": "ET070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0700",
+      "level": 2,
+      "name": {
+        "local": "Kebena Special",
+        "en": "Kebena Special",
+        "slug": "kebena-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0700",
+        "level": 2,
+        "name": {
+          "local": "Kebena Special",
+          "en": "Kebena Special",
+          "slug": "kebena-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.322",
+      "lon": "37.909"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

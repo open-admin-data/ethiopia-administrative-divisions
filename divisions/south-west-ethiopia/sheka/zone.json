@@ -1,0 +1,47 @@
+{
+  "id": "ET1101",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Sheka",
+    "en": "Sheka",
+    "slug": "sheka"
+  },
+  "code": {
+    "id": "ET1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET11",
+    "level": 1,
+    "name": {
+      "local": "South West Ethiopia",
+      "en": "South West Ethiopia",
+      "slug": "south-west-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.538",
+    "lon": "35.413"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Ethiopia Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-29"
+url: "https://github.com/open-admin-data/ethiopia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/ethiopia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - ethiopia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Ethiopia's administrative hierarchy:
+  15 regions, 107 zones, 1,148 woredas.
+  Bilingual with coordinates and postal codes where available.

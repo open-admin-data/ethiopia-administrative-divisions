@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ET030313",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Angot",
+      "en": "Angot",
+      "slug": "angot"
+    },
+    "code": {
+      "id": "ET030313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.841",
+      "lon": "39.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bugna",
+      "en": "Bugna",
+      "slug": "bugna"
+    },
+    "code": {
+      "id": "ET030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.171",
+      "lon": "38.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030311",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dawunt",
+      "en": "Dawunt",
+      "slug": "dawunt"
+    },
+    "code": {
+      "id": "ET030311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.474",
+      "lon": "38.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030314",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Filakit town",
+      "en": "Filakit town",
+      "slug": "filakit-town"
+    },
+    "code": {
+      "id": "ET030314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.763",
+      "lon": "38.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030315",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gashena town",
+      "en": "Gashena town",
+      "slug": "gashena-town"
+    },
+    "code": {
+      "id": "ET030315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.668",
+      "lon": "38.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030312",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gazo",
+      "en": "Gazo",
+      "slug": "gazo"
+    },
+    "code": {
+      "id": "ET030312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.822",
+      "lon": "39.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gidan",
+      "en": "Gidan",
+      "slug": "gidan"
+    },
+    "code": {
+      "id": "ET030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.056",
+      "lon": "39.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guba Lafto",
+      "en": "Guba Lafto",
+      "slug": "guba-lafto"
+    },
+    "code": {
+      "id": "ET030307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "39.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Habru",
+      "en": "Habru",
+      "slug": "habru"
+    },
+    "code": {
+      "id": "ET030308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.671",
+      "lon": "39.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hara town",
+      "en": "Hara town",
+      "slug": "hara-town"
+    },
+    "code": {
+      "id": "ET030306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.841",
+      "lon": "39.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030399",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kobo town",
+      "en": "Kobo town",
+      "slug": "kobo-town"
+    },
+    "code": {
+      "id": "ET030399",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.151",
+      "lon": "39.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030398",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lalibela town",
+      "en": "Lalibela town",
+      "slug": "lalibela-town"
+    },
+    "code": {
+      "id": "ET030398",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "39.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lasta",
+      "en": "Lasta",
+      "slug": "lasta"
+    },
+    "code": {
+      "id": "ET030310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "38.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meket",
+      "en": "Meket",
+      "slug": "meket"
+    },
+    "code": {
+      "id": "ET030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.842",
+      "lon": "38.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030397",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mersa town",
+      "en": "Mersa town",
+      "slug": "mersa-town"
+    },
+    "code": {
+      "id": "ET030397",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.664",
+      "lon": "39.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Raya Kobo",
+      "en": "Raya Kobo",
+      "slug": "raya-kobo"
+    },
+    "code": {
+      "id": "ET030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.007",
+      "lon": "39.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wadla",
+      "en": "Wadla",
+      "slug": "wadla"
+    },
+    "code": {
+      "id": "ET030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.624",
+      "lon": "39.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Woldiya town",
+      "en": "Woldiya town",
+      "slug": "woldiya-town"
+    },
+    "code": {
+      "id": "ET030309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0303",
+      "level": 2,
+      "name": {
+        "local": "North Wello",
+        "en": "North Wello",
+        "slug": "north-wello"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0303",
+        "level": 2,
+        "name": {
+          "local": "North Wello",
+          "en": "North Wello",
+          "slug": "north-wello"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.823",
+      "lon": "39.594"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

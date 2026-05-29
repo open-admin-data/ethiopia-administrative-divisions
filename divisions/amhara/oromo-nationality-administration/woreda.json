@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET031004",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Artuma Fursi",
+      "en": "Artuma Fursi",
+      "slug": "artuma-fursi"
+    },
+    "code": {
+      "id": "ET031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "40.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031002",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bati",
+      "en": "Bati",
+      "slug": "bati"
+    },
+    "code": {
+      "id": "ET031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.074",
+      "lon": "40.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031099",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bati town",
+      "en": "Bati town",
+      "slug": "bati-town"
+    },
+    "code": {
+      "id": "ET031099",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.192",
+      "lon": "40.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031007",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chef Robit town",
+      "en": "Chef Robit town",
+      "slug": "chef-robit-town"
+    },
+    "code": {
+      "id": "ET031007",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.551",
+      "lon": "39.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031001",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dewa Cheffa",
+      "en": "Dewa Cheffa",
+      "slug": "dewa-cheffa"
+    },
+    "code": {
+      "id": "ET031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.779",
+      "lon": "39.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031005",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dewa Harewa",
+      "en": "Dewa Harewa",
+      "slug": "dewa-harewa"
+    },
+    "code": {
+      "id": "ET031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.766",
+      "lon": "40.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031003",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jilye Tumuga",
+      "en": "Jilye Tumuga",
+      "slug": "jilye-tumuga"
+    },
+    "code": {
+      "id": "ET031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.26",
+      "lon": "40.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031006",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kemisie town",
+      "en": "Kemisie town",
+      "slug": "kemisie-town"
+    },
+    "code": {
+      "id": "ET031006",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.718",
+      "lon": "39.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031008",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Senbete town",
+      "en": "Senbete town",
+      "slug": "senbete-town"
+    },
+    "code": {
+      "id": "ET031008",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0310",
+      "level": 2,
+      "name": {
+        "local": "Oromo Nationality Administration",
+        "en": "Oromo Nationality Administration",
+        "slug": "oromo-nationality-administration"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0310",
+        "level": 2,
+        "name": {
+          "local": "Oromo Nationality Administration",
+          "en": "Oromo Nationality Administration",
+          "slug": "oromo-nationality-administration"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.318",
+      "lon": "40.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

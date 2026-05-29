@@ -1,0 +1,89 @@
+# Gambela — Ethiopia Administrative Divisions
+
+> 4 zones, 15 woredas
+> Code: ET12
+> Coordinates: 7.684, 34.337
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Agnewak
+
+Code: ET1202, Coordinates: 7.548, 34.455
+Woredas: 7
+
+#### Abobo
+
+Code: ET120201, Coordinates: 7.921, 34.497
+
+#### Dima (GM)
+
+Code: ET120205, Coordinates: 7.003, 34.683
+
+#### Gambela National Park
+
+Code: ET120200, Coordinates: 8.106, 33.993
+
+#### Gambela town
+
+Code: ET120206, Coordinates: 8.246, 34.589
+
+#### Gambela Zuria
+
+Code: ET120202, Coordinates: 8.148, 34.751
+
+#### Gog
+
+Code: ET120203, Coordinates: 7.62, 34.15
+
+#### Jore
+
+Code: ET120204, Coordinates: 7.897, 33.739
+
+### Itang Special
+
+Code: ET1204, Coordinates: 8.346, 34.22
+Woredas: 1
+
+#### Itang
+
+Code: ET120407, Coordinates: 8.346, 34.22
+
+### Majang
+
+Code: ET1203, Coordinates: 7.29, 35.128
+Woredas: 2
+
+#### Godere
+
+Code: ET120301, Coordinates: 7.201, 35.299
+
+#### Mengesh
+
+Code: ET120308, Coordinates: 7.437, 35.08
+
+### Nuwer
+
+Code: ET1201, Coordinates: 8.112, 33.263
+Woredas: 5
+
+#### Akobo
+
+Code: ET120101, Coordinates: 7.964, 33.272
+
+#### Jikawo
+
+Code: ET120103, Coordinates: 8.346, 33.632
+
+#### Lare
+
+Code: ET120102, Coordinates: 8.342, 33.944
+
+#### Makuey
+
+Code: ET120105, Coordinates: 8.219, 33.713
+
+#### Wantawo
+
+Code: ET120104, Coordinates: 8.319, 33.319
+

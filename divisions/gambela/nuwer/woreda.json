@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET120101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Akobo",
+      "en": "Akobo",
+      "slug": "akobo"
+    },
+    "code": {
+      "id": "ET120101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1201",
+      "level": 2,
+      "name": {
+        "local": "Nuwer",
+        "en": "Nuwer",
+        "slug": "nuwer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1201",
+        "level": 2,
+        "name": {
+          "local": "Nuwer",
+          "en": "Nuwer",
+          "slug": "nuwer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.964",
+      "lon": "33.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jikawo",
+      "en": "Jikawo",
+      "slug": "jikawo"
+    },
+    "code": {
+      "id": "ET120103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1201",
+      "level": 2,
+      "name": {
+        "local": "Nuwer",
+        "en": "Nuwer",
+        "slug": "nuwer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1201",
+        "level": 2,
+        "name": {
+          "local": "Nuwer",
+          "en": "Nuwer",
+          "slug": "nuwer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.346",
+      "lon": "33.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lare",
+      "en": "Lare",
+      "slug": "lare"
+    },
+    "code": {
+      "id": "ET120102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1201",
+      "level": 2,
+      "name": {
+        "local": "Nuwer",
+        "en": "Nuwer",
+        "slug": "nuwer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1201",
+        "level": 2,
+        "name": {
+          "local": "Nuwer",
+          "en": "Nuwer",
+          "slug": "nuwer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.342",
+      "lon": "33.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Makuey",
+      "en": "Makuey",
+      "slug": "makuey"
+    },
+    "code": {
+      "id": "ET120105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1201",
+      "level": 2,
+      "name": {
+        "local": "Nuwer",
+        "en": "Nuwer",
+        "slug": "nuwer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1201",
+        "level": 2,
+        "name": {
+          "local": "Nuwer",
+          "en": "Nuwer",
+          "slug": "nuwer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.219",
+      "lon": "33.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET120104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wantawo",
+      "en": "Wantawo",
+      "slug": "wantawo"
+    },
+    "code": {
+      "id": "ET120104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1201",
+      "level": 2,
+      "name": {
+        "local": "Nuwer",
+        "en": "Nuwer",
+        "slug": "nuwer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1201",
+        "level": 2,
+        "name": {
+          "local": "Nuwer",
+          "en": "Nuwer",
+          "slug": "nuwer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.319",
+      "lon": "33.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

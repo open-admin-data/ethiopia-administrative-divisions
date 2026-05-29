@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET070309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adilo",
+      "en": "Adilo",
+      "slug": "adilo"
+    },
+    "code": {
+      "id": "ET070309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.239",
+      "lon": "37.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Angacha",
+      "en": "Angacha",
+      "slug": "angacha"
+    },
+    "code": {
+      "id": "ET070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.359",
+      "lon": "37.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Damboya",
+      "en": "Damboya",
+      "slug": "damboya"
+    },
+    "code": {
+      "id": "ET070307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.358",
+      "lon": "37.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Doyogena",
+      "en": "Doyogena",
+      "slug": "doyogena"
+    },
+    "code": {
+      "id": "ET070306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.387",
+      "lon": "37.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Durame town",
+      "en": "Durame town",
+      "slug": "durame-town"
+    },
+    "code": {
+      "id": "ET070308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.242",
+      "lon": "37.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070312",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hadero town",
+      "en": "Hadero town",
+      "slug": "hadero-town"
+    },
+    "code": {
+      "id": "ET070312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.193",
+      "lon": "37.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hadero Tunto",
+      "en": "Hadero Tunto",
+      "slug": "hadero-tunto"
+    },
+    "code": {
+      "id": "ET070305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.236",
+      "lon": "37.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kacha Bira",
+      "en": "Kacha Bira",
+      "slug": "kacha-bira"
+    },
+    "code": {
+      "id": "ET070304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.236",
+      "lon": "37.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kediada Gambela",
+      "en": "Kediada Gambela",
+      "slug": "kediada-gambela"
+    },
+    "code": {
+      "id": "ET070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.254",
+      "lon": "37.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shinshincho town",
+      "en": "Shinshincho town",
+      "slug": "shinshincho-town"
+    },
+    "code": {
+      "id": "ET070310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0703",
+      "level": 2,
+      "name": {
+        "local": "Kembata",
+        "en": "Kembata",
+        "slug": "kembata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0703",
+        "level": 2,
+        "name": {
+          "local": "Kembata",
+          "en": "Kembata",
+          "slug": "kembata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.204",
+      "lon": "37.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

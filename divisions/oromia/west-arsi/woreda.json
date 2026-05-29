@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ET041710",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adaba",
+      "en": "Adaba",
+      "slug": "adaba"
+    },
+    "code": {
+      "id": "ET041710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.989",
+      "lon": "39.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041703",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arsi Negele",
+      "en": "Arsi Negele",
+      "slug": "arsi-negele"
+    },
+    "code": {
+      "id": "ET041703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.452",
+      "lon": "38.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041799",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arsi Negele town",
+      "en": "Arsi Negele town",
+      "slug": "arsi-negele-town"
+    },
+    "code": {
+      "id": "ET041799",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.342",
+      "lon": "38.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041707",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dodola",
+      "en": "Dodola",
+      "slug": "dodola"
+    },
+    "code": {
+      "id": "ET041707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.888",
+      "lon": "39.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041700",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dodola town",
+      "en": "Dodola town",
+      "slug": "dodola-town"
+    },
+    "code": {
+      "id": "ET041700",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.979",
+      "lon": "39.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041706",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gedeb Asasa",
+      "en": "Gedeb Asasa",
+      "slug": "gedeb-asasa"
+    },
+    "code": {
+      "id": "ET041706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.183",
+      "lon": "39.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041783",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Heban Arsi",
+      "en": "Heban Arsi",
+      "slug": "heban-arsi"
+    },
+    "code": {
+      "id": "ET041783",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.558",
+      "lon": "38.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041704",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kofele",
+      "en": "Kofele",
+      "slug": "kofele"
+    },
+    "code": {
+      "id": "ET041704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.021",
+      "lon": "38.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041713",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kofele town",
+      "en": "Kofele town",
+      "slug": "kofele-town"
+    },
+    "code": {
+      "id": "ET041713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.073",
+      "lon": "38.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041708",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kokosa",
+      "en": "Kokosa",
+      "slug": "kokosa"
+    },
+    "code": {
+      "id": "ET041708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.791",
+      "lon": "38.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041705",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kore",
+      "en": "Kore",
+      "slug": "kore"
+    },
+    "code": {
+      "id": "ET041705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.225",
+      "lon": "38.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041709",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nenesebo",
+      "en": "Nenesebo",
+      "slug": "nenesebo"
+    },
+    "code": {
+      "id": "ET041709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.583",
+      "lon": "39.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041702",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shala",
+      "en": "Shala",
+      "slug": "shala"
+    },
+    "code": {
+      "id": "ET041702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.351",
+      "lon": "38.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041712",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shashemene",
+      "en": "Shashemene",
+      "slug": "shashemene"
+    },
+    "code": {
+      "id": "ET041712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.276",
+      "lon": "38.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041711",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shashemene town",
+      "en": "Shashemene town",
+      "slug": "shashemene-town"
+    },
+    "code": {
+      "id": "ET041711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.185",
+      "lon": "38.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041701",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Siraro",
+      "en": "Siraro",
+      "slug": "siraro"
+    },
+    "code": {
+      "id": "ET041701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.129",
+      "lon": "38.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041797",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wondo",
+      "en": "Wondo",
+      "slug": "wondo"
+    },
+    "code": {
+      "id": "ET041797",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0417",
+      "level": 2,
+      "name": {
+        "local": "West Arsi",
+        "en": "West Arsi",
+        "slug": "west-arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0417",
+        "level": 2,
+        "name": {
+          "local": "West Arsi",
+          "en": "West Arsi",
+          "slug": "west-arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.079",
+      "lon": "38.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

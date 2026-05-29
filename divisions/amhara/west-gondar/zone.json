@@ -1,0 +1,47 @@
+{
+  "id": "ET0312",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "West Gondar",
+    "en": "West Gondar",
+    "slug": "west-gondar"
+  },
+  "code": {
+    "id": "ET0312",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.44",
+    "lon": "36.158"
+  },
+  "metadata": {},
+  "source": {}
+}

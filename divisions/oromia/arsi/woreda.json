@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "ET040810",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amigna",
+      "en": "Amigna",
+      "slug": "amigna"
+    },
+    "code": {
+      "id": "ET040810",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.958",
+      "lon": "40.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040802",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aseko",
+      "en": "Aseko",
+      "slug": "aseko"
+    },
+    "code": {
+      "id": "ET040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.531",
+      "lon": "40.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040825",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Asela town",
+      "en": "Asela town",
+      "slug": "asela-town"
+    },
+    "code": {
+      "id": "ET040825",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.937",
+      "lon": "39.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040823",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bele Gesgar",
+      "en": "Bele Gesgar",
+      "slug": "bele-gesgar"
+    },
+    "code": {
+      "id": "ET040823",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.683",
+      "lon": "39.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040894",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bokoji town",
+      "en": "Bokoji town",
+      "slug": "bokoji-town"
+    },
+    "code": {
+      "id": "ET040894",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.529",
+      "lon": "39.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040809",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chole",
+      "en": "Chole",
+      "slug": "chole"
+    },
+    "code": {
+      "id": "ET040809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.133",
+      "lon": "39.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040815",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degeluna Tijo",
+      "en": "Degeluna Tijo",
+      "slug": "degeluna-tijo"
+    },
+    "code": {
+      "id": "ET040815",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.75",
+      "lon": "39.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040895",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dera town",
+      "en": "Dera town",
+      "slug": "dera-town"
+    },
+    "code": {
+      "id": "ET040895",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.32",
+      "lon": "39.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040822",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Diksis",
+      "en": "Diksis",
+      "slug": "diksis"
+    },
+    "code": {
+      "id": "ET040822",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.043",
+      "lon": "39.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040805",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dodota",
+      "en": "Dodota",
+      "slug": "dodota"
+    },
+    "code": {
+      "id": "ET040805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.248",
+      "lon": "39.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040803",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Golocha",
+      "en": "Golocha",
+      "slug": "golocha"
+    },
+    "code": {
+      "id": "ET040803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.216",
+      "lon": "40.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040819",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guna",
+      "en": "Guna",
+      "slug": "guna"
+    },
+    "code": {
+      "id": "ET040819",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.329",
+      "lon": "39.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040807",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hitosa",
+      "en": "Hitosa",
+      "slug": "hitosa"
+    },
+    "code": {
+      "id": "ET040807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.071",
+      "lon": "39.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040824",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Inkolo Wabe",
+      "en": "Inkolo Wabe",
+      "slug": "inkolo-wabe"
+    },
+    "code": {
+      "id": "ET040824",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.424",
+      "lon": "39.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040804",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jeju",
+      "en": "Jeju",
+      "slug": "jeju"
+    },
+    "code": {
+      "id": "ET040804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.359",
+      "lon": "39.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040818",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Limu Bilbilo",
+      "en": "Limu Bilbilo",
+      "slug": "limu-bilbilo"
+    },
+    "code": {
+      "id": "ET040818",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.43",
+      "lon": "39.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040821",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lude Hitosa",
+      "en": "Lude Hitosa",
+      "slug": "lude-hitosa"
+    },
+    "code": {
+      "id": "ET040821",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.097",
+      "lon": "39.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040801",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Merti",
+      "en": "Merti",
+      "slug": "merti"
+    },
+    "code": {
+      "id": "ET040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.529",
+      "lon": "39.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040817",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Munessa",
+      "en": "Munessa",
+      "slug": "munessa"
+    },
+    "code": {
+      "id": "ET040817",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.525",
+      "lon": "38.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040812",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Robe",
+      "en": "Robe",
+      "slug": "robe"
+    },
+    "code": {
+      "id": "ET040812",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.672",
+      "lon": "39.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040811",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Seru",
+      "en": "Seru",
+      "slug": "seru"
+    },
+    "code": {
+      "id": "ET040811",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.724",
+      "lon": "40.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040893",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shanan Kolu",
+      "en": "Shanan Kolu",
+      "slug": "shanan-kolu"
+    },
+    "code": {
+      "id": "ET040893",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.45",
+      "lon": "40.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040814",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shirka",
+      "en": "Shirka",
+      "slug": "shirka"
+    },
+    "code": {
+      "id": "ET040814",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.571",
+      "lon": "39.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040820",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sire",
+      "en": "Sire",
+      "slug": "sire"
+    },
+    "code": {
+      "id": "ET040820",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.298",
+      "lon": "39.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040808",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sude",
+      "en": "Sude",
+      "slug": "sude"
+    },
+    "code": {
+      "id": "ET040808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.011",
+      "lon": "39.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040813",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tena",
+      "en": "Tena",
+      "slug": "tena"
+    },
+    "code": {
+      "id": "ET040813",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.791",
+      "lon": "39.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040816",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tiyo",
+      "en": "Tiyo",
+      "slug": "tiyo"
+    },
+    "code": {
+      "id": "ET040816",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "39.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040806",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ziway Dugda",
+      "en": "Ziway Dugda",
+      "slug": "ziway-dugda"
+    },
+    "code": {
+      "id": "ET040806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0408",
+      "level": 2,
+      "name": {
+        "local": "Arsi",
+        "en": "Arsi",
+        "slug": "arsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0408",
+        "level": 2,
+        "name": {
+          "local": "Arsi",
+          "en": "Arsi",
+          "slug": "arsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.009",
+      "lon": "38.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

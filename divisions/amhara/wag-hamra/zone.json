@@ -1,0 +1,47 @@
+{
+  "id": "ET0308",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Wag Hamra",
+    "en": "Wag Hamra",
+    "slug": "wag-hamra"
+  },
+  "code": {
+    "id": "ET0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET03",
+    "level": 1,
+    "name": {
+      "local": "Amhara",
+      "en": "Amhara",
+      "slug": "amhara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET03",
+      "level": 1,
+      "name": {
+        "local": "Amhara",
+        "en": "Amhara",
+        "slug": "amhara"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.721",
+    "lon": "38.817"
+  },
+  "metadata": {},
+  "source": {}
+}

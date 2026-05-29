@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET050999",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bokolmayo",
+      "en": "Bokolmayo",
+      "slug": "bokolmayo"
+    },
+    "code": {
+      "id": "ET050999",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.416",
+      "lon": "41.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050991",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Deka Suftu",
+      "en": "Deka Suftu",
+      "slug": "deka-suftu"
+    },
+    "code": {
+      "id": "ET050991",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.047",
+      "lon": "40.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050902",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dolo Ado",
+      "en": "Dolo Ado",
+      "slug": "dolo-ado"
+    },
+    "code": {
+      "id": "ET050902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.163",
+      "lon": "41.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050901",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Filtu",
+      "en": "Filtu",
+      "slug": "filtu"
+    },
+    "code": {
+      "id": "ET050901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.029",
+      "lon": "40.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050903",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goro Baqaqsa",
+      "en": "Goro Baqaqsa",
+      "slug": "goro-baqaqsa"
+    },
+    "code": {
+      "id": "ET050903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.161",
+      "lon": "41.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050904",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guradamole",
+      "en": "Guradamole",
+      "slug": "guradamole"
+    },
+    "code": {
+      "id": "ET050904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0509",
+      "level": 2,
+      "name": {
+        "local": "Liban",
+        "en": "Liban",
+        "slug": "liban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0509",
+        "level": 2,
+        "name": {
+          "local": "Liban",
+          "en": "Liban",
+          "slug": "liban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.091",
+      "lon": "41.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

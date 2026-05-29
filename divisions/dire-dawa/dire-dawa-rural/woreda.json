@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ET150201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aseliso",
+      "en": "Aseliso",
+      "slug": "aseliso"
+    },
+    "code": {
+      "id": "ET150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1502",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa rural",
+        "en": "Dire Dawa rural",
+        "slug": "dire-dawa-rural"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1502",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa rural",
+          "en": "Dire Dawa rural",
+          "slug": "dire-dawa-rural"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.572",
+      "lon": "41.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Biyoawale",
+      "en": "Biyoawale",
+      "slug": "biyoawale"
+    },
+    "code": {
+      "id": "ET150208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1502",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa rural",
+        "en": "Dire Dawa rural",
+        "slug": "dire-dawa-rural"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1502",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa rural",
+          "en": "Dire Dawa rural",
+          "slug": "dire-dawa-rural"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.576",
+      "lon": "42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jeldessa",
+      "en": "Jeldessa",
+      "slug": "jeldessa"
+    },
+    "code": {
+      "id": "ET150206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1502",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa rural",
+        "en": "Dire Dawa rural",
+        "slug": "dire-dawa-rural"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1502",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa rural",
+          "en": "Dire Dawa rural",
+          "slug": "dire-dawa-rural"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.69",
+      "lon": "42.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET150207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wahil",
+      "en": "Wahil",
+      "slug": "wahil"
+    },
+    "code": {
+      "id": "ET150207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1502",
+      "level": 2,
+      "name": {
+        "local": "Dire Dawa rural",
+        "en": "Dire Dawa rural",
+        "slug": "dire-dawa-rural"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET15",
+        "level": 1,
+        "name": {
+          "local": "Dire Dawa",
+          "en": "Dire Dawa",
+          "slug": "dire-dawa"
+        }
+      },
+      {
+        "id": "ET1502",
+        "level": 2,
+        "name": {
+          "local": "Dire Dawa rural",
+          "en": "Dire Dawa rural",
+          "slug": "dire-dawa-rural"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.52",
+      "lon": "41.861"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

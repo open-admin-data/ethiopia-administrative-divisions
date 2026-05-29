@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ET040906",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Anchar",
+      "en": "Anchar",
+      "slug": "anchar"
+    },
+    "code": {
+      "id": "ET040906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.714",
+      "lon": "40.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040914",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bedesa town",
+      "en": "Bedesa town",
+      "slug": "bedesa-town"
+    },
+    "code": {
+      "id": "ET040914",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.905",
+      "lon": "40.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040910",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boke",
+      "en": "Boke",
+      "slug": "boke"
+    },
+    "code": {
+      "id": "ET040910",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.613",
+      "lon": "40.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040998",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Burqua Dhintu",
+      "en": "Burqua Dhintu",
+      "slug": "burqua-dhintu"
+    },
+    "code": {
+      "id": "ET040998",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.306",
+      "lon": "41.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040905",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chiro town",
+      "en": "Chiro town",
+      "slug": "chiro-town"
+    },
+    "code": {
+      "id": "ET040905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.079",
+      "lon": "40.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040913",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chiro Zuria",
+      "en": "Chiro Zuria",
+      "slug": "chiro-zuria"
+    },
+    "code": {
+      "id": "ET040913",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.057",
+      "lon": "40.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040909",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daro Lebu",
+      "en": "Daro Lebu",
+      "slug": "daro-lebu"
+    },
+    "code": {
+      "id": "ET040909",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.465",
+      "lon": "40.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040902",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Doba",
+      "en": "Doba",
+      "slug": "doba"
+    },
+    "code": {
+      "id": "ET040902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.327",
+      "lon": "41.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040912",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gemechis",
+      "en": "Gemechis",
+      "slug": "gemechis"
+    },
+    "code": {
+      "id": "ET040912",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.858",
+      "lon": "40.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040907",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goba Koricha",
+      "en": "Goba Koricha",
+      "slug": "goba-koricha"
+    },
+    "code": {
+      "id": "ET040907",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.97",
+      "lon": "40.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040991",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gumbi Bordede",
+      "en": "Gumbi Bordede",
+      "slug": "gumbi-bordede"
+    },
+    "code": {
+      "id": "ET040991",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.011",
+      "lon": "40.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040908",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Habro",
+      "en": "Habro",
+      "slug": "habro"
+    },
+    "code": {
+      "id": "ET040908",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.754",
+      "lon": "40.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040915",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawi Gudina",
+      "en": "Hawi Gudina",
+      "slug": "hawi-gudina"
+    },
+    "code": {
+      "id": "ET040915",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.129",
+      "lon": "40.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040911",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kuni /Oda Bultum",
+      "en": "Kuni /Oda Bultum",
+      "slug": "kuni-oda-bultum"
+    },
+    "code": {
+      "id": "ET040911",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.579",
+      "lon": "41.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040904",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mesela /Shen Duggoo",
+      "en": "Mesela /Shen Duggoo",
+      "slug": "mesela-shen-duggoo"
+    },
+    "code": {
+      "id": "ET040904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.987",
+      "lon": "41.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040901",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mieso",
+      "en": "Mieso",
+      "slug": "mieso"
+    },
+    "code": {
+      "id": "ET040901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.275",
+      "lon": "40.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040903",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tulo (OR)",
+      "en": "Tulo (OR)",
+      "slug": "tulo-or"
+    },
+    "code": {
+      "id": "ET040903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0409",
+      "level": 2,
+      "name": {
+        "local": "West Hararge",
+        "en": "West Hararge",
+        "slug": "west-hararge"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0409",
+        "level": 2,
+        "name": {
+          "local": "West Hararge",
+          "en": "West Hararge",
+          "slug": "west-hararge"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.177",
+      "lon": "41.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

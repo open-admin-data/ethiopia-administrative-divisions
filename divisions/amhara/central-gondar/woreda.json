@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ET031115",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Alefa",
+      "en": "Alefa",
+      "slug": "alefa"
+    },
+    "code": {
+      "id": "ET031115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.939",
+      "lon": "36.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amba Giorgis town",
+      "en": "Amba Giorgis town",
+      "slug": "amba-giorgis-town"
+    },
+    "code": {
+      "id": "ET031103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.77",
+      "lon": "37.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031199",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aykel town",
+      "en": "Aykel town",
+      "slug": "aykel-town"
+    },
+    "code": {
+      "id": "ET031199",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.55",
+      "lon": "37.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chilga 1",
+      "en": "Chilga 1",
+      "slug": "chilga-1"
+    },
+    "code": {
+      "id": "ET031106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.618",
+      "lon": "37.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chilga 2",
+      "en": "Chilga 2",
+      "slug": "chilga-2"
+    },
+    "code": {
+      "id": "ET031112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.42",
+      "lon": "36.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031117",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "East Belesa",
+      "en": "East Belesa",
+      "slug": "east-belesa"
+    },
+    "code": {
+      "id": "ET031117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.452",
+      "lon": "38.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "East Dembia",
+      "en": "East Dembia",
+      "slug": "east-dembia"
+    },
+    "code": {
+      "id": "ET031111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.351",
+      "lon": "37.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031118",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gondar town",
+      "en": "Gondar town",
+      "slug": "gondar-town"
+    },
+    "code": {
+      "id": "ET031118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.576",
+      "lon": "37.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gonder Zuria",
+      "en": "Gonder Zuria",
+      "slug": "gonder-zuria"
+    },
+    "code": {
+      "id": "ET031110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.345",
+      "lon": "37.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031122",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kinfaz Begela",
+      "en": "Kinfaz Begela",
+      "slug": "kinfaz-begela"
+    },
+    "code": {
+      "id": "ET031122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "38.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kolla Debba town",
+      "en": "Kolla Debba town",
+      "slug": "kolla-debba-town"
+    },
+    "code": {
+      "id": "ET031105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.426",
+      "lon": "37.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lay Armacho",
+      "en": "Lay Armacho",
+      "slug": "lay-armacho"
+    },
+    "code": {
+      "id": "ET031108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.766",
+      "lon": "37.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031119",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Masero Denb /Central Armacho",
+      "en": "Masero Denb /Central Armacho",
+      "slug": "masero-denb-central-armacho"
+    },
+    "code": {
+      "id": "ET031119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.009",
+      "lon": "36.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shawra town",
+      "en": "Shawra town",
+      "slug": "shawra-town"
+    },
+    "code": {
+      "id": "ET031104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.932",
+      "lon": "36.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031120",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tach Armacho",
+      "en": "Tach Armacho",
+      "slug": "tach-armacho"
+    },
+    "code": {
+      "id": "ET031120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.053",
+      "lon": "37.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031121",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Takusa",
+      "en": "Takusa",
+      "slug": "takusa"
+    },
+    "code": {
+      "id": "ET031121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.222",
+      "lon": "36.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tegede",
+      "en": "Tegede",
+      "slug": "tegede"
+    },
+    "code": {
+      "id": "ET031107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3",
+      "lon": "37.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wegera",
+      "en": "Wegera",
+      "slug": "wegera"
+    },
+    "code": {
+      "id": "ET031109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.782",
+      "lon": "37.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031116",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "West Belesa",
+      "en": "West Belesa",
+      "slug": "west-belesa"
+    },
+    "code": {
+      "id": "ET031116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.494",
+      "lon": "37.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031125",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "West Dembiya",
+      "en": "West Dembiya",
+      "slug": "west-dembiya"
+    },
+    "code": {
+      "id": "ET031125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0311",
+      "level": 2,
+      "name": {
+        "local": "Central Gondar",
+        "en": "Central Gondar",
+        "slug": "central-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0311",
+        "level": 2,
+        "name": {
+          "local": "Central Gondar",
+          "en": "Central Gondar",
+          "slug": "central-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.299",
+      "lon": "37.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

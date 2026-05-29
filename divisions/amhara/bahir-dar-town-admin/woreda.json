@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET031401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bahir Dar town",
+      "en": "Bahir Dar town",
+      "slug": "bahir-dar-town"
+    },
+    "code": {
+      "id": "ET031401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0314",
+      "level": 2,
+      "name": {
+        "local": "Bahir Dar town Admin",
+        "en": "Bahir Dar town Admin",
+        "slug": "bahir-dar-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0314",
+        "level": 2,
+        "name": {
+          "local": "Bahir Dar town Admin",
+          "en": "Bahir Dar town Admin",
+          "slug": "bahir-dar-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.594",
+      "lon": "37.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Deq",
+      "en": "Deq",
+      "slug": "deq"
+    },
+    "code": {
+      "id": "ET031404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0314",
+      "level": 2,
+      "name": {
+        "local": "Bahir Dar town Admin",
+        "en": "Bahir Dar town Admin",
+        "slug": "bahir-dar-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0314",
+        "level": 2,
+        "name": {
+          "local": "Bahir Dar town Admin",
+          "en": "Bahir Dar town Admin",
+          "slug": "bahir-dar-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.963",
+      "lon": "37.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meshenti town",
+      "en": "Meshenti town",
+      "slug": "meshenti-town"
+    },
+    "code": {
+      "id": "ET031405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0314",
+      "level": 2,
+      "name": {
+        "local": "Bahir Dar town Admin",
+        "en": "Bahir Dar town Admin",
+        "slug": "bahir-dar-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0314",
+        "level": 2,
+        "name": {
+          "local": "Bahir Dar town Admin",
+          "en": "Bahir Dar town Admin",
+          "slug": "bahir-dar-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.461",
+      "lon": "37.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tis Abay town",
+      "en": "Tis Abay town",
+      "slug": "tis-abay-town"
+    },
+    "code": {
+      "id": "ET031406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0314",
+      "level": 2,
+      "name": {
+        "local": "Bahir Dar town Admin",
+        "en": "Bahir Dar town Admin",
+        "slug": "bahir-dar-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0314",
+        "level": 2,
+        "name": {
+          "local": "Bahir Dar town Admin",
+          "en": "Bahir Dar town Admin",
+          "slug": "bahir-dar-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.496",
+      "lon": "37.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zege town",
+      "en": "Zege town",
+      "slug": "zege-town"
+    },
+    "code": {
+      "id": "ET031403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0314",
+      "level": 2,
+      "name": {
+        "local": "Bahir Dar town Admin",
+        "en": "Bahir Dar town Admin",
+        "slug": "bahir-dar-town-admin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0314",
+        "level": 2,
+        "name": {
+          "local": "Bahir Dar town Admin",
+          "en": "Bahir Dar town Admin",
+          "slug": "bahir-dar-town-admin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.699",
+      "lon": "37.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

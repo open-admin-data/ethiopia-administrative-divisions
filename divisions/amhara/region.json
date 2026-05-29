@@ -1,0 +1,30 @@
+{
+  "id": "ET03",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Amhara",
+    "en": "Amhara",
+    "slug": "amhara"
+  },
+  "code": {
+    "id": "ET03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 14,
+    "woreda": 225
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.565",
+    "lon": "38.044"
+  },
+  "metadata": {},
+  "source": {}
+}

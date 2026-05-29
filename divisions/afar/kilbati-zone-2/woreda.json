@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET020203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abaala",
+      "en": "Abaala",
+      "slug": "abaala"
+    },
+    "code": {
+      "id": "ET020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.224",
+      "lon": "39.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abaala town",
+      "en": "Abaala town",
+      "slug": "abaala-town"
+    },
+    "code": {
+      "id": "ET020209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.36",
+      "lon": "39.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Afdera",
+      "en": "Afdera",
+      "slug": "afdera"
+    },
+    "code": {
+      "id": "ET020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.547",
+      "lon": "40.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Berahile",
+      "en": "Berahile",
+      "slug": "berahile"
+    },
+    "code": {
+      "id": "ET020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.961",
+      "lon": "40.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bidu",
+      "en": "Bidu",
+      "slug": "bidu"
+    },
+    "code": {
+      "id": "ET020208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.003",
+      "lon": "41.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dalol",
+      "en": "Dalol",
+      "slug": "dalol"
+    },
+    "code": {
+      "id": "ET020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.309",
+      "lon": "40.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Erebti",
+      "en": "Erebti",
+      "slug": "erebti"
+    },
+    "code": {
+      "id": "ET020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.141",
+      "lon": "40.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kunneba",
+      "en": "Kunneba",
+      "slug": "kunneba"
+    },
+    "code": {
+      "id": "ET020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.053",
+      "lon": "39.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Megale",
+      "en": "Megale",
+      "slug": "megale"
+    },
+    "code": {
+      "id": "ET020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.682",
+      "lon": "39.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wasama",
+      "en": "Wasama",
+      "slug": "wasama"
+    },
+    "code": {
+      "id": "ET020210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0202",
+      "level": 2,
+      "name": {
+        "local": "Kilbati /Zone 2",
+        "en": "Kilbati /Zone 2",
+        "slug": "kilbati-zone-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0202",
+        "level": 2,
+        "name": {
+          "local": "Kilbati /Zone 2",
+          "en": "Kilbati /Zone 2",
+          "slug": "kilbati-zone-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5",
+      "lon": "39.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

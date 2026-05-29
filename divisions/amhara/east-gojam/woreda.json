@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "ET030618",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amanuel town",
+      "en": "Amanuel town",
+      "slug": "amanuel-town"
+    },
+    "code": {
+      "id": "ET030618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.441",
+      "lon": "37.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030617",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aneded",
+      "en": "Aneded",
+      "slug": "aneded"
+    },
+    "code": {
+      "id": "ET030617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.182",
+      "lon": "37.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030612",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Awabel",
+      "en": "Awabel",
+      "slug": "awabel"
+    },
+    "code": {
+      "id": "ET030612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.221",
+      "lon": "38.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030611",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Baso Liben",
+      "en": "Baso Liben",
+      "slug": "baso-liben"
+    },
+    "code": {
+      "id": "ET030611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.028",
+      "lon": "37.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030699",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bechena town",
+      "en": "Bechena town",
+      "slug": "bechena-town"
+    },
+    "code": {
+      "id": "ET030699",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.453",
+      "lon": "38.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bibugn",
+      "en": "Bibugn",
+      "slug": "bibugn"
+    },
+    "code": {
+      "id": "ET030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.834",
+      "lon": "37.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030607",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debay Telatgen",
+      "en": "Debay Telatgen",
+      "slug": "debay-telatgen"
+    },
+    "code": {
+      "id": "ET030607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.544",
+      "lon": "37.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030608",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Elias",
+      "en": "Debre Elias",
+      "slug": "debre-elias"
+    },
+    "code": {
+      "id": "ET030608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.233",
+      "lon": "37.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030615",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debre Markos town",
+      "en": "Debre Markos town",
+      "slug": "debre-markos-town"
+    },
+    "code": {
+      "id": "ET030615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.327",
+      "lon": "37.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030621",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debrework town",
+      "en": "Debrework town",
+      "slug": "debrework-town"
+    },
+    "code": {
+      "id": "ET030621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.656",
+      "lon": "38.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030613",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dejen",
+      "en": "Dejen",
+      "slug": "dejen"
+    },
+    "code": {
+      "id": "ET030613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.202",
+      "lon": "38.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030698",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dejen town",
+      "en": "Dejen town",
+      "slug": "dejen-town"
+    },
+    "code": {
+      "id": "ET030698",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.168",
+      "lon": "38.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030605",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enarj Enawga",
+      "en": "Enarj Enawga",
+      "slug": "enarj-enawga"
+    },
+    "code": {
+      "id": "ET030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.687",
+      "lon": "38.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enebse Sarmder",
+      "en": "Enebse Sarmder",
+      "slug": "enebse-sarmder"
+    },
+    "code": {
+      "id": "ET030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.866",
+      "lon": "38.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030606",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enemay",
+      "en": "Enemay",
+      "slug": "enemay"
+    },
+    "code": {
+      "id": "ET030606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.506",
+      "lon": "38.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goncha Siso Enebse",
+      "en": "Goncha Siso Enebse",
+      "slug": "goncha-siso-enebse"
+    },
+    "code": {
+      "id": "ET030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.888",
+      "lon": "38.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030620",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gundwoin town",
+      "en": "Gundwoin town",
+      "slug": "gundwoin-town"
+    },
+    "code": {
+      "id": "ET030620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "38.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030610",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guzamn",
+      "en": "Guzamn",
+      "slug": "guzamn"
+    },
+    "code": {
+      "id": "ET030610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "37.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030602",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hulet Ej Enese",
+      "en": "Hulet Ej Enese",
+      "slug": "hulet-ej-enese"
+    },
+    "code": {
+      "id": "ET030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.897",
+      "lon": "37.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030622",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lumame town",
+      "en": "Lumame town",
+      "slug": "lumame-town"
+    },
+    "code": {
+      "id": "ET030622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.253",
+      "lon": "37.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030623",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Merto Lemariyam town",
+      "en": "Merto Lemariyam town",
+      "slug": "merto-lemariyam-town"
+    },
+    "code": {
+      "id": "ET030623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.869",
+      "lon": "38.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030609",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Michakel",
+      "en": "Michakel",
+      "slug": "michakel"
+    },
+    "code": {
+      "id": "ET030609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.493",
+      "lon": "37.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030694",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mota town",
+      "en": "Mota town",
+      "slug": "mota-town"
+    },
+    "code": {
+      "id": "ET030694",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.081",
+      "lon": "37.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030619",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sedae",
+      "en": "Sedae",
+      "slug": "sedae"
+    },
+    "code": {
+      "id": "ET030619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.057",
+      "lon": "38.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030616",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Senan",
+      "en": "Senan",
+      "slug": "senan"
+    },
+    "code": {
+      "id": "ET030616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.546",
+      "lon": "37.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET030614",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shebel Bernta",
+      "en": "Shebel Bernta",
+      "slug": "shebel-bernta"
+    },
+    "code": {
+      "id": "ET030614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0306",
+      "level": 2,
+      "name": {
+        "local": "East Gojam",
+        "en": "East Gojam",
+        "slug": "east-gojam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0306",
+        "level": 2,
+        "name": {
+          "local": "East Gojam",
+          "en": "East Gojam",
+          "slug": "east-gojam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.346",
+      "lon": "38.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

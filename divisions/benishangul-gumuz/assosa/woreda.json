@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET060303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abrahmo",
+      "en": "Abrahmo",
+      "slug": "abrahmo"
+    },
+    "code": {
+      "id": "ET060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.931",
+      "lon": "34.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Assosa town Admin",
+      "en": "Assosa town Admin",
+      "slug": "assosa-town-admin"
+    },
+    "code": {
+      "id": "ET060309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.057",
+      "lon": "34.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bambasi",
+      "en": "Bambasi",
+      "slug": "bambasi"
+    },
+    "code": {
+      "id": "ET060305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.767",
+      "lon": "34.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bambasi town",
+      "en": "Bambasi town",
+      "slug": "bambasi-town"
+    },
+    "code": {
+      "id": "ET060310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.758",
+      "lon": "34.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bilidigilu",
+      "en": "Bilidigilu",
+      "slug": "bilidigilu"
+    },
+    "code": {
+      "id": "ET060306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.129",
+      "lon": "35.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Homosha",
+      "en": "Homosha",
+      "slug": "homosha"
+    },
+    "code": {
+      "id": "ET060307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.314",
+      "lon": "34.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kurmuk",
+      "en": "Kurmuk",
+      "slug": "kurmuk"
+    },
+    "code": {
+      "id": "ET060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.568",
+      "lon": "34.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Menge",
+      "en": "Menge",
+      "slug": "menge"
+    },
+    "code": {
+      "id": "ET060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.393",
+      "lon": "34.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sherkole",
+      "en": "Sherkole",
+      "slug": "sherkole"
+    },
+    "code": {
+      "id": "ET060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.617",
+      "lon": "34.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Undulu",
+      "en": "Undulu",
+      "slug": "undulu"
+    },
+    "code": {
+      "id": "ET060308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "34.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060311",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ura",
+      "en": "Ura",
+      "slug": "ura"
+    },
+    "code": {
+      "id": "ET060311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0603",
+      "level": 2,
+      "name": {
+        "local": "Assosa",
+        "en": "Assosa",
+        "slug": "assosa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0603",
+        "level": 2,
+        "name": {
+          "local": "Assosa",
+          "en": "Assosa",
+          "slug": "assosa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "34.653"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

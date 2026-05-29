@@ -1,0 +1,182 @@
+# Sidama — Ethiopia Administrative Divisions
+
+> 5 zones, 37 woredas
+> Code: ET16
+> Coordinates: 6.664, 38.546
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Central
+
+Code: ET1603, Coordinates: 6.747, 38.423
+Woredas: 7
+
+#### Arbegona
+
+Code: ET160301, Coordinates: 6.65, 38.733
+
+#### Dale
+
+Code: ET160305, Coordinates: 6.706, 38.413
+
+#### Darara
+
+Code: ET160306, Coordinates: 6.831, 38.215
+
+#### Loka Abaya
+
+Code: ET160307, Coordinates: 6.646, 38.168
+
+#### Shafamo
+
+Code: ET160302, Coordinates: 6.664, 38.64
+
+#### Wonosho
+
+Code: ET160303, Coordinates: 6.747, 38.523
+
+#### Yirgalem town
+
+Code: ET160304, Coordinates: 6.742, 38.387
+
+### Eastern
+
+Code: ET1605, Coordinates: 6.428, 38.923
+Woredas: 9
+
+#### Aroresa
+
+Code: ET160507, Coordinates: 6.355, 39.012
+
+#### Bensa
+
+Code: ET160503, Coordinates: 6.534, 38.863
+
+#### Bona Zuria
+
+Code: ET160502, Coordinates: 6.502, 38.712
+
+#### Bura
+
+Code: ET160501, Coordinates: 6.627, 38.854
+
+#### Chabe Gambeltu
+
+Code: ET160509, Coordinates: 6.428, 38.855
+
+#### Chire
+
+Code: ET160506, Coordinates: 6.492, 39.06
+
+#### Daella
+
+Code: ET160505, Coordinates: 6.514, 38.976
+
+#### Daye town
+
+Code: ET160504, Coordinates: 6.521, 38.827
+
+#### Hokko
+
+Code: ET160508, Coordinates: 6.222, 38.982
+
+### Hawassa town Admin
+
+Code: ET1601, Coordinates: 7.017, 38.491
+Woredas: 1
+
+#### Hawassa town
+
+Code: ET160101, Coordinates: 7.017, 38.491
+
+### Northern
+
+Code: ET1602, Coordinates: 6.979, 38.26
+Woredas: 10
+
+#### Bilate Zuria
+
+Code: ET160209, Coordinates: 6.939, 38.209
+
+#### Boricha
+
+Code: ET160208, Coordinates: 6.919, 38.338
+
+#### Gorche
+
+Code: ET160204, Coordinates: 6.838, 38.604
+
+#### Hawassa Zuria
+
+Code: ET160210, Coordinates: 7.054, 38.356
+
+#### Hawela
+
+Code: ET160205, Coordinates: 6.92, 38.483
+
+#### Leku town
+
+Code: ET160206, Coordinates: 6.873, 38.444
+
+#### Malga
+
+Code: ET160203, Coordinates: 6.934, 38.643
+
+#### Shebe Dino
+
+Code: ET160207, Coordinates: 6.882, 38.399
+
+#### Wondo-Genet
+
+Code: ET160202, Coordinates: 7.021, 38.645
+
+#### Wondo-Genet town
+
+Code: ET160201, Coordinates: 7.046, 38.613
+
+### Southern
+
+Code: ET1604, Coordinates: 6.543, 38.453
+Woredas: 10
+
+#### Aleta Chuko
+
+Code: ET160405, Coordinates: 6.566, 38.303
+
+#### Aleta Wendo
+
+Code: ET160403, Coordinates: 6.602, 38.441
+
+#### Aleta Wondo town
+
+Code: ET160404, Coordinates: 6.606, 38.42
+
+#### Bursa
+
+Code: ET160401, Coordinates: 6.627, 38.59
+
+#### Chirone
+
+Code: ET160410, Coordinates: 6.454, 38.652
+
+#### Chuko town
+
+Code: ET160406, Coordinates: 6.587, 38.336
+
+#### Dara
+
+Code: ET160407, Coordinates: 6.442, 38.36
+
+#### Dara Otilicho
+
+Code: ET160408, Coordinates: 6.489, 38.432
+
+#### Hulla
+
+Code: ET160409, Coordinates: 6.47, 38.548
+
+#### Teticha
+
+Code: ET160402, Coordinates: 6.57, 38.539
+

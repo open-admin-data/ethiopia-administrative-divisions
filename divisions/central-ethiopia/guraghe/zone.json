@@ -1,0 +1,47 @@
+{
+  "id": "ET0701",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Guraghe",
+    "en": "Guraghe",
+    "slug": "guraghe"
+  },
+  "code": {
+    "id": "ET0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET07",
+    "level": 1,
+    "name": {
+      "local": "Central Ethiopia",
+      "en": "Central Ethiopia",
+      "slug": "central-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.132",
+    "lon": "37.902"
+  },
+  "metadata": {},
+  "source": {}
+}

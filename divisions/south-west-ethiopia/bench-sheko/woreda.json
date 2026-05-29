@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ET110309",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Biftu town",
+      "en": "Biftu town",
+      "slug": "biftu-town"
+    },
+    "code": {
+      "id": "ET110309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.858",
+      "lon": "35.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debub Bench",
+      "en": "Debub Bench",
+      "slug": "debub-bench"
+    },
+    "code": {
+      "id": "ET110303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.869",
+      "lon": "35.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gidi Bench",
+      "en": "Gidi Bench",
+      "slug": "gidi-bench"
+    },
+    "code": {
+      "id": "ET110306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.15",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gurafereda",
+      "en": "Gurafereda",
+      "slug": "gurafereda"
+    },
+    "code": {
+      "id": "ET110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "35.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mizan Aman town",
+      "en": "Mizan Aman town",
+      "slug": "mizan-aman-town"
+    },
+    "code": {
+      "id": "ET110307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.951",
+      "lon": "35.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Semen Bench",
+      "en": "Semen Bench",
+      "slug": "semen-bench"
+    },
+    "code": {
+      "id": "ET110305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.033",
+      "lon": "35.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Shay Bench",
+      "en": "Shay Bench",
+      "slug": "shay-bench"
+    },
+    "code": {
+      "id": "ET110304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.903",
+      "lon": "35.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sheko",
+      "en": "Sheko",
+      "slug": "sheko"
+    },
+    "code": {
+      "id": "ET110301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.093",
+      "lon": "35.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110310",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sheko town",
+      "en": "Sheko town",
+      "slug": "sheko-town"
+    },
+    "code": {
+      "id": "ET110310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "35.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110308",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Size town",
+      "en": "Size town",
+      "slug": "size-town"
+    },
+    "code": {
+      "id": "ET110308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1103",
+      "level": 2,
+      "name": {
+        "local": "Bench Sheko",
+        "en": "Bench Sheko",
+        "slug": "bench-sheko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1103",
+        "level": 2,
+        "name": {
+          "local": "Bench Sheko",
+          "en": "Bench Sheko",
+          "slug": "bench-sheko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.957",
+      "lon": "35.77"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

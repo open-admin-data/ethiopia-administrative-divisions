@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ET080121",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abela Abaya",
+      "en": "Abela Abaya",
+      "slug": "abela-abaya"
+    },
+    "code": {
+      "id": "ET080121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.647",
+      "lon": "37.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Areka town",
+      "en": "Areka town",
+      "slug": "areka-town"
+    },
+    "code": {
+      "id": "ET080114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.066",
+      "lon": "37.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080123",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bale Awassa town",
+      "en": "Bale Awassa town",
+      "slug": "bale-awassa-town"
+    },
+    "code": {
+      "id": "ET080123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.912",
+      "lon": "37.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080122",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bayera Koyesha",
+      "en": "Bayera Koyesha",
+      "slug": "bayera-koyesha"
+    },
+    "code": {
+      "id": "ET080122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.814",
+      "lon": "37.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080115",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boditi town",
+      "en": "Boditi town",
+      "slug": "boditi-town"
+    },
+    "code": {
+      "id": "ET080115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.953",
+      "lon": "37.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boloso Bombe",
+      "en": "Boloso Bombe",
+      "slug": "boloso-bombe"
+    },
+    "code": {
+      "id": "ET080108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "37.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boloso Sore",
+      "en": "Boloso Sore",
+      "slug": "boloso-sore"
+    },
+    "code": {
+      "id": "ET080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.09",
+      "lon": "37.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Damot Gale",
+      "en": "Damot Gale",
+      "slug": "damot-gale"
+    },
+    "code": {
+      "id": "ET080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.015",
+      "lon": "37.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Damot Pullasa",
+      "en": "Damot Pullasa",
+      "slug": "damot-pullasa"
+    },
+    "code": {
+      "id": "ET080111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.047",
+      "lon": "37.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Damot Sore",
+      "en": "Damot Sore",
+      "slug": "damot-sore"
+    },
+    "code": {
+      "id": "ET080109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.885",
+      "lon": "37.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Damot Woide",
+      "en": "Damot Woide",
+      "slug": "damot-woide"
+    },
+    "code": {
+      "id": "ET080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.892",
+      "lon": "37.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Duguna Fango",
+      "en": "Duguna Fango",
+      "slug": "duguna-fango"
+    },
+    "code": {
+      "id": "ET080112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.921",
+      "lon": "38.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080117",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gesuba town",
+      "en": "Gesuba town",
+      "slug": "gesuba-town"
+    },
+    "code": {
+      "id": "ET080117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.727",
+      "lon": "37.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080118",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gununo Hamus town",
+      "en": "Gununo Hamus town",
+      "slug": "gununo-hamus-town"
+    },
+    "code": {
+      "id": "ET080118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.927",
+      "lon": "37.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080119",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hobicha Abaya",
+      "en": "Hobicha Abaya",
+      "slug": "hobicha-abaya"
+    },
+    "code": {
+      "id": "ET080119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "37.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Humbo",
+      "en": "Humbo",
+      "slug": "humbo"
+    },
+    "code": {
+      "id": "ET080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.686",
+      "lon": "37.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080120",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kawo Koyesha",
+      "en": "Kawo Koyesha",
+      "slug": "kawo-koyesha"
+    },
+    "code": {
+      "id": "ET080120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.759",
+      "lon": "37.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kindo Daddaye",
+      "en": "Kindo Daddaye",
+      "slug": "kindo-daddaye"
+    },
+    "code": {
+      "id": "ET080110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.78",
+      "lon": "37.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kindo Koyesha",
+      "en": "Kindo Koyesha",
+      "slug": "kindo-koyesha"
+    },
+    "code": {
+      "id": "ET080106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.931",
+      "lon": "37.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ofa",
+      "en": "Ofa",
+      "slug": "ofa"
+    },
+    "code": {
+      "id": "ET080107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.669",
+      "lon": "37.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sodo town",
+      "en": "Sodo town",
+      "slug": "sodo-town"
+    },
+    "code": {
+      "id": "ET080113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.857",
+      "lon": "37.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sodo Zuria",
+      "en": "Sodo Zuria",
+      "slug": "sodo-zuria"
+    },
+    "code": {
+      "id": "ET080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.781",
+      "lon": "37.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080116",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tebela town",
+      "en": "Tebela town",
+      "slug": "tebela-town"
+    },
+    "code": {
+      "id": "ET080116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0801",
+      "level": 2,
+      "name": {
+        "local": "Wolayita",
+        "en": "Wolayita",
+        "slug": "wolayita"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0801",
+        "level": 2,
+        "name": {
+          "local": "Wolayita",
+          "en": "Wolayita",
+          "slug": "wolayita"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.703",
+      "lon": "37.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

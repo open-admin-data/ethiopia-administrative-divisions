@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET110409",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Disa",
+      "en": "Disa",
+      "slug": "disa"
+    },
+    "code": {
+      "id": "ET110409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.751",
+      "lon": "37.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Esara",
+      "en": "Esara",
+      "slug": "esara"
+    },
+    "code": {
+      "id": "ET110405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.845",
+      "lon": "36.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gena",
+      "en": "Gena",
+      "slug": "gena"
+    },
+    "code": {
+      "id": "ET110404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.237",
+      "lon": "37.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110412",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gesa town",
+      "en": "Gesa town",
+      "slug": "gesa-town"
+    },
+    "code": {
+      "id": "ET110412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.013",
+      "lon": "37.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kachi",
+      "en": "Kachi",
+      "slug": "kachi"
+    },
+    "code": {
+      "id": "ET110406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.043",
+      "lon": "36.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Loma",
+      "en": "Loma",
+      "slug": "loma"
+    },
+    "code": {
+      "id": "ET110403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.932",
+      "lon": "37.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mareka",
+      "en": "Mareka",
+      "slug": "mareka"
+    },
+    "code": {
+      "id": "ET110402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.043",
+      "lon": "37.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110408",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mari Mansa",
+      "en": "Mari Mansa",
+      "slug": "mari-mansa"
+    },
+    "code": {
+      "id": "ET110408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.997",
+      "lon": "37.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110411",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tercha town",
+      "en": "Tercha town",
+      "slug": "tercha-town"
+    },
+    "code": {
+      "id": "ET110411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.151",
+      "lon": "37.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tercha Zuriya",
+      "en": "Tercha Zuriya",
+      "slug": "tercha-zuriya"
+    },
+    "code": {
+      "id": "ET110407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.111",
+      "lon": "37.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tocha",
+      "en": "Tocha",
+      "slug": "tocha"
+    },
+    "code": {
+      "id": "ET110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.148",
+      "lon": "36.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110410",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Zabagazo",
+      "en": "Zabagazo",
+      "slug": "zabagazo"
+    },
+    "code": {
+      "id": "ET110410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1104",
+      "level": 2,
+      "name": {
+        "local": "Dawuro",
+        "en": "Dawuro",
+        "slug": "dawuro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1104",
+        "level": 2,
+        "name": {
+          "local": "Dawuro",
+          "en": "Dawuro",
+          "slug": "dawuro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.103",
+      "lon": "37.377"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

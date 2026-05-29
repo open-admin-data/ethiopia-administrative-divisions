@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET041219",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dilo",
+      "en": "Dilo",
+      "slug": "dilo"
+    },
+    "code": {
+      "id": "ET041219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.199",
+      "lon": "37.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041211",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dire",
+      "en": "Dire",
+      "slug": "dire"
+    },
+    "code": {
+      "id": "ET041211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.962",
+      "lon": "38.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041291",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dubluk",
+      "en": "Dubluk",
+      "slug": "dubluk"
+    },
+    "code": {
+      "id": "ET041291",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.435",
+      "lon": "38.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041295",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Elwaya",
+      "en": "Elwaya",
+      "slug": "elwaya"
+    },
+    "code": {
+      "id": "ET041295",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.921",
+      "lon": "37.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041223",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gomole",
+      "en": "Gomole",
+      "slug": "gomole"
+    },
+    "code": {
+      "id": "ET041223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.171",
+      "lon": "38.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041290",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guchi",
+      "en": "Guchi",
+      "slug": "guchi"
+    },
+    "code": {
+      "id": "ET041290",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.946",
+      "lon": "39.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041216",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Miyo",
+      "en": "Miyo",
+      "slug": "miyo"
+    },
+    "code": {
+      "id": "ET041216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.843",
+      "lon": "38.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Moyale (OR)",
+      "en": "Moyale (OR)",
+      "slug": "moyale-or"
+    },
+    "code": {
+      "id": "ET041210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.667",
+      "lon": "39.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041212",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Teltale",
+      "en": "Teltale",
+      "slug": "teltale"
+    },
+    "code": {
+      "id": "ET041212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.744",
+      "lon": "37.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yabelo",
+      "en": "Yabelo",
+      "slug": "yabelo"
+    },
+    "code": {
+      "id": "ET041207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.773",
+      "lon": "38.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041296",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yabelo town",
+      "en": "Yabelo town",
+      "slug": "yabelo-town"
+    },
+    "code": {
+      "id": "ET041296",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0412",
+      "level": 2,
+      "name": {
+        "local": "Borena",
+        "en": "Borena",
+        "slug": "borena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0412",
+        "level": 2,
+        "name": {
+          "local": "Borena",
+          "en": "Borena",
+          "slug": "borena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.892",
+      "lon": "38.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

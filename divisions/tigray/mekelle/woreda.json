@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET010705",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adihaki Sub City",
+      "en": "Adihaki Sub City",
+      "slug": "adihaki-sub-city"
+    },
+    "code": {
+      "id": "ET010705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.479",
+      "lon": "39.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010703",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ayder Sub City",
+      "en": "Ayder Sub City",
+      "slug": "ayder-sub-city"
+    },
+    "code": {
+      "id": "ET010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.551",
+      "lon": "39.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010702",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hadnet Sub City",
+      "en": "Hadnet Sub City",
+      "slug": "hadnet-sub-city"
+    },
+    "code": {
+      "id": "ET010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.449",
+      "lon": "39.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010704",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hawelti Sub City",
+      "en": "Hawelti Sub City",
+      "slug": "hawelti-sub-city"
+    },
+    "code": {
+      "id": "ET010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.504",
+      "lon": "39.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010701",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kuiha Sub City",
+      "en": "Kuiha Sub City",
+      "slug": "kuiha-sub-city"
+    },
+    "code": {
+      "id": "ET010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.45",
+      "lon": "39.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010706",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Qedamay Weyane Sub City",
+      "en": "Qedamay Weyane Sub City",
+      "slug": "qedamay-weyane-sub-city"
+    },
+    "code": {
+      "id": "ET010706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.486",
+      "lon": "39.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010707",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Semen Sub City",
+      "en": "Semen Sub City",
+      "slug": "semen-sub-city"
+    },
+    "code": {
+      "id": "ET010707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0107",
+      "level": 2,
+      "name": {
+        "local": "Mekelle",
+        "en": "Mekelle",
+        "slug": "mekelle"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0107",
+        "level": 2,
+        "name": {
+          "local": "Mekelle",
+          "en": "Mekelle",
+          "slug": "mekelle"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.531",
+      "lon": "39.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

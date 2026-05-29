@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ET051104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hudet",
+      "en": "Hudet",
+      "slug": "hudet"
+    },
+    "code": {
+      "id": "ET051104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0511",
+      "level": 2,
+      "name": {
+        "local": "Daawa",
+        "en": "Daawa",
+        "slug": "daawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0511",
+        "level": 2,
+        "name": {
+          "local": "Daawa",
+          "en": "Daawa",
+          "slug": "daawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.378",
+      "lon": "39.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Moyale (SM)",
+      "en": "Moyale (SM)",
+      "slug": "moyale-sm"
+    },
+    "code": {
+      "id": "ET051103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0511",
+      "level": 2,
+      "name": {
+        "local": "Daawa",
+        "en": "Daawa",
+        "slug": "daawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0511",
+        "level": 2,
+        "name": {
+          "local": "Daawa",
+          "en": "Daawa",
+          "slug": "daawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.069",
+      "lon": "39.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051187",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mubarek",
+      "en": "Mubarek",
+      "slug": "mubarek"
+    },
+    "code": {
+      "id": "ET051187",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0511",
+      "level": 2,
+      "name": {
+        "local": "Daawa",
+        "en": "Daawa",
+        "slug": "daawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0511",
+        "level": 2,
+        "name": {
+          "local": "Daawa",
+          "en": "Daawa",
+          "slug": "daawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.394",
+      "lon": "40.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET051198",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Qada Duma",
+      "en": "Qada Duma",
+      "slug": "qada-duma"
+    },
+    "code": {
+      "id": "ET051198",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0511",
+      "level": 2,
+      "name": {
+        "local": "Daawa",
+        "en": "Daawa",
+        "slug": "daawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0511",
+        "level": 2,
+        "name": {
+          "local": "Daawa",
+          "en": "Daawa",
+          "slug": "daawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.752",
+      "lon": "39.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

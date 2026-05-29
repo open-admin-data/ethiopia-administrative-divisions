@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ET140108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Addis Ketema Sub City",
+      "en": "Addis Ketema Sub City",
+      "slug": "addis-ketema-sub-city"
+    },
+    "code": {
+      "id": "ET140108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.044",
+      "lon": "38.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Akaki Kality Sub City",
+      "en": "Akaki Kality Sub City",
+      "slug": "akaki-kality-sub-city"
+    },
+    "code": {
+      "id": "ET140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.897",
+      "lon": "38.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Arada Sub City",
+      "en": "Arada Sub City",
+      "slug": "arada-sub-city"
+    },
+    "code": {
+      "id": "ET140109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.031",
+      "lon": "38.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bole Sub City",
+      "en": "Bole Sub City",
+      "slug": "bole-sub-city"
+    },
+    "code": {
+      "id": "ET140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.974",
+      "lon": "38.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gulele Sub City",
+      "en": "Gulele Sub City",
+      "slug": "gulele-sub-city"
+    },
+    "code": {
+      "id": "ET140110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.071",
+      "lon": "38.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kirkos Sub City",
+      "en": "Kirkos Sub City",
+      "slug": "kirkos-sub-city"
+    },
+    "code": {
+      "id": "ET140106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9",
+      "lon": "38.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kolfe Keraniyo Sub City",
+      "en": "Kolfe Keraniyo Sub City",
+      "slug": "kolfe-keraniyo-sub-city"
+    },
+    "code": {
+      "id": "ET140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.993",
+      "lon": "38.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lemi Kura Sub City",
+      "en": "Lemi Kura Sub City",
+      "slug": "lemi-kura-sub-city"
+    },
+    "code": {
+      "id": "ET140111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.005",
+      "lon": "38.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lideta Sub City",
+      "en": "Lideta Sub City",
+      "slug": "lideta-sub-city"
+    },
+    "code": {
+      "id": "ET140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.002",
+      "lon": "38.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nifas Silk Lafto Sub City",
+      "en": "Nifas Silk Lafto Sub City",
+      "slug": "nifas-silk-lafto-sub-city"
+    },
+    "code": {
+      "id": "ET140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.947",
+      "lon": "38.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET140107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yeka Sub City",
+      "en": "Yeka Sub City",
+      "slug": "yeka-sub-city"
+    },
+    "code": {
+      "id": "ET140107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1401",
+      "level": 2,
+      "name": {
+        "local": "Region 14",
+        "en": "Region 14",
+        "slug": "region-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET14",
+        "level": 1,
+        "name": {
+          "local": "Addis Ababa",
+          "en": "Addis Ababa",
+          "slug": "addis-ababa"
+        }
+      },
+      {
+        "id": "ET1401",
+        "level": 2,
+        "name": {
+          "local": "Region 14",
+          "en": "Region 14",
+          "slug": "region-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "38.81"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

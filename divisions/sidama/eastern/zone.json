@@ -1,0 +1,47 @@
+{
+  "id": "ET1605",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Eastern",
+    "en": "Eastern",
+    "slug": "eastern"
+  },
+  "code": {
+    "id": "ET1605",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET16",
+    "level": 1,
+    "name": {
+      "local": "Sidama",
+      "en": "Sidama",
+      "slug": "sidama"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET16",
+      "level": 1,
+      "name": {
+        "local": "Sidama",
+        "en": "Sidama",
+        "slug": "sidama"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.428",
+    "lon": "38.923"
+  },
+  "metadata": {},
+  "source": {}
+}

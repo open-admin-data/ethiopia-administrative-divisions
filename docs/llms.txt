@@ -1,0 +1,82 @@
+# Ethiopia Administrative Divisions
+
+> Open dataset of Ethiopia's administrative hierarchy:
+> 15 regions, 107 zones, 1,148 woredas.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 15
+- Total zones: 107
+- Total woredas: 1,148
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/all-region.json)
+- [All zones (JSON)](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/all-zone.json)
+- [All woredas (JSON)](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/all-woreda.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Tigray](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/tigray/) — 6 zones, 75 woredas
+- [Afar](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/afar/) — 6 zones, 49 woredas
+- [Amhara](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/amhara/) — 14 zones, 225 woredas
+- [Oromia](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/oromia/) — 22 zones, 349 woredas
+- [Somali](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/somali/) — 11 zones, 100 woredas
+- [Benishangul-Gumuz](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/benishangul-gumuz/) — 4 zones, 26 woredas
+- [Central Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/central-ethiopia/) — 10 zones, 69 woredas
+- [South Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/south-ethiopia/) — 12 zones, 93 woredas
+- [South West Ethiopia](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/south-west-ethiopia/) — 6 zones, 59 woredas
+- [Gambela](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/gambela/) — 4 zones, 15 woredas
+- [Harari](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/harari/) — 1 zones, 9 woredas
+- [Addis Ababa](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/addis-ababa/) — 1 zones, 11 woredas
+- [Dire Dawa](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/dire-dawa/) — 2 zones, 13 woredas
+- [Sidama](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/sidama/) — 5 zones, 37 woredas
+- [Contested](https://github.com/open-admin-data/ethiopia-administrative-divisions/tree/main/divisions/contested/) — 3 zones, 18 woredas
+
+## Per-Region Full Data
+
+- [Tigray](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/tigray.txt)
+- [Afar](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/afar.txt)
+- [Amhara](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/amhara.txt)
+- [Oromia](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/oromia.txt)
+- [Somali](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/somali.txt)
+- [Benishangul-Gumuz](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/benishangul-gumuz.txt)
+- [Central Ethiopia](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/central-ethiopia.txt)
+- [South Ethiopia](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/south-ethiopia.txt)
+- [South West Ethiopia](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/south-west-ethiopia.txt)
+- [Gambela](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/gambela.txt)
+- [Harari](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/harari.txt)
+- [Addis Ababa](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/addis-ababa.txt)
+- [Dire Dawa](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/dire-dawa.txt)
+- [Sidama](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/sidama.txt)
+- [Contested](https://raw.githubusercontent.com/open-admin-data/ethiopia-administrative-divisions/main/docs/llms-full/contested.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (zone), 3 (woreda)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Ethiopia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/ethiopia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

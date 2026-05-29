@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ET060207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bulen",
+      "en": "Bulen",
+      "slug": "bulen"
+    },
+    "code": {
+      "id": "ET060207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.608",
+      "lon": "35.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dangur",
+      "en": "Dangur",
+      "slug": "dangur"
+    },
+    "code": {
+      "id": "ET060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.372",
+      "lon": "36.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dibate",
+      "en": "Dibate",
+      "slug": "dibate"
+    },
+    "code": {
+      "id": "ET060205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.467",
+      "lon": "36.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060200",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gilgel Beles town",
+      "en": "Gilgel Beles town",
+      "slug": "gilgel-beles-town"
+    },
+    "code": {
+      "id": "ET060200",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.153",
+      "lon": "36.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guba",
+      "en": "Guba",
+      "slug": "guba"
+    },
+    "code": {
+      "id": "ET060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.497",
+      "lon": "35.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mandura",
+      "en": "Mandura",
+      "slug": "mandura"
+    },
+    "code": {
+      "id": "ET060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.02",
+      "lon": "36.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Pawe",
+      "en": "Pawe",
+      "slug": "pawe"
+    },
+    "code": {
+      "id": "ET060206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.298",
+      "lon": "36.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET060203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wembera",
+      "en": "Wembera",
+      "slug": "wembera"
+    },
+    "code": {
+      "id": "ET060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0602",
+      "level": 2,
+      "name": {
+        "local": "Metekel",
+        "en": "Metekel",
+        "slug": "metekel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0602",
+        "level": 2,
+        "name": {
+          "local": "Metekel",
+          "en": "Metekel",
+          "slug": "metekel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.606",
+      "lon": "35.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

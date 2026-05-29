@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET060508",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mao-komo Special",
+      "en": "Mao-komo Special",
+      "slug": "mao-komo-special"
+    },
+    "code": {
+      "id": "ET060508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0605",
+      "level": 2,
+      "name": {
+        "local": "Mao-komo Special",
+        "en": "Mao-komo Special",
+        "slug": "mao-komo-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET06",
+        "level": 1,
+        "name": {
+          "local": "Benishangul-Gumuz",
+          "en": "Benishangul-Gumuz",
+          "slug": "benishangul-gumuz"
+        }
+      },
+      {
+        "id": "ET0605",
+        "level": 2,
+        "name": {
+          "local": "Mao-komo Special",
+          "en": "Mao-komo Special",
+          "slug": "mao-komo-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.356",
+      "lon": "34.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

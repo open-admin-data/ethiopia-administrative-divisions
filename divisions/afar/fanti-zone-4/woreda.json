@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET020401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Awra (AF)",
+      "en": "Awra (AF)",
+      "slug": "awra-af"
+    },
+    "code": {
+      "id": "ET020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.049",
+      "lon": "40.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Euwa",
+      "en": "Euwa",
+      "slug": "euwa"
+    },
+    "code": {
+      "id": "ET020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.834",
+      "lon": "40.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gulina",
+      "en": "Gulina",
+      "slug": "gulina"
+    },
+    "code": {
+      "id": "ET020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.181",
+      "lon": "39.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mabay",
+      "en": "Mabay",
+      "slug": "mabay"
+    },
+    "code": {
+      "id": "ET020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.673",
+      "lon": "40.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Teru",
+      "en": "Teru",
+      "slug": "teru"
+    },
+    "code": {
+      "id": "ET020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.48",
+      "lon": "40.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET020404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yalo",
+      "en": "Yalo",
+      "slug": "yalo"
+    },
+    "code": {
+      "id": "ET020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0204",
+      "level": 2,
+      "name": {
+        "local": "Fanti /Zone 4",
+        "en": "Fanti /Zone 4",
+        "slug": "fanti-zone-4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET02",
+        "level": 1,
+        "name": {
+          "local": "Afar",
+          "en": "Afar",
+          "slug": "afar"
+        }
+      },
+      {
+        "id": "ET0204",
+        "level": 2,
+        "name": {
+          "local": "Fanti /Zone 4",
+          "en": "Fanti /Zone 4",
+          "slug": "fanti-zone-4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.424",
+      "lon": "39.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

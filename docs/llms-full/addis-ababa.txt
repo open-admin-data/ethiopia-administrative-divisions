@@ -1,0 +1,58 @@
+# Addis Ababa — Ethiopia Administrative Divisions
+
+> 1 zones, 11 woredas
+> Code: ET14
+> Coordinates: 8.98, 38.786
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Region 14
+
+Code: ET1401, Coordinates: 8.98, 38.786
+Woredas: 11
+
+#### Addis Ketema Sub City
+
+Code: ET140108, Coordinates: 9.044, 38.707
+
+#### Akaki Kality Sub City
+
+Code: ET140101, Coordinates: 8.897, 38.804
+
+#### Arada Sub City
+
+Code: ET140109, Coordinates: 9.031, 38.757
+
+#### Bole Sub City
+
+Code: ET140104, Coordinates: 8.974, 38.809
+
+#### Gulele Sub City
+
+Code: ET140110, Coordinates: 9.071, 38.739
+
+#### Kirkos Sub City
+
+Code: ET140106, Coordinates: 9, 38.759
+
+#### Kolfe Keraniyo Sub City
+
+Code: ET140103, Coordinates: 8.993, 38.685
+
+#### Lemi Kura Sub City
+
+Code: ET140111, Coordinates: 9.005, 38.87
+
+#### Lideta Sub City
+
+Code: ET140105, Coordinates: 9.002, 38.731
+
+#### Nifas Silk Lafto Sub City
+
+Code: ET140102, Coordinates: 8.947, 38.731
+
+#### Yeka Sub City
+
+Code: ET140107, Coordinates: 9.049, 38.81
+

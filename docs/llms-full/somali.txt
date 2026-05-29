@@ -1,0 +1,464 @@
+# Somali — Ethiopia Administrative Divisions
+
+> 11 zones, 100 woredas
+> Code: ET05
+> Coordinates: 6.929, 43.329
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Afder
+
+Code: ET0508, Coordinates: 5.322, 42.298
+Woredas: 9
+
+#### Barey
+
+Code: ET050807, Coordinates: 4.702, 42.699
+
+#### Charati
+
+Code: ET050802, Coordinates: 5.298, 41.678
+
+#### Dolobay
+
+Code: ET050808, Coordinates: 4.488, 42.099
+
+#### Elkare /Serer
+
+Code: ET050804, Coordinates: 5.951, 42.079
+
+#### God-God
+
+Code: ET050899, Coordinates: 4.858, 43.242
+
+#### Hargele
+
+Code: ET050806, Coordinates: 5.31, 42.464
+
+#### Kohle /Qoxle
+
+Code: ET050898, Coordinates: 5.309, 43.126
+
+#### Raso
+
+Code: ET050809, Coordinates: 6.509, 41.904
+
+#### West Imi
+
+Code: ET050805, Coordinates: 6.24, 42.286
+
+### Daawa
+
+Code: ET0511, Coordinates: 4.214, 39.979
+Woredas: 4
+
+#### Hudet
+
+Code: ET051104, Coordinates: 4.378, 39.731
+
+#### Moyale (SM)
+
+Code: ET051103, Coordinates: 4.069, 39.634
+
+#### Mubarek
+
+Code: ET051187, Coordinates: 4.394, 40.217
+
+#### Qada Duma
+
+Code: ET051198, Coordinates: 3.752, 39.631
+
+### Doolo
+
+Code: ET0507, Coordinates: 7.237, 46.114
+Woredas: 7
+
+#### Bokh
+
+Code: ET050702, Coordinates: 7.645, 46.651
+
+#### Danod
+
+Code: ET050701, Coordinates: 7.911, 46.038
+
+#### Daratole
+
+Code: ET050788, Coordinates: 7.285, 45.351
+
+#### Galadi
+
+Code: ET050703, Coordinates: 6.994, 46.291
+
+#### Galhamur
+
+Code: ET050799, Coordinates: 7.732, 47.339
+
+#### Lehel-Yucub
+
+Code: ET050798, Coordinates: 6.585, 45.164
+
+#### Warder
+
+Code: ET050704, Coordinates: 6.863, 45.556
+
+### Erer
+
+Code: ET0504, Coordinates: 7.875, 42.286
+Woredas: 8
+
+#### Fik
+
+Code: ET050402, Coordinates: 8.156, 42.305
+
+#### Hamero
+
+Code: ET050404, Coordinates: 7.635, 42.302
+
+#### Lagahida
+
+Code: ET050407, Coordinates: 7.428, 42.037
+
+#### Meyumuluka
+
+Code: ET050408, Coordinates: 8.265, 42.06
+
+#### Qubi
+
+Code: ET050497, Coordinates: 7.722, 41.97
+
+#### Salahad
+
+Code: ET050403, Coordinates: 7.12, 42.224
+
+#### Wangey
+
+Code: ET050499, Coordinates: 7.444, 42.204
+
+#### Yahob
+
+Code: ET050498, Coordinates: 7.854, 42.573
+
+### Fafan
+
+Code: ET0502, Coordinates: 9.152, 43.237
+Woredas: 14
+
+#### Aw-Bare
+
+Code: ET050205, Coordinates: 9.603, 43.129
+
+#### Babile (SM)
+
+Code: ET050203, Coordinates: 8.492, 42.353
+
+#### Goljano
+
+Code: ET050290, Coordinates: 8.271, 42.811
+
+#### Gursum (SM)
+
+Code: ET050202, Coordinates: 9.202, 42.634
+
+#### Harawo
+
+Code: ET050299, Coordinates: 9.966, 42.923
+
+#### Haroreys
+
+Code: ET050298, Coordinates: 9.372, 43.031
+
+#### Harshin
+
+Code: ET050207, Coordinates: 8.905, 43.772
+
+#### Jigjiga town
+
+Code: ET050293, Coordinates: 9.368, 42.814
+
+#### Kebribayah town
+
+Code: ET050296, Coordinates: 9.096, 43.181
+
+#### Kebribeyah
+
+Code: ET050206, Coordinates: 9.17, 43.385
+
+#### Koran /Mulla
+
+Code: ET050297, Coordinates: 8.693, 43.066
+
+#### Shabeeley
+
+Code: ET050204, Coordinates: 9.134, 42.817
+
+#### Tuliguled
+
+Code: ET050283, Coordinates: 9.467, 42.765
+
+#### Wajale town
+
+Code: ET050295, Coordinates: 9.558, 43.322
+
+### Jarar
+
+Code: ET0503, Coordinates: 8.131, 44.315
+Woredas: 12
+
+#### Ararso
+
+Code: ET050395, Coordinates: 8.701, 43.379
+
+#### Aware
+
+Code: ET050303, Coordinates: 8.071, 44.166
+
+#### Bilcil-Bur
+
+Code: ET050306, Coordinates: 8.381, 43.298
+
+#### Burqod
+
+Code: ET050394, Coordinates: 7.61, 43.617
+
+#### Daror
+
+Code: ET050392, Coordinates: 8.429, 44.475
+
+#### Degahabur town
+
+Code: ET050307, Coordinates: 8.226, 43.551
+
+#### Degehabur
+
+Code: ET050302, Coordinates: 7.993, 43.583
+
+#### Degehamedo
+
+Code: ET050301, Coordinates: 8.058, 43.032
+
+#### Dig
+
+Code: ET050399, Coordinates: 7.687, 44.497
+
+#### Gashamo
+
+Code: ET050304, Coordinates: 8.152, 45.319
+
+#### Gunagado
+
+Code: ET050305, Coordinates: 7.687, 44.167
+
+#### Yocale
+
+Code: ET050382, Coordinates: 8.424, 43.81
+
+### Korahe
+
+Code: ET0505, Coordinates: 6.447, 44.645
+Woredas: 11
+
+#### Bodaley
+
+Code: ET050599, Coordinates: 7.023, 43.928
+
+#### Debeweyin
+
+Code: ET050504, Coordinates: 6.071, 44.39
+
+#### El-Ogaden
+
+Code: ET050598, Coordinates: 6.396, 44.475
+
+#### Goglo
+
+Code: ET050595, Coordinates: 6.838, 44.627
+
+#### Higloley
+
+Code: ET050597, Coordinates: 5.735, 44.572
+
+#### Kebridehar
+
+Code: ET050502, Coordinates: 6.657, 44.088
+
+#### Kebridehar town
+
+Code: ET050592, Coordinates: 6.733, 44.276
+
+#### Lasdhankayre
+
+Code: ET050596, Coordinates: 6.57, 43.897
+
+#### Marsin
+
+Code: ET050586, Coordinates: 7.364, 44.655
+
+#### Shaygosh
+
+Code: ET050501, Coordinates: 7.364, 44.054
+
+#### Shilabo
+
+Code: ET050503, Coordinates: 5.956, 45.218
+
+### Liban
+
+Code: ET0509, Coordinates: 4.916, 40.914
+Woredas: 6
+
+#### Bokolmayo
+
+Code: ET050999, Coordinates: 4.416, 41.301
+
+#### Deka Suftu
+
+Code: ET050991, Coordinates: 5.047, 40.116
+
+#### Dolo Ado
+
+Code: ET050902, Coordinates: 4.163, 41.658
+
+#### Filtu
+
+Code: ET050901, Coordinates: 5.029, 40.901
+
+#### Goro Baqaqsa
+
+Code: ET050903, Coordinates: 6.161, 41.324
+
+#### Guradamole
+
+Code: ET050904, Coordinates: 6.091, 41.014
+
+### Nogob
+
+Code: ET0510, Coordinates: 7.133, 42.985
+Woredas: 7
+
+#### Ayun
+
+Code: ET051001, Coordinates: 7.119, 42.399
+
+#### Dihun
+
+Code: ET051006, Coordinates: 7.1, 42.699
+
+#### Elwayne
+
+Code: ET051002, Coordinates: 6.562, 43.056
+
+#### Garbo
+
+Code: ET051003, Coordinates: 7.318, 43.206
+
+#### Hararey
+
+Code: ET051096, Coordinates: 6.928, 42.989
+
+#### Horshagah
+
+Code: ET051095, Coordinates: 6.949, 43.432
+
+#### Sagag
+
+Code: ET051005, Coordinates: 7.632, 42.909
+
+### Shabelle
+
+Code: ET0506, Coordinates: 5.801, 43.667
+Woredas: 11
+
+#### Aba-Korow
+
+Code: ET050699, Coordinates: 6.473, 42.692
+
+#### Adadle
+
+Code: ET050602, Coordinates: 5.491, 43.48
+
+#### Berocano
+
+Code: ET050608, Coordinates: 6.182, 43.197
+
+#### Danan
+
+Code: ET050603, Coordinates: 6.581, 43.486
+
+#### East Imi
+
+Code: ET050601, Coordinates: 6.657, 42.308
+
+#### Elale
+
+Code: ET050698, Coordinates: 6.156, 43.94
+
+#### Ferfer
+
+Code: ET050607, Coordinates: 5.216, 45.035
+
+#### Gode
+
+Code: ET050604, Coordinates: 5.904, 43.783
+
+#### Godey town
+
+Code: ET050696, Coordinates: 5.951, 43.556
+
+#### Kelafo
+
+Code: ET050605, Coordinates: 5.362, 44.152
+
+#### Mustahil
+
+Code: ET050606, Coordinates: 5.198, 44.651
+
+### Siti
+
+Code: ET0501, Coordinates: 10.25, 41.834
+Woredas: 11
+
+#### Afdem
+
+Code: ET050105, Coordinates: 9.74, 40.981
+
+#### Ayisha
+
+Code: ET050101, Coordinates: 10.689, 42.505
+
+#### Daymeed
+
+Code: ET050108, Coordinates: 9.558, 40.777
+
+#### Dembel
+
+Code: ET050102, Coordinates: 9.916, 42.496
+
+#### Dhunyar
+
+Code: ET050109, Coordinates: 10.482, 41.211
+
+#### Erer (SM)
+
+Code: ET050104, Coordinates: 9.903, 41.414
+
+#### Gablalu
+
+Code: ET050199, Coordinates: 10.639, 41.649
+
+#### Gota-Biki
+
+Code: ET050198, Coordinates: 9.69, 41.178
+
+#### Hadhagala
+
+Code: ET050106, Coordinates: 10.408, 42.167
+
+#### Miesso
+
+Code: ET050107, Coordinates: 9.47, 40.938
+
+#### Shinile
+
+Code: ET050103, Coordinates: 9.935, 41.882
+

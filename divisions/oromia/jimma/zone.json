@@ -1,0 +1,47 @@
+{
+  "id": "ET0404",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Jimma",
+    "en": "Jimma",
+    "slug": "jimma"
+  },
+  "code": {
+    "id": "ET0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.673",
+    "lon": "36.736"
+  },
+  "metadata": {},
+  "source": {}
+}

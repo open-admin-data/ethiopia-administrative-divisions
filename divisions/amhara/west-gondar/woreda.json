@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET031205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adagn Ager Chaqo",
+      "en": "Adagn Ager Chaqo",
+      "slug": "adagn-ager-chaqo"
+    },
+    "code": {
+      "id": "ET031205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.607",
+      "lon": "36.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031292",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gendawuha town",
+      "en": "Gendawuha town",
+      "slug": "gendawuha-town"
+    },
+    "code": {
+      "id": "ET031292",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.777",
+      "lon": "36.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031213",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Metema",
+      "en": "Metema",
+      "slug": "metema"
+    },
+    "code": {
+      "id": "ET031213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.801",
+      "lon": "36.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031224",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Metema Yohanes town",
+      "en": "Metema Yohanes town",
+      "slug": "metema-yohanes-town"
+    },
+    "code": {
+      "id": "ET031224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.939",
+      "lon": "36.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031223",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Midre Genet",
+      "en": "Midre Genet",
+      "slug": "midre-genet"
+    },
+    "code": {
+      "id": "ET031223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.696",
+      "lon": "36.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mirab Armacho",
+      "en": "Mirab Armacho",
+      "slug": "mirab-armacho"
+    },
+    "code": {
+      "id": "ET031206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.414",
+      "lon": "36.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET031214",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Quara",
+      "en": "Quara",
+      "slug": "quara"
+    },
+    "code": {
+      "id": "ET031214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0312",
+      "level": 2,
+      "name": {
+        "local": "West Gondar",
+        "en": "West Gondar",
+        "slug": "west-gondar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET03",
+        "level": 1,
+        "name": {
+          "local": "Amhara",
+          "en": "Amhara",
+          "slug": "amhara"
+        }
+      },
+      {
+        "id": "ET0312",
+        "level": 2,
+        "name": {
+          "local": "West Gondar",
+          "en": "West Gondar",
+          "slug": "west-gondar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.262",
+      "lon": "35.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

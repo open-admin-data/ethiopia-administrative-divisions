@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ET070402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bui town",
+      "en": "Bui town",
+      "slug": "bui-town"
+    },
+    "code": {
+      "id": "ET070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.322",
+      "lon": "38.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Butajira town",
+      "en": "Butajira town",
+      "slug": "butajira-town"
+    },
+    "code": {
+      "id": "ET070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.119",
+      "lon": "38.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070406",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Debub Sodo",
+      "en": "Debub Sodo",
+      "slug": "debub-sodo"
+    },
+    "code": {
+      "id": "ET070406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.178",
+      "lon": "38.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Meskan",
+      "en": "Meskan",
+      "slug": "meskan"
+    },
+    "code": {
+      "id": "ET070404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.144",
+      "lon": "38.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070405",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Misrak Meskan",
+      "en": "Misrak Meskan",
+      "slug": "misrak-meskan"
+    },
+    "code": {
+      "id": "ET070405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.104",
+      "lon": "38.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET070403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sodo",
+      "en": "Sodo",
+      "slug": "sodo"
+    },
+    "code": {
+      "id": "ET070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0704",
+      "level": 2,
+      "name": {
+        "local": "East Guraghe",
+        "en": "East Guraghe",
+        "slug": "east-guraghe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0704",
+        "level": 2,
+        "name": {
+          "local": "East Guraghe",
+          "en": "East Guraghe",
+          "slug": "east-guraghe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.371",
+      "lon": "38.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

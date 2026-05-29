@@ -1,0 +1,275 @@
+# South West Ethiopia — Ethiopia Administrative Divisions
+
+> 6 zones, 59 woredas
+> Code: ET11
+> Coordinates: 6.977, 36.192
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Zones
+
+### Bench Sheko
+
+Code: ET1103, Coordinates: 6.928, 35.363
+Woredas: 10
+
+#### Biftu town
+
+Code: ET110309, Coordinates: 6.858, 35.339
+
+#### Debub Bench
+
+Code: ET110303, Coordinates: 6.869, 35.517
+
+#### Gidi Bench
+
+Code: ET110306, Coordinates: 7.15, 35.657
+
+#### Gurafereda
+
+Code: ET110302, Coordinates: 6.898, 35.173
+
+#### Mizan Aman town
+
+Code: ET110307, Coordinates: 6.951, 35.552
+
+#### Semen Bench
+
+Code: ET110305, Coordinates: 7.033, 35.641
+
+#### Shay Bench
+
+Code: ET110304, Coordinates: 6.903, 35.752
+
+#### Sheko
+
+Code: ET110301, Coordinates: 7.093, 35.545
+
+#### Sheko town
+
+Code: ET110310, Coordinates: 7.044, 35.493
+
+#### Size town
+
+Code: ET110308, Coordinates: 6.957, 35.77
+
+### Dawuro
+
+Code: ET1104, Coordinates: 6.971, 37.1
+Woredas: 12
+
+#### Disa
+
+Code: ET110409, Coordinates: 6.751, 37.116
+
+#### Esara
+
+Code: ET110405, Coordinates: 6.845, 36.89
+
+#### Gena
+
+Code: ET110404, Coordinates: 7.237, 37.273
+
+#### Gesa town
+
+Code: ET110412, Coordinates: 7.013, 37.275
+
+#### Kachi
+
+Code: ET110406, Coordinates: 7.043, 36.916
+
+#### Loma
+
+Code: ET110403, Coordinates: 6.932, 37.285
+
+#### Mareka
+
+Code: ET110402, Coordinates: 7.043, 37.192
+
+#### Mari Mansa
+
+Code: ET110408, Coordinates: 6.997, 37.088
+
+#### Tercha town
+
+Code: ET110411, Coordinates: 7.151, 37.169
+
+#### Tercha Zuriya
+
+Code: ET110407, Coordinates: 7.111, 37.16
+
+#### Tocha
+
+Code: ET110401, Coordinates: 7.148, 36.993
+
+#### Zabagazo
+
+Code: ET110410, Coordinates: 7.103, 37.377
+
+### Kefa
+
+Code: ET1102, Coordinates: 7.228, 36.078
+Woredas: 17
+
+#### Adiyio
+
+Code: ET110205, Coordinates: 7.262, 36.552
+
+#### Awurada town
+
+Code: ET110216, Coordinates: 7.247, 36.126
+
+#### Bita
+
+Code: ET110210, Coordinates: 7.372, 35.674
+
+#### Bonga town
+
+Code: ET110211, Coordinates: 7.263, 36.245
+
+#### Chena
+
+Code: ET110209, Coordinates: 7.11, 35.815
+
+#### Cheta
+
+Code: ET110207, Coordinates: 6.911, 36.367
+
+#### Decha
+
+Code: ET110208, Coordinates: 7.128, 36.146
+
+#### Deka town
+
+Code: ET110215, Coordinates: 7.591, 35.757
+
+#### Gesha
+
+Code: ET110202, Coordinates: 7.632, 35.688
+
+#### Gewata
+
+Code: ET110203, Coordinates: 7.556, 35.98
+
+#### Gimbo
+
+Code: ET110204, Coordinates: 7.359, 36.228
+
+#### Goba (SW)
+
+Code: ET110212, Coordinates: 6.675, 36.179
+
+#### Saylem
+
+Code: ET110201, Coordinates: 7.807, 35.79
+
+#### Shishinda town
+
+Code: ET110217, Coordinates: 7.212, 35.899
+
+#### Shisho Ande
+
+Code: ET110213, Coordinates: 7.341, 35.935
+
+#### Tullo
+
+Code: ET110206, Coordinates: 7.098, 36.457
+
+#### Wacha town
+
+Code: ET110214, Coordinates: 7.154, 35.817
+
+### Konta
+
+Code: ET1106, Coordinates: 6.871, 36.609
+Woredas: 5
+
+#### Amaya town
+
+Code: ET110603, Coordinates: 7.097, 36.668
+
+#### Ameya Zuria
+
+Code: ET110605, Coordinates: 6.981, 36.657
+
+#### Chida town
+
+Code: ET110602, Coordinates: 7.154, 36.785
+
+#### Elahanchano
+
+Code: ET110604, Coordinates: 7.252, 36.857
+
+#### Konta Koysha
+
+Code: ET110601, Coordinates: 6.695, 36.513
+
+### Sheka
+
+Code: ET1101, Coordinates: 7.538, 35.413
+Woredas: 5
+
+#### Anderacha
+
+Code: ET110101, Coordinates: 7.726, 35.524
+
+#### Masha
+
+Code: ET110102, Coordinates: 7.556, 35.34
+
+#### Masha town
+
+Code: ET110105, Coordinates: 7.735, 35.475
+
+#### Tepi
+
+Code: ET110104, Coordinates: 7.196, 35.421
+
+#### Yeki
+
+Code: ET110103, Coordinates: 7.248, 35.472
+
+### West Omo
+
+Code: ET1105, Coordinates: 6.146, 35.554
+Woredas: 10
+
+#### Bachuma town
+
+Code: ET110509, Coordinates: 6.816, 35.896
+
+#### Bero
+
+Code: ET110505, Coordinates: 6.343, 35.239
+
+#### Gachit
+
+Code: ET110501, Coordinates: 6.72, 35.702
+
+#### Gori Gesha
+
+Code: ET110503, Coordinates: 6.559, 35.387
+
+#### Jemu town
+
+Code: ET110510, Coordinates: 6.641, 35.787
+
+#### Maji
+
+Code: ET110507, Coordinates: 5.934, 35.695
+
+#### Maji Tum town
+
+Code: ET110511, Coordinates: 6.21, 35.554
+
+#### Menit Goldiye
+
+Code: ET110502, Coordinates: 6.74, 36.033
+
+#### Menit Shasha
+
+Code: ET110504, Coordinates: 6.465, 35.863
+
+#### Surma
+
+Code: ET110506, Coordinates: 5.901, 35.26
+

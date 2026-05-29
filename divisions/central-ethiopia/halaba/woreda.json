@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ET071403",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Atote Ulo",
+      "en": "Atote Ulo",
+      "slug": "atote-ulo"
+    },
+    "code": {
+      "id": "ET071403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0714",
+      "level": 2,
+      "name": {
+        "local": "Halaba",
+        "en": "Halaba",
+        "slug": "halaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0714",
+        "level": 2,
+        "name": {
+          "local": "Halaba",
+          "en": "Halaba",
+          "slug": "halaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.339",
+      "lon": "38.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET071401",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kulito town",
+      "en": "Kulito town",
+      "slug": "kulito-town"
+    },
+    "code": {
+      "id": "ET071401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0714",
+      "level": 2,
+      "name": {
+        "local": "Halaba",
+        "en": "Halaba",
+        "slug": "halaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0714",
+        "level": 2,
+        "name": {
+          "local": "Halaba",
+          "en": "Halaba",
+          "slug": "halaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.308",
+      "lon": "38.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET071402",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wera",
+      "en": "Wera",
+      "slug": "wera"
+    },
+    "code": {
+      "id": "ET071402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0714",
+      "level": 2,
+      "name": {
+        "local": "Halaba",
+        "en": "Halaba",
+        "slug": "halaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0714",
+        "level": 2,
+        "name": {
+          "local": "Halaba",
+          "en": "Halaba",
+          "slug": "halaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.322",
+      "lon": "38.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET071404",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Wera Djo",
+      "en": "Wera Djo",
+      "slug": "wera-djo"
+    },
+    "code": {
+      "id": "ET071404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0714",
+      "level": 2,
+      "name": {
+        "local": "Halaba",
+        "en": "Halaba",
+        "slug": "halaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0714",
+        "level": 2,
+        "name": {
+          "local": "Halaba",
+          "en": "Halaba",
+          "slug": "halaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.521",
+      "lon": "38.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

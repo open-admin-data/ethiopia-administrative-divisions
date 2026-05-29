@@ -1,0 +1,47 @@
+{
+  "id": "ET0802",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Gamo",
+    "en": "Gamo",
+    "slug": "gamo"
+  },
+  "code": {
+    "id": "ET0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.189",
+    "lon": "37.429"
+  },
+  "metadata": {},
+  "source": {}
+}

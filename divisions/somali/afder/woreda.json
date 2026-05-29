@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ET050807",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Barey",
+      "en": "Barey",
+      "slug": "barey"
+    },
+    "code": {
+      "id": "ET050807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.702",
+      "lon": "42.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050802",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Charati",
+      "en": "Charati",
+      "slug": "charati"
+    },
+    "code": {
+      "id": "ET050802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.298",
+      "lon": "41.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050808",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dolobay",
+      "en": "Dolobay",
+      "slug": "dolobay"
+    },
+    "code": {
+      "id": "ET050808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.488",
+      "lon": "42.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050804",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Elkare /Serer",
+      "en": "Elkare /Serer",
+      "slug": "elkare-serer"
+    },
+    "code": {
+      "id": "ET050804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.951",
+      "lon": "42.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050899",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "God-God",
+      "en": "God-God",
+      "slug": "god-god"
+    },
+    "code": {
+      "id": "ET050899",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.858",
+      "lon": "43.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050806",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hargele",
+      "en": "Hargele",
+      "slug": "hargele"
+    },
+    "code": {
+      "id": "ET050806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.31",
+      "lon": "42.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050898",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kohle /Qoxle",
+      "en": "Kohle /Qoxle",
+      "slug": "kohle-qoxle"
+    },
+    "code": {
+      "id": "ET050898",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.309",
+      "lon": "43.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050809",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Raso",
+      "en": "Raso",
+      "slug": "raso"
+    },
+    "code": {
+      "id": "ET050809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.509",
+      "lon": "41.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050805",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "West Imi",
+      "en": "West Imi",
+      "slug": "west-imi"
+    },
+    "code": {
+      "id": "ET050805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0508",
+      "level": 2,
+      "name": {
+        "local": "Afder",
+        "en": "Afder",
+        "slug": "afder"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0508",
+        "level": 2,
+        "name": {
+          "local": "Afder",
+          "en": "Afder",
+          "slug": "afder"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.24",
+      "lon": "42.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

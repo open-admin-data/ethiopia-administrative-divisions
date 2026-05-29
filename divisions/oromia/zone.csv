@@ -1,0 +1,23 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET0408,Arsi,Arsi,arsi,ET0408,28,7.937,39.682
+ET0411,Bale,Bale,bale,ET0411,12,6.609,40.149
+ET0412,Borena,Borena,borena,ET0412,11,4.428,37.982
+ET0416,Buno Bedele,Buno Bedele,buno-bedele,ET0416,10,8.486,36.327
+ET0421,East Bale,East Bale,east-bale,ET0421,7,7.237,41.257
+ET0422,East Borena,East Borena,east-borena,ET0422,9,4.546,39.023
+ET0410,East Hararge,East Hararge,east-hararge,ET0410,24,8.844,42.003
+ET0407,East Shewa,East Shewa,east-shewa,ET0407,16,8.502,39.157
+ET0402,East Wellega,East Wellega,east-wellega,ET0402,18,9.405,36.617
+ET0414,Guji,Guji,guji,ET0414,14,5.833,38.934
+ET0419,Horo Gudru Wellega,Horo Gudru Wellega,horo-gudru-wellega,ET0419,13,9.71,37.197
+ET0403,Ilu Aba Bora,Ilu Aba Bora,ilu-aba-bora,ET0403,14,8.264,35.481
+ET0404,Jimma,Jimma,jimma,ET0404,22,7.673,36.736
+ET0418,Kelem Wellega,Kelem Wellega,kelem-wellega,ET0418,12,8.813,34.783
+ET0406,North Shewa (OR),North Shewa (OR),north-shewa-or,ET0406,21,9.692,38.717
+ET0420,Shager City,Shager City,shager-city,ET0420,12,8.822,38.759
+ET0413,South West Shewa,South West Shewa,south-west-shewa,ET0413,13,8.593,38.172
+ET0417,West Arsi,West Arsi,west-arsi,ET0417,17,7.059,38.98
+ET0415,West Guji,West Guji,west-guji,ET0415,11,5.575,38.317
+ET0409,West Hararge,West Hararge,west-hararge,ET0409,17,8.67,40.773
+ET0405,West Shewa,West Shewa,west-shewa,ET0405,25,9.171,37.842
+ET0401,West Wellega,West Wellega,west-wellega,ET0401,23,9.525,35.197

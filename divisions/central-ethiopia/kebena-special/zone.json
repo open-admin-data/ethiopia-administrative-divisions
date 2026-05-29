@@ -1,0 +1,47 @@
+{
+  "id": "ET0700",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Kebena Special",
+    "en": "Kebena Special",
+    "slug": "kebena-special"
+  },
+  "code": {
+    "id": "ET0700",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET07",
+    "level": 1,
+    "name": {
+      "local": "Central Ethiopia",
+      "en": "Central Ethiopia",
+      "slug": "central-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET07",
+      "level": 1,
+      "name": {
+        "local": "Central Ethiopia",
+        "en": "Central Ethiopia",
+        "slug": "central-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.322",
+    "lon": "37.909"
+  },
+  "metadata": {},
+  "source": {}
+}

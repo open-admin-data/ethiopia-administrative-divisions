@@ -1,0 +1,47 @@
+{
+  "id": "ET0407",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "East Shewa",
+    "en": "East Shewa",
+    "slug": "east-shewa"
+  },
+  "code": {
+    "id": "ET0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.502",
+    "lon": "39.157"
+  },
+  "metadata": {},
+  "source": {}
+}

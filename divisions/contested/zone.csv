@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.woreda,geo.lat,geo.lon
+ET9901,Area 1,Area 1,area-1,ET9901,9,13.829,37.098
+ET9902,Area 2,Area 2,area-2,ET9902,3,13.637,38.145
+ET9903,Area 3,Area 3,area-3,ET9903,6,12.488,39.527

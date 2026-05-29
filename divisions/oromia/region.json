@@ -1,0 +1,30 @@
+{
+  "id": "ET04",
+  "level": 1,
+  "level_name": {
+    "local": "ክልል",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Oromia",
+    "en": "Oromia",
+    "slug": "oromia"
+  },
+  "code": {
+    "id": "ET04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "zone": 22,
+    "woreda": 349
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.525",
+    "lon": "40.766"
+  },
+  "metadata": {},
+  "source": {}
+}

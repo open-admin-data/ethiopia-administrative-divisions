@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET080903",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Karat town",
+      "en": "Karat town",
+      "slug": "karat-town"
+    },
+    "code": {
+      "id": "ET080903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0809",
+      "level": 2,
+      "name": {
+        "local": "Konso",
+        "en": "Konso",
+        "slug": "konso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0809",
+        "level": 2,
+        "name": {
+          "local": "Konso",
+          "en": "Konso",
+          "slug": "konso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.336",
+      "lon": "37.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080902",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Karat Zuria",
+      "en": "Karat Zuria",
+      "slug": "karat-zuria"
+    },
+    "code": {
+      "id": "ET080902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0809",
+      "level": 2,
+      "name": {
+        "local": "Konso",
+        "en": "Konso",
+        "slug": "konso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0809",
+        "level": 2,
+        "name": {
+          "local": "Konso",
+          "en": "Konso",
+          "slug": "konso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.313",
+      "lon": "37.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080901",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kena",
+      "en": "Kena",
+      "slug": "kena"
+    },
+    "code": {
+      "id": "ET080901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0809",
+      "level": 2,
+      "name": {
+        "local": "Konso",
+        "en": "Konso",
+        "slug": "konso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0809",
+        "level": 2,
+        "name": {
+          "local": "Konso",
+          "en": "Konso",
+          "slug": "konso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.247",
+      "lon": "37.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080905",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kolme",
+      "en": "Kolme",
+      "slug": "kolme"
+    },
+    "code": {
+      "id": "ET080905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0809",
+      "level": 2,
+      "name": {
+        "local": "Konso",
+        "en": "Konso",
+        "slug": "konso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0809",
+        "level": 2,
+        "name": {
+          "local": "Konso",
+          "en": "Konso",
+          "slug": "konso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.305",
+      "lon": "37.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET080904",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Segen Zuria",
+      "en": "Segen Zuria",
+      "slug": "segen-zuria"
+    },
+    "code": {
+      "id": "ET080904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0809",
+      "level": 2,
+      "name": {
+        "local": "Konso",
+        "en": "Konso",
+        "slug": "konso"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET08",
+        "level": 1,
+        "name": {
+          "local": "South Ethiopia",
+          "en": "South Ethiopia",
+          "slug": "south-ethiopia"
+        }
+      },
+      {
+        "id": "ET0809",
+        "level": 2,
+        "name": {
+          "local": "Konso",
+          "en": "Konso",
+          "slug": "konso"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.496",
+      "lon": "37.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

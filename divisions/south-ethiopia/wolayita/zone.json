@@ -1,0 +1,47 @@
+{
+  "id": "ET0801",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Wolayita",
+    "en": "Wolayita",
+    "slug": "wolayita"
+  },
+  "code": {
+    "id": "ET0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET08",
+    "level": 1,
+    "name": {
+      "local": "South Ethiopia",
+      "en": "South Ethiopia",
+      "slug": "south-ethiopia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET08",
+      "level": 1,
+      "name": {
+        "local": "South Ethiopia",
+        "en": "South Ethiopia",
+        "slug": "south-ethiopia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.863",
+    "lon": "37.724"
+  },
+  "metadata": {},
+  "source": {}
+}

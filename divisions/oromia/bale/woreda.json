@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET041104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Agarfa",
+      "en": "Agarfa",
+      "slug": "agarfa"
+    },
+    "code": {
+      "id": "ET041104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.319",
+      "lon": "39.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Berbere",
+      "en": "Berbere",
+      "slug": "berbere"
+    },
+    "code": {
+      "id": "ET041114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.712",
+      "lon": "40.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041122",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dinsho",
+      "en": "Dinsho",
+      "slug": "dinsho"
+    },
+    "code": {
+      "id": "ET041122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.077",
+      "lon": "39.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gasera",
+      "en": "Gasera",
+      "slug": "gasera"
+    },
+    "code": {
+      "id": "ET041106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.382",
+      "lon": "40.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goba (OR)",
+      "en": "Goba (OR)",
+      "slug": "goba-or"
+    },
+    "code": {
+      "id": "ET041110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.857",
+      "lon": "39.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041120",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goba town",
+      "en": "Goba town",
+      "slug": "goba-town"
+    },
+    "code": {
+      "id": "ET041120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.024",
+      "lon": "39.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041116",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Goro (Bale)",
+      "en": "Goro (Bale)",
+      "slug": "goro-bale"
+    },
+    "code": {
+      "id": "ET041116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.993",
+      "lon": "40.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041115",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gura Damole",
+      "en": "Gura Damole",
+      "slug": "gura-damole"
+    },
+    "code": {
+      "id": "ET041115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.294",
+      "lon": "40.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Harena Buluk",
+      "en": "Harena Buluk",
+      "slug": "harena-buluk"
+    },
+    "code": {
+      "id": "ET041111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "39.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mena (Bale)",
+      "en": "Mena (Bale)",
+      "slug": "mena-bale"
+    },
+    "code": {
+      "id": "ET041112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.267",
+      "lon": "40.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041119",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Robe town",
+      "en": "Robe town",
+      "slug": "robe-town"
+    },
+    "code": {
+      "id": "ET041119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.125",
+      "lon": "40.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET041109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sinana",
+      "en": "Sinana",
+      "slug": "sinana"
+    },
+    "code": {
+      "id": "ET041109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0411",
+      "level": 2,
+      "name": {
+        "local": "Bale",
+        "en": "Bale",
+        "slug": "bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0411",
+        "level": 2,
+        "name": {
+          "local": "Bale",
+          "en": "Bale",
+          "slug": "bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.128",
+      "lon": "40.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET120407",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Itang",
+      "en": "Itang",
+      "slug": "itang"
+    },
+    "code": {
+      "id": "ET120407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1204",
+      "level": 2,
+      "name": {
+        "local": "Itang Special",
+        "en": "Itang Special",
+        "slug": "itang-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET12",
+        "level": 1,
+        "name": {
+          "local": "Gambela",
+          "en": "Gambela",
+          "slug": "gambela"
+        }
+      },
+      {
+        "id": "ET1204",
+        "level": 2,
+        "name": {
+          "local": "Itang Special",
+          "en": "Itang Special",
+          "slug": "itang-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.346",
+      "lon": "34.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

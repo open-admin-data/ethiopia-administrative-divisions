@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ET042106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dawe Ketchen",
+      "en": "Dawe Ketchen",
+      "slug": "dawe-ketchen"
+    },
+    "code": {
+      "id": "ET042106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.653",
+      "lon": "40.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ginir",
+      "en": "Ginir",
+      "slug": "ginir"
+    },
+    "code": {
+      "id": "ET042103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.992",
+      "lon": "40.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ginir town",
+      "en": "Ginir town",
+      "slug": "ginir-town"
+    },
+    "code": {
+      "id": "ET042107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.138",
+      "lon": "40.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gololcha Bale",
+      "en": "Gololcha Bale",
+      "slug": "gololcha-bale"
+    },
+    "code": {
+      "id": "ET042101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.539",
+      "lon": "40.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lege Hida",
+      "en": "Lege Hida",
+      "slug": "lege-hida"
+    },
+    "code": {
+      "id": "ET042102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.866",
+      "lon": "41.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Rayitu",
+      "en": "Rayitu",
+      "slug": "rayitu"
+    },
+    "code": {
+      "id": "ET042104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.8",
+      "lon": "41.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET042105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Seweyna",
+      "en": "Seweyna",
+      "slug": "seweyna"
+    },
+    "code": {
+      "id": "ET042105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0421",
+      "level": 2,
+      "name": {
+        "local": "East Bale",
+        "en": "East Bale",
+        "slug": "east-bale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0421",
+        "level": 2,
+        "name": {
+          "local": "East Bale",
+          "en": "East Bale",
+          "slug": "east-bale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.259",
+      "lon": "41.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

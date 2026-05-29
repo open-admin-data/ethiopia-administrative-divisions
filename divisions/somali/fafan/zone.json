@@ -1,0 +1,47 @@
+{
+  "id": "ET0502",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Fafan",
+    "en": "Fafan",
+    "slug": "fafan"
+  },
+  "code": {
+    "id": "ET0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET05",
+    "level": 1,
+    "name": {
+      "local": "Somali",
+      "en": "Somali",
+      "slug": "somali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET05",
+      "level": 1,
+      "name": {
+        "local": "Somali",
+        "en": "Somali",
+        "slug": "somali"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.152",
+    "lon": "43.237"
+  },
+  "metadata": {},
+  "source": {}
+}

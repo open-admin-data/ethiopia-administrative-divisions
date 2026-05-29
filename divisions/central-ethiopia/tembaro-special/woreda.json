@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ET072601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tembaro Special",
+      "en": "Tembaro Special",
+      "slug": "tembaro-special"
+    },
+    "code": {
+      "id": "ET072601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0726",
+      "level": 2,
+      "name": {
+        "local": "Tembaro Special",
+        "en": "Tembaro Special",
+        "slug": "tembaro-special"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET07",
+        "level": 1,
+        "name": {
+          "local": "Central Ethiopia",
+          "en": "Central Ethiopia",
+          "slug": "central-ethiopia"
+        }
+      },
+      {
+        "id": "ET0726",
+        "level": 2,
+        "name": {
+          "local": "Tembaro Special",
+          "en": "Tembaro Special",
+          "slug": "tembaro-special"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.269",
+      "lon": "37.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

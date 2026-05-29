@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ET990202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Laelay Tselemti",
+      "en": "Laelay Tselemti",
+      "slug": "laelay-tselemti"
+    },
+    "code": {
+      "id": "ET990202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9902",
+      "level": 2,
+      "name": {
+        "local": "Area 2",
+        "en": "Area 2",
+        "slug": "area-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9902",
+        "level": 2,
+        "name": {
+          "local": "Area 2",
+          "en": "Area 2",
+          "slug": "area-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.678",
+      "lon": "38.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "May Tsebri town",
+      "en": "May Tsebri town",
+      "slug": "may-tsebri-town"
+    },
+    "code": {
+      "id": "ET990203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9902",
+      "level": 2,
+      "name": {
+        "local": "Area 2",
+        "en": "Area 2",
+        "slug": "area-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9902",
+        "level": 2,
+        "name": {
+          "local": "Area 2",
+          "en": "Area 2",
+          "slug": "area-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.574",
+      "lon": "38.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET990201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tselemti /West Telemt",
+      "en": "Tselemti /West Telemt",
+      "slug": "tselemti-west-telemt"
+    },
+    "code": {
+      "id": "ET990201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET9902",
+      "level": 2,
+      "name": {
+        "local": "Area 2",
+        "en": "Area 2",
+        "slug": "area-2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET99",
+        "level": 1,
+        "name": {
+          "local": "Contested",
+          "en": "Contested",
+          "slug": "contested"
+        }
+      },
+      {
+        "id": "ET9902",
+        "level": 2,
+        "name": {
+          "local": "Area 2",
+          "en": "Area 2",
+          "slug": "area-2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.638",
+      "lon": "38.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

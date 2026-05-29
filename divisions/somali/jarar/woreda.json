@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ET050395",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ararso",
+      "en": "Ararso",
+      "slug": "ararso"
+    },
+    "code": {
+      "id": "ET050395",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.701",
+      "lon": "43.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050303",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aware",
+      "en": "Aware",
+      "slug": "aware"
+    },
+    "code": {
+      "id": "ET050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.071",
+      "lon": "44.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050306",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Bilcil-Bur",
+      "en": "Bilcil-Bur",
+      "slug": "bilcil-bur"
+    },
+    "code": {
+      "id": "ET050306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.381",
+      "lon": "43.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050394",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Burqod",
+      "en": "Burqod",
+      "slug": "burqod"
+    },
+    "code": {
+      "id": "ET050394",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.61",
+      "lon": "43.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050392",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Daror",
+      "en": "Daror",
+      "slug": "daror"
+    },
+    "code": {
+      "id": "ET050392",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.429",
+      "lon": "44.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050307",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degahabur town",
+      "en": "Degahabur town",
+      "slug": "degahabur-town"
+    },
+    "code": {
+      "id": "ET050307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.226",
+      "lon": "43.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050302",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degehabur",
+      "en": "Degehabur",
+      "slug": "degehabur"
+    },
+    "code": {
+      "id": "ET050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.993",
+      "lon": "43.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050301",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Degehamedo",
+      "en": "Degehamedo",
+      "slug": "degehamedo"
+    },
+    "code": {
+      "id": "ET050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.058",
+      "lon": "43.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050399",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Dig",
+      "en": "Dig",
+      "slug": "dig"
+    },
+    "code": {
+      "id": "ET050399",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.687",
+      "lon": "44.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050304",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gashamo",
+      "en": "Gashamo",
+      "slug": "gashamo"
+    },
+    "code": {
+      "id": "ET050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.152",
+      "lon": "45.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050305",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gunagado",
+      "en": "Gunagado",
+      "slug": "gunagado"
+    },
+    "code": {
+      "id": "ET050305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.687",
+      "lon": "44.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET050382",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yocale",
+      "en": "Yocale",
+      "slug": "yocale"
+    },
+    "code": {
+      "id": "ET050382",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0503",
+      "level": 2,
+      "name": {
+        "local": "Jarar",
+        "en": "Jarar",
+        "slug": "jarar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET05",
+        "level": 1,
+        "name": {
+          "local": "Somali",
+          "en": "Somali",
+          "slug": "somali"
+        }
+      },
+      {
+        "id": "ET0503",
+        "level": 2,
+        "name": {
+          "local": "Jarar",
+          "en": "Jarar",
+          "slug": "jarar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.424",
+      "lon": "43.81"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

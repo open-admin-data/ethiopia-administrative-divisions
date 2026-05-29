@@ -1,0 +1,47 @@
+{
+  "id": "ET0401",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "West Wellega",
+    "en": "West Wellega",
+    "slug": "west-wellega"
+  },
+  "code": {
+    "id": "ET0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET04",
+    "level": 1,
+    "name": {
+      "local": "Oromia",
+      "en": "Oromia",
+      "slug": "oromia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET04",
+      "level": 1,
+      "name": {
+        "local": "Oromia",
+        "en": "Oromia",
+        "slug": "oromia"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.525",
+    "lon": "35.197"
+  },
+  "metadata": {},
+  "source": {}
+}

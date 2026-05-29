@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "ET010210",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abergele (TG)",
+      "en": "Abergele (TG)",
+      "slug": "abergele-tg"
+    },
+    "code": {
+      "id": "ET010210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.364",
+      "lon": "38.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010211",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Abiy Adi town",
+      "en": "Abiy Adi town",
+      "slug": "abiy-adi-town"
+    },
+    "code": {
+      "id": "ET010211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.633",
+      "lon": "38.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010207",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adet",
+      "en": "Adet",
+      "slug": "adet"
+    },
+    "code": {
+      "id": "ET010207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.832",
+      "lon": "38.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010204",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adwa",
+      "en": "Adwa",
+      "slug": "adwa"
+    },
+    "code": {
+      "id": "ET010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.175",
+      "lon": "39.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010212",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Adwa town",
+      "en": "Adwa town",
+      "slug": "adwa-town"
+    },
+    "code": {
+      "id": "ET010212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.167",
+      "lon": "38.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010202",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Aheferom",
+      "en": "Aheferom",
+      "slug": "aheferom"
+    },
+    "code": {
+      "id": "ET010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.321",
+      "lon": "39.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010215",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ahsea",
+      "en": "Ahsea",
+      "slug": "ahsea"
+    },
+    "code": {
+      "id": "ET010215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.401",
+      "lon": "38.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010213",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Axum town",
+      "en": "Axum town",
+      "slug": "axum-town"
+    },
+    "code": {
+      "id": "ET010213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.122",
+      "lon": "38.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010201",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chila",
+      "en": "Chila",
+      "slug": "chila"
+    },
+    "code": {
+      "id": "ET010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.31",
+      "lon": "38.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010216",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Egela",
+      "en": "Egela",
+      "slug": "egela"
+    },
+    "code": {
+      "id": "ET010216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.502",
+      "lon": "39.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010219",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Emba Sieneti",
+      "en": "Emba Sieneti",
+      "slug": "emba-sieneti"
+    },
+    "code": {
+      "id": "ET010219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.052",
+      "lon": "39.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010203",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Endaba Tsahma",
+      "en": "Endaba Tsahma",
+      "slug": "endaba-tsahma"
+    },
+    "code": {
+      "id": "ET010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.991",
+      "lon": "39.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010218",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Endafelasi",
+      "en": "Endafelasi",
+      "slug": "endafelasi"
+    },
+    "code": {
+      "id": "ET010218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.919",
+      "lon": "38.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010220",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Enticho town",
+      "en": "Enticho town",
+      "slug": "enticho-town"
+    },
+    "code": {
+      "id": "ET010220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.278",
+      "lon": "39.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010217",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Hahayle",
+      "en": "Hahayle",
+      "slug": "hahayle"
+    },
+    "code": {
+      "id": "ET010217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.167",
+      "lon": "39.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010221",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Keyhe tekli",
+      "en": "Keyhe tekli",
+      "slug": "keyhe-tekli"
+    },
+    "code": {
+      "id": "ET010221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.76",
+      "lon": "39.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010208",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kola Tembien",
+      "en": "Kola Tembien",
+      "slug": "kola-tembien"
+    },
+    "code": {
+      "id": "ET010208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.641",
+      "lon": "38.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010205",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Laelay Maychew",
+      "en": "Laelay Maychew",
+      "slug": "laelay-maychew"
+    },
+    "code": {
+      "id": "ET010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.156",
+      "lon": "38.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010209",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Naeder",
+      "en": "Naeder",
+      "slug": "naeder"
+    },
+    "code": {
+      "id": "ET010209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.916",
+      "lon": "38.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010214",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Rama Adi Arbaete",
+      "en": "Rama Adi Arbaete",
+      "slug": "rama-adi-arbaete"
+    },
+    "code": {
+      "id": "ET010214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.374",
+      "lon": "38.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010206",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tahtay Maychew",
+      "en": "Tahtay Maychew",
+      "slug": "tahtay-maychew"
+    },
+    "code": {
+      "id": "ET010206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.074",
+      "lon": "38.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET010222",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tanqua Melashe",
+      "en": "Tanqua Melashe",
+      "slug": "tanqua-melashe"
+    },
+    "code": {
+      "id": "ET010222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0102",
+      "level": 2,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET01",
+        "level": 1,
+        "name": {
+          "local": "Tigray",
+          "en": "Tigray",
+          "slug": "tigray"
+        }
+      },
+      {
+        "id": "ET0102",
+        "level": 2,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.536",
+      "lon": "39.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

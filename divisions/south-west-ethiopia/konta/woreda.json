@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET110603",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Amaya town",
+      "en": "Amaya town",
+      "slug": "amaya-town"
+    },
+    "code": {
+      "id": "ET110603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1106",
+      "level": 2,
+      "name": {
+        "local": "Konta",
+        "en": "Konta",
+        "slug": "konta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1106",
+        "level": 2,
+        "name": {
+          "local": "Konta",
+          "en": "Konta",
+          "slug": "konta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.097",
+      "lon": "36.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110605",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ameya Zuria",
+      "en": "Ameya Zuria",
+      "slug": "ameya-zuria"
+    },
+    "code": {
+      "id": "ET110605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1106",
+      "level": 2,
+      "name": {
+        "local": "Konta",
+        "en": "Konta",
+        "slug": "konta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1106",
+        "level": 2,
+        "name": {
+          "local": "Konta",
+          "en": "Konta",
+          "slug": "konta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.981",
+      "lon": "36.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110602",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Chida town",
+      "en": "Chida town",
+      "slug": "chida-town"
+    },
+    "code": {
+      "id": "ET110602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1106",
+      "level": 2,
+      "name": {
+        "local": "Konta",
+        "en": "Konta",
+        "slug": "konta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1106",
+        "level": 2,
+        "name": {
+          "local": "Konta",
+          "en": "Konta",
+          "slug": "konta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.154",
+      "lon": "36.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110604",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Elahanchano",
+      "en": "Elahanchano",
+      "slug": "elahanchano"
+    },
+    "code": {
+      "id": "ET110604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1106",
+      "level": 2,
+      "name": {
+        "local": "Konta",
+        "en": "Konta",
+        "slug": "konta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1106",
+        "level": 2,
+        "name": {
+          "local": "Konta",
+          "en": "Konta",
+          "slug": "konta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.252",
+      "lon": "36.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110601",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Konta Koysha",
+      "en": "Konta Koysha",
+      "slug": "konta-koysha"
+    },
+    "code": {
+      "id": "ET110601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1106",
+      "level": 2,
+      "name": {
+        "local": "Konta",
+        "en": "Konta",
+        "slug": "konta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1106",
+        "level": 2,
+        "name": {
+          "local": "Konta",
+          "en": "Konta",
+          "slug": "konta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.695",
+      "lon": "36.513"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

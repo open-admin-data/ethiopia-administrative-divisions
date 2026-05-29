@@ -1,0 +1,47 @@
+{
+  "id": "ET0602",
+  "level": 2,
+  "level_name": {
+    "local": "ዞን",
+    "en": "Zone"
+  },
+  "name": {
+    "local": "Metekel",
+    "en": "Metekel",
+    "slug": "metekel"
+  },
+  "code": {
+    "id": "ET0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ET06",
+    "level": 1,
+    "name": {
+      "local": "Benishangul-Gumuz",
+      "en": "Benishangul-Gumuz",
+      "slug": "benishangul-gumuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ET06",
+      "level": 1,
+      "name": {
+        "local": "Benishangul-Gumuz",
+        "en": "Benishangul-Gumuz",
+        "slug": "benishangul-gumuz"
+      }
+    }
+  ],
+  "children_count": {
+    "woreda": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.002",
+    "lon": "35.769"
+  },
+  "metadata": {},
+  "source": {}
+}

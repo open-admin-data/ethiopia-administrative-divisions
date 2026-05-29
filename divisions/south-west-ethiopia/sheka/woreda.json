@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ET110101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Anderacha",
+      "en": "Anderacha",
+      "slug": "anderacha"
+    },
+    "code": {
+      "id": "ET110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1101",
+      "level": 2,
+      "name": {
+        "local": "Sheka",
+        "en": "Sheka",
+        "slug": "sheka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1101",
+        "level": 2,
+        "name": {
+          "local": "Sheka",
+          "en": "Sheka",
+          "slug": "sheka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.726",
+      "lon": "35.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Masha",
+      "en": "Masha",
+      "slug": "masha"
+    },
+    "code": {
+      "id": "ET110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1101",
+      "level": 2,
+      "name": {
+        "local": "Sheka",
+        "en": "Sheka",
+        "slug": "sheka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1101",
+        "level": 2,
+        "name": {
+          "local": "Sheka",
+          "en": "Sheka",
+          "slug": "sheka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.556",
+      "lon": "35.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Masha town",
+      "en": "Masha town",
+      "slug": "masha-town"
+    },
+    "code": {
+      "id": "ET110105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1101",
+      "level": 2,
+      "name": {
+        "local": "Sheka",
+        "en": "Sheka",
+        "slug": "sheka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1101",
+        "level": 2,
+        "name": {
+          "local": "Sheka",
+          "en": "Sheka",
+          "slug": "sheka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Tepi",
+      "en": "Tepi",
+      "slug": "tepi"
+    },
+    "code": {
+      "id": "ET110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1101",
+      "level": 2,
+      "name": {
+        "local": "Sheka",
+        "en": "Sheka",
+        "slug": "sheka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1101",
+        "level": 2,
+        "name": {
+          "local": "Sheka",
+          "en": "Sheka",
+          "slug": "sheka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.196",
+      "lon": "35.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET110103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yeki",
+      "en": "Yeki",
+      "slug": "yeki"
+    },
+    "code": {
+      "id": "ET110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET1101",
+      "level": 2,
+      "name": {
+        "local": "Sheka",
+        "en": "Sheka",
+        "slug": "sheka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      },
+      {
+        "id": "ET1101",
+        "level": 2,
+        "name": {
+          "local": "Sheka",
+          "en": "Sheka",
+          "slug": "sheka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.248",
+      "lon": "35.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

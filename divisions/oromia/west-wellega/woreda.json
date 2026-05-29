@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ET040107",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Ayira",
+      "en": "Ayira",
+      "slug": "ayira"
+    },
+    "code": {
+      "id": "ET040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.131",
+      "lon": "35.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040111",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Babo",
+      "en": "Babo",
+      "slug": "babo"
+    },
+    "code": {
+      "id": "ET040111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.446",
+      "lon": "35.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040116",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Begi",
+      "en": "Begi",
+      "slug": "begi"
+    },
+    "code": {
+      "id": "ET040116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.361",
+      "lon": "34.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040110",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boji Chekorsa",
+      "en": "Boji Chekorsa",
+      "slug": "boji-chekorsa"
+    },
+    "code": {
+      "id": "ET040110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.285",
+      "lon": "35.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040106",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Boji Dirmeji",
+      "en": "Boji Dirmeji",
+      "slug": "boji-dirmeji"
+    },
+    "code": {
+      "id": "ET040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.401",
+      "lon": "35.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040113",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gaji",
+      "en": "Gaji",
+      "slug": "gaji"
+    },
+    "code": {
+      "id": "ET040113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "35.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040103",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gimbi",
+      "en": "Gimbi",
+      "slug": "gimbi"
+    },
+    "code": {
+      "id": "ET040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.106",
+      "lon": "35.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040193",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gimbi town",
+      "en": "Gimbi town",
+      "slug": "gimbi-town"
+    },
+    "code": {
+      "id": "ET040193",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.174",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040109",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Gudetu Kondole",
+      "en": "Gudetu Kondole",
+      "slug": "gudetu-kondole"
+    },
+    "code": {
+      "id": "ET040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.397",
+      "lon": "34.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040119",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Guliso",
+      "en": "Guliso",
+      "slug": "guliso"
+    },
+    "code": {
+      "id": "ET040119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.27",
+      "lon": "35.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040114",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Haru",
+      "en": "Haru",
+      "slug": "haru"
+    },
+    "code": {
+      "id": "ET040114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.981",
+      "lon": "35.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040117",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Homa",
+      "en": "Homa",
+      "slug": "homa"
+    },
+    "code": {
+      "id": "ET040117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.061",
+      "lon": "35.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040108",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Jarso (West Wellega)",
+      "en": "Jarso (West Wellega)",
+      "slug": "jarso-west-wellega"
+    },
+    "code": {
+      "id": "ET040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.444",
+      "lon": "35.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040105",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Kiltu Kara",
+      "en": "Kiltu Kara",
+      "slug": "kiltu-kara"
+    },
+    "code": {
+      "id": "ET040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.712",
+      "lon": "35.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040104",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Lalo Asabi",
+      "en": "Lalo Asabi",
+      "slug": "lalo-asabi"
+    },
+    "code": {
+      "id": "ET040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.205",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040197",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Leta Sibu",
+      "en": "Leta Sibu",
+      "slug": "leta-sibu"
+    },
+    "code": {
+      "id": "ET040197",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.597",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040101",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mana Sibu",
+      "en": "Mana Sibu",
+      "slug": "mana-sibu"
+    },
+    "code": {
+      "id": "ET040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.758",
+      "lon": "35.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040198",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Mendi town",
+      "en": "Mendi town",
+      "slug": "mendi-town"
+    },
+    "code": {
+      "id": "ET040198",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "35.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040102",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nejo",
+      "en": "Nejo",
+      "slug": "nejo"
+    },
+    "code": {
+      "id": "ET040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.567",
+      "lon": "35.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040199",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nejo town",
+      "en": "Nejo town",
+      "slug": "nejo-town"
+    },
+    "code": {
+      "id": "ET040199",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.502",
+      "lon": "35.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040115",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Nole Kaba",
+      "en": "Nole Kaba",
+      "slug": "nole-kaba"
+    },
+    "code": {
+      "id": "ET040115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.805",
+      "lon": "35.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040118",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Sayo Nole",
+      "en": "Sayo Nole",
+      "slug": "sayo-nole"
+    },
+    "code": {
+      "id": "ET040118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.839",
+      "lon": "35.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET040112",
+    "level": 3,
+    "level_name": {
+      "local": "ወረዳ",
+      "en": "Woreda"
+    },
+    "name": {
+      "local": "Yubdo",
+      "en": "Yubdo",
+      "slug": "yubdo"
+    },
+    "code": {
+      "id": "ET040112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET0401",
+      "level": 2,
+      "name": {
+        "local": "West Wellega",
+        "en": "West Wellega",
+        "slug": "west-wellega"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET04",
+        "level": 1,
+        "name": {
+          "local": "Oromia",
+          "en": "Oromia",
+          "slug": "oromia"
+        }
+      },
+      {
+        "id": "ET0401",
+        "level": 2,
+        "name": {
+          "local": "West Wellega",
+          "en": "West Wellega",
+          "slug": "west-wellega"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.974",
+      "lon": "35.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

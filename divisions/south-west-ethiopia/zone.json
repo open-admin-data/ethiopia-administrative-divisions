@@ -1,0 +1,284 @@
+[
+  {
+    "id": "ET1103",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Bench Sheko",
+      "en": "Bench Sheko",
+      "slug": "bench-sheko"
+    },
+    "code": {
+      "id": "ET1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "35.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1104",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Dawuro",
+      "en": "Dawuro",
+      "slug": "dawuro"
+    },
+    "code": {
+      "id": "ET1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.971",
+      "lon": "37.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1102",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Kefa",
+      "en": "Kefa",
+      "slug": "kefa"
+    },
+    "code": {
+      "id": "ET1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.228",
+      "lon": "36.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1106",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Konta",
+      "en": "Konta",
+      "slug": "konta"
+    },
+    "code": {
+      "id": "ET1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.871",
+      "lon": "36.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1101",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "Sheka",
+      "en": "Sheka",
+      "slug": "sheka"
+    },
+    "code": {
+      "id": "ET1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.538",
+      "lon": "35.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ET1105",
+    "level": 2,
+    "level_name": {
+      "local": "ዞን",
+      "en": "Zone"
+    },
+    "name": {
+      "local": "West Omo",
+      "en": "West Omo",
+      "slug": "west-omo"
+    },
+    "code": {
+      "id": "ET1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ET11",
+      "level": 1,
+      "name": {
+        "local": "South West Ethiopia",
+        "en": "South West Ethiopia",
+        "slug": "south-west-ethiopia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ET11",
+        "level": 1,
+        "name": {
+          "local": "South West Ethiopia",
+          "en": "South West Ethiopia",
+          "slug": "south-west-ethiopia"
+        }
+      }
+    ],
+    "children_count": {
+      "woreda": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.146",
+      "lon": "35.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
