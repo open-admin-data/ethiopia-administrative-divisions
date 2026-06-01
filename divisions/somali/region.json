@@ -26,5 +26,9 @@
     "lon": "43.329"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/somali/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

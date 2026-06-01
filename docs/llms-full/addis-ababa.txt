@@ -3,7 +3,7 @@
 > 1 zones, 11 woredas
 > Code: ET14
 > Coordinates: 8.98, 38.786
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

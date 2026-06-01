@@ -26,5 +26,9 @@
     "lon": "40.773"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/afar/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

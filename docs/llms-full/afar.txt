@@ -3,7 +3,7 @@
 > 6 zones, 49 woredas
 > Code: ET02
 > Coordinates: 12.036, 40.773
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

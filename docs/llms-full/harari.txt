@@ -3,7 +3,7 @@
 > 1 zones, 9 woredas
 > Code: ET13
 > Coordinates: 9.29, 42.173
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

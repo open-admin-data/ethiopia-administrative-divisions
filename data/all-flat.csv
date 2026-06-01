@@ -1,123 +1,124 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.zone,children_count.woreda,zip_codes,geo.lat,geo.lon
-ET01,1,ክልል,Region,Tigray,Tigray,tigray,ET01,,,,,,6,75,,13.867,38.904
-ET0101,2,ዞን,Zone,North Western,North Western,north-western,ET0101,,ET01,Tigray,Tigray,,,12,,14.235,38.016
-ET0102,2,ዞን,Zone,Central,Central,central,ET0102,,ET01,Tigray,Tigray,,,22,,13.97,38.892
-ET0103,2,ዞን,Zone,Eastern,Eastern,eastern,ET0103,,ET01,Tigray,Tigray,,,18,,14.077,39.561
-ET0104,2,ዞን,Zone,Southern,Southern,southern,ET0104,,ET01,Tigray,Tigray,,,8,,12.828,39.556
-ET0106,2,ዞን,Zone,South Eastern,South Eastern,south-eastern,ET0106,,ET01,Tigray,Tigray,,,8,,13.221,39.426
-ET0107,2,ዞን,Zone,Mekelle,Mekelle,mekelle,ET0107,,ET01,Tigray,Tigray,,,7,,13.476,39.505
-ET02,1,ክልል,Region,Afar,Afar,afar,ET02,,,,,,6,49,,12.036,40.773
-ET0201,2,ዞን,Zone,Awsi /Zone 1,Awsi /Zone 1,awsi-zone-1,ET0201,,ET02,Afar,Afar,,,13,,12.037,41.163
-ET0202,2,ዞን,Zone,Kilbati /Zone 2,Kilbati /Zone 2,kilbati-zone-2,ET0202,,ET02,Afar,Afar,,,10,,13.451,40.649
-ET0203,2,ዞን,Zone,Gabi /Zone 3,Gabi /Zone 3,gabi-zone-3,ET0203,,ET02,Afar,Afar,,,11,,9.913,40.702
-ET0204,2,ዞን,Zone,Fanti /Zone 4,Fanti /Zone 4,fanti-zone-4,ET0204,,ET02,Afar,Afar,,,6,,12.327,40.318
-ET0205,2,ዞን,Zone,Hari /Zone 5,Hari /Zone 5,hari-zone-5,ET0205,,ET02,Afar,Afar,,,5,,10.413,40.268
-ET0206,2,ዞን,Zone,Mahi /Zone 6,Mahi /Zone 6,mahi-zone-6,ET0206,,ET02,Afar,Afar,,,4,,10.88,40.946
-ET03,1,ክልል,Region,Amhara,Amhara,amhara,ET03,,,,,,14,225,,11.565,38.044
-ET0301,2,ዞን,Zone,North Gondar,North Gondar,north-gondar,ET0301,,ET03,Amhara,Amhara,,,8,,13.236,37.777
-ET0302,2,ዞን,Zone,South Gondar,South Gondar,south-gondar,ET0302,,ET03,Amhara,Amhara,,,21,,11.757,38.095
-ET0303,2,ዞን,Zone,North Wello,North Wello,north-wello,ET0303,,ET03,Amhara,Amhara,,,18,,11.829,38.837
-ET0304,2,ዞን,Zone,South Wello,South Wello,south-wello,ET0304,,ET03,Amhara,Amhara,,,32,,10.997,39.208
-ET0305,2,ዞን,Zone,North Shewa (AM),North Shewa (AM),north-shewa-am,ET0305,,ET03,Amhara,Amhara,,,32,,9.803,39.487
-ET0306,2,ዞን,Zone,East Gojam,East Gojam,east-gojam,ET0306,,ET03,Amhara,Amhara,,,26,,10.506,37.931
-ET0307,2,ዞን,Zone,West Gojam,West Gojam,west-gojam,ET0307,,ET03,Amhara,Amhara,,,12,,10.692,37.212
-ET0308,2,ዞን,Zone,Wag Hamra,Wag Hamra,wag-hamra,ET0308,,ET03,Amhara,Amhara,,,9,,12.721,38.817
-ET0309,2,ዞን,Zone,Awi,Awi,awi,ET0309,,ET03,Amhara,Amhara,,,16,,11.016,36.834
-ET0310,2,ዞን,Zone,Oromo Nationality Administration,Oromo Nationality Administration,oromo-nationality-administration,ET0310,,ET03,Amhara,Amhara,,,9,,10.741,40.011
-ET0311,2,ዞን,Zone,Central Gondar,Central Gondar,central-gondar,ET0311,,ET03,Amhara,Amhara,,,20,,12.594,37.329
-ET0312,2,ዞን,Zone,West Gondar,West Gondar,west-gondar,ET0312,,ET03,Amhara,Amhara,,,7,,12.44,36.158
-ET0313,2,ዞን,Zone,North Gojam,North Gojam,north-gojam,ET0313,,ET03,Amhara,Amhara,,,10,,11.531,36.876
-ET0314,2,ዞን,Zone,Bahir Dar town Admin,Bahir Dar town Admin,bahir-dar-town-admin,ET0314,,ET03,Amhara,Amhara,,,5,,11.963,37.289
-ET04,1,ክልል,Region,Oromia,Oromia,oromia,ET04,,,,,,22,349,,7.525,40.766
-ET0401,2,ዞን,Zone,West Wellega,West Wellega,west-wellega,ET0401,,ET04,Oromia,Oromia,,,23,,9.525,35.197
-ET0402,2,ዞን,Zone,East Wellega,East Wellega,east-wellega,ET0402,,ET04,Oromia,Oromia,,,18,,9.405,36.617
-ET0403,2,ዞን,Zone,Ilu Aba Bora,Ilu Aba Bora,ilu-aba-bora,ET0403,,ET04,Oromia,Oromia,,,14,,8.264,35.481
-ET0404,2,ዞን,Zone,Jimma,Jimma,jimma,ET0404,,ET04,Oromia,Oromia,,,22,,7.673,36.736
-ET0405,2,ዞን,Zone,West Shewa,West Shewa,west-shewa,ET0405,,ET04,Oromia,Oromia,,,25,,9.171,37.842
-ET0406,2,ዞን,Zone,North Shewa (OR),North Shewa (OR),north-shewa-or,ET0406,,ET04,Oromia,Oromia,,,21,,9.692,38.717
-ET0407,2,ዞን,Zone,East Shewa,East Shewa,east-shewa,ET0407,,ET04,Oromia,Oromia,,,16,,8.502,39.157
-ET0408,2,ዞን,Zone,Arsi,Arsi,arsi,ET0408,,ET04,Oromia,Oromia,,,28,,7.937,39.682
-ET0409,2,ዞን,Zone,West Hararge,West Hararge,west-hararge,ET0409,,ET04,Oromia,Oromia,,,17,,8.67,40.773
-ET0410,2,ዞን,Zone,East Hararge,East Hararge,east-hararge,ET0410,,ET04,Oromia,Oromia,,,24,,8.844,42.003
-ET0411,2,ዞን,Zone,Bale,Bale,bale,ET0411,,ET04,Oromia,Oromia,,,12,,6.609,40.149
-ET0412,2,ዞን,Zone,Borena,Borena,borena,ET0412,,ET04,Oromia,Oromia,,,11,,4.428,37.982
-ET0413,2,ዞን,Zone,South West Shewa,South West Shewa,south-west-shewa,ET0413,,ET04,Oromia,Oromia,,,13,,8.593,38.172
-ET0414,2,ዞን,Zone,Guji,Guji,guji,ET0414,,ET04,Oromia,Oromia,,,14,,5.833,38.934
-ET0415,2,ዞን,Zone,West Guji,West Guji,west-guji,ET0415,,ET04,Oromia,Oromia,,,11,,5.575,38.317
-ET0416,2,ዞን,Zone,Buno Bedele,Buno Bedele,buno-bedele,ET0416,,ET04,Oromia,Oromia,,,10,,8.486,36.327
-ET0417,2,ዞን,Zone,West Arsi,West Arsi,west-arsi,ET0417,,ET04,Oromia,Oromia,,,17,,7.059,38.98
-ET0418,2,ዞን,Zone,Kelem Wellega,Kelem Wellega,kelem-wellega,ET0418,,ET04,Oromia,Oromia,,,12,,8.813,34.783
-ET0419,2,ዞን,Zone,Horo Gudru Wellega,Horo Gudru Wellega,horo-gudru-wellega,ET0419,,ET04,Oromia,Oromia,,,13,,9.71,37.197
-ET0420,2,ዞን,Zone,Shager City,Shager City,shager-city,ET0420,,ET04,Oromia,Oromia,,,12,,8.822,38.759
-ET0421,2,ዞን,Zone,East Bale,East Bale,east-bale,ET0421,,ET04,Oromia,Oromia,,,7,,7.237,41.257
-ET0422,2,ዞን,Zone,East Borena,East Borena,east-borena,ET0422,,ET04,Oromia,Oromia,,,9,,4.546,39.023
-ET05,1,ክልል,Region,Somali,Somali,somali,ET05,,,,,,11,100,,6.929,43.329
-ET0501,2,ዞን,Zone,Siti,Siti,siti,ET0501,,ET05,Somali,Somali,,,11,,10.25,41.834
-ET0502,2,ዞን,Zone,Fafan,Fafan,fafan,ET0502,,ET05,Somali,Somali,,,14,,9.152,43.237
-ET0503,2,ዞን,Zone,Jarar,Jarar,jarar,ET0503,,ET05,Somali,Somali,,,12,,8.131,44.315
-ET0504,2,ዞን,Zone,Erer,Erer,erer,ET0504,,ET05,Somali,Somali,,,8,,7.875,42.286
-ET0505,2,ዞን,Zone,Korahe,Korahe,korahe,ET0505,,ET05,Somali,Somali,,,11,,6.447,44.645
-ET0506,2,ዞን,Zone,Shabelle,Shabelle,shabelle,ET0506,,ET05,Somali,Somali,,,11,,5.801,43.667
-ET0507,2,ዞን,Zone,Doolo,Doolo,doolo,ET0507,,ET05,Somali,Somali,,,7,,7.237,46.114
-ET0508,2,ዞን,Zone,Afder,Afder,afder,ET0508,,ET05,Somali,Somali,,,9,,5.322,42.298
-ET0509,2,ዞን,Zone,Liban,Liban,liban,ET0509,,ET05,Somali,Somali,,,6,,4.916,40.914
-ET0510,2,ዞን,Zone,Nogob,Nogob,nogob,ET0510,,ET05,Somali,Somali,,,7,,7.133,42.985
-ET0511,2,ዞን,Zone,Daawa,Daawa,daawa,ET0511,,ET05,Somali,Somali,,,4,,4.214,39.979
-ET06,1,ክልል,Region,Benishangul-Gumuz,Benishangul-Gumuz,benishangul-gumuz,ET06,,,,,,4,26,,10.504,35.44
-ET0602,2,ዞን,Zone,Metekel,Metekel,metekel,ET0602,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,8,,11.002,35.769
-ET0603,2,ዞን,Zone,Assosa,Assosa,assosa,ET0603,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,11,,10.225,34.712
-ET0604,2,ዞን,Zone,Kamashi,Kamashi,kamashi,ET0604,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,6,,9.664,35.813
-ET0605,2,ዞን,Zone,Mao-komo Special,Mao-komo Special,mao-komo-special,ET0605,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,1,,9.356,34.286
-ET07,1,ክልል,Region,Central Ethiopia,Central Ethiopia,central-ethiopia,ET07,,,,,,10,69,,7.798,37.973
-ET0700,2,ዞን,Zone,Kebena Special,Kebena Special,kebena-special,ET0700,,ET07,Central Ethiopia,Central Ethiopia,,,1,,8.322,37.909
-ET0701,2,ዞን,Zone,Guraghe,Guraghe,guraghe,ET0701,,ET07,Central Ethiopia,Central Ethiopia,,,12,,8.132,37.902
-ET0702,2,ዞን,Zone,Hadiya,Hadiya,hadiya,ET0702,,ET07,Central Ethiopia,Central Ethiopia,,,17,,7.564,37.731
-ET0703,2,ዞን,Zone,Kembata,Kembata,kembata,ET0703,,ET07,Central Ethiopia,Central Ethiopia,,,10,,7.294,37.83
-ET0704,2,ዞን,Zone,East Guraghe,East Guraghe,east-guraghe,ET0704,,ET07,Central Ethiopia,Central Ethiopia,,,6,,8.167,38.368
-ET0714,2,ዞን,Zone,Halaba,Halaba,halaba,ET0714,,ET07,Central Ethiopia,Central Ethiopia,,,4,,7.367,38.198
-ET0720,2,ዞን,Zone,Siltie,Siltie,siltie,ET0720,,ET07,Central Ethiopia,Central Ethiopia,,,13,,7.808,38.226
-ET0724,2,ዞን,Zone,Yem,Yem,yem,ET0724,,ET07,Central Ethiopia,Central Ethiopia,,,4,,7.813,37.488
-ET0725,2,ዞን,Zone,Mareko Special,Mareko Special,mareko-special,ET0725,,ET07,Central Ethiopia,Central Ethiopia,,,1,,7.995,38.532
-ET0726,2,ዞን,Zone,Tembaro Special,Tembaro Special,tembaro-special,ET0726,,ET07,Central Ethiopia,Central Ethiopia,,,1,,7.269,37.487
-ET08,1,ክልል,Region,South Ethiopia,South Ethiopia,south-ethiopia,ET08,,,,,,12,93,,5.778,36.89
-ET0801,2,ዞን,Zone,Wolayita,Wolayita,wolayita,ET0801,,ET08,South Ethiopia,South Ethiopia,,,23,,6.863,37.724
-ET0802,2,ዞን,Zone,Gamo,Gamo,gamo,ET0802,,ET08,South Ethiopia,South Ethiopia,,,20,,6.189,37.429
-ET0803,2,ዞን,Zone,Gofa,Gofa,gofa,ET0803,,ET08,South Ethiopia,South Ethiopia,,,11,,6.368,36.858
-ET0804,2,ዞን,Zone,Basketo,Basketo,basketo,ET0804,,ET08,South Ethiopia,South Ethiopia,,,2,,6.282,36.56
-ET0805,2,ዞን,Zone,Ari,Ari,ari,ET0805,,ET08,South Ethiopia,South Ethiopia,,,6,,5.932,36.527
-ET0806,2,ዞን,Zone,Alle Special,Alle Special,alle-special,ET0806,,ET08,South Ethiopia,South Ethiopia,,,1,,5.568,37.162
-ET0807,2,ዞን,Zone,Derashe,Derashe,derashe,ET0807,,ET08,South Ethiopia,South Ethiopia,,,2,,5.653,37.377
-ET0808,2,ዞን,Zone,Kore,Kore,kore,ET0808,,ET08,South Ethiopia,South Ethiopia,,,2,,5.788,37.815
-ET0809,2,ዞን,Zone,Konso,Konso,konso,ET0809,,ET08,South Ethiopia,South Ethiopia,,,5,,5.355,37.369
-ET0810,2,ዞን,Zone,Burji,Burji,burji,ET0810,,ET08,South Ethiopia,South Ethiopia,,,1,,5.482,37.777
-ET0811,2,ዞን,Zone,Gedeo,Gedeo,gedeo,ET0811,,ET08,South Ethiopia,South Ethiopia,,,13,,6.144,38.272
-ET0812,2,ዞን,Zone,South Omo,South Omo,south-omo,ET0812,,ET08,South Ethiopia,South Ethiopia,,,7,,5.049,36.413
-ET11,1,ክልል,Region,South West Ethiopia,South West Ethiopia,south-west-ethiopia,ET11,,,,,,6,59,,6.977,36.192
-ET1101,2,ዞን,Zone,Sheka,Sheka,sheka,ET1101,,ET11,South West Ethiopia,South West Ethiopia,,,5,,7.538,35.413
-ET1102,2,ዞን,Zone,Kefa,Kefa,kefa,ET1102,,ET11,South West Ethiopia,South West Ethiopia,,,17,,7.228,36.078
-ET1103,2,ዞን,Zone,Bench Sheko,Bench Sheko,bench-sheko,ET1103,,ET11,South West Ethiopia,South West Ethiopia,,,10,,6.928,35.363
-ET1104,2,ዞን,Zone,Dawuro,Dawuro,dawuro,ET1104,,ET11,South West Ethiopia,South West Ethiopia,,,12,,6.971,37.1
-ET1105,2,ዞን,Zone,West Omo,West Omo,west-omo,ET1105,,ET11,South West Ethiopia,South West Ethiopia,,,10,,6.146,35.554
-ET1106,2,ዞን,Zone,Konta,Konta,konta,ET1106,,ET11,South West Ethiopia,South West Ethiopia,,,5,,6.871,36.609
-ET12,1,ክልል,Region,Gambela,Gambela,gambela,ET12,,,,,,4,15,,7.684,34.337
-ET1201,2,ዞን,Zone,Nuwer,Nuwer,nuwer,ET1201,,ET12,Gambela,Gambela,,,5,,8.112,33.263
-ET1202,2,ዞን,Zone,Agnewak,Agnewak,agnewak,ET1202,,ET12,Gambela,Gambela,,,7,,7.548,34.455
-ET1203,2,ዞን,Zone,Majang,Majang,majang,ET1203,,ET12,Gambela,Gambela,,,2,,7.29,35.128
-ET1204,2,ዞን,Zone,Itang Special,Itang Special,itang-special,ET1204,,ET12,Gambela,Gambela,,,1,,8.346,34.22
-ET13,1,ክልል,Region,Harari,Harari,harari,ET13,,,,,,1,9,,9.29,42.173
-ET1301,2,ዞን,Zone,Harari,Harari,harari,ET1301,,ET13,Harari,Harari,,,9,,9.29,42.173
-ET14,1,ክልል,Region,Addis Ababa,Addis Ababa,addis-ababa,ET14,,,,,,1,11,,8.98,38.786
-ET1401,2,ዞን,Zone,Region 14,Region 14,region-14,ET1401,,ET14,Addis Ababa,Addis Ababa,,,11,,8.98,38.786
-ET15,1,ክልል,Region,Dire Dawa,Dire Dawa,dire-dawa,ET15,,,,,,2,13,,9.582,41.881
-ET1501,2,ዞን,Zone,Dire Dawa urban,Dire Dawa urban,dire-dawa-urban,ET1501,,ET15,Dire Dawa,Dire Dawa,,,9,,9.624,41.836
-ET1502,2,ዞን,Zone,Dire Dawa rural,Dire Dawa rural,dire-dawa-rural,ET1502,,ET15,Dire Dawa,Dire Dawa,,,4,,9.562,42.034
-ET16,1,ክልል,Region,Sidama,Sidama,sidama,ET16,,,,,,5,37,,6.664,38.546
-ET1601,2,ዞን,Zone,Hawassa town Admin,Hawassa town Admin,hawassa-town-admin,ET1601,,ET16,Sidama,Sidama,,,1,,7.017,38.491
-ET1602,2,ዞን,Zone,Northern,Northern,northern,ET1602,,ET16,Sidama,Sidama,,,10,,6.979,38.26
-ET1603,2,ዞን,Zone,Central,Central,central,ET1603,,ET16,Sidama,Sidama,,,7,,6.747,38.423
-ET1604,2,ዞን,Zone,Southern,Southern,southern,ET1604,,ET16,Sidama,Sidama,,,10,,6.543,38.453
-ET1605,2,ዞን,Zone,Eastern,Eastern,eastern,ET1605,,ET16,Sidama,Sidama,,,9,,6.428,38.923
-ET99,1,ክልል,Region,Contested,Contested,contested,ET99,,,,,,3,18,,13.797,37.274
-ET9901,2,ዞን,Zone,Area 1,Area 1,area-1,ET9901,,ET99,Contested,Contested,,,9,,13.829,37.098
-ET9902,2,ዞን,Zone,Area 2,Area 2,area-2,ET9902,,ET99,Contested,Contested,,,3,,13.637,38.145
-ET9903,2,ዞን,Zone,Area 3,Area 3,area-3,ET9903,,ET99,Contested,Contested,,,6,,12.488,39.527
+# Data from Open Admin Data (https://openadmindata.org/et/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/ethiopia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.zone,children_count.woreda,zip_codes,geo.lat,geo.lon,source_url
+ET01,1,ክልል,Region,Tigray,Tigray,tigray,ET01,,,,,,6,75,,13.867,38.904,https://openadmindata.org/et/regions/tigray/
+ET0101,2,ዞን,Zone,North Western,North Western,north-western,ET0101,,ET01,Tigray,Tigray,,,12,,14.235,38.016,
+ET0102,2,ዞን,Zone,Central,Central,central,ET0102,,ET01,Tigray,Tigray,,,22,,13.97,38.892,
+ET0103,2,ዞን,Zone,Eastern,Eastern,eastern,ET0103,,ET01,Tigray,Tigray,,,18,,14.077,39.561,
+ET0104,2,ዞን,Zone,Southern,Southern,southern,ET0104,,ET01,Tigray,Tigray,,,8,,12.828,39.556,
+ET0106,2,ዞን,Zone,South Eastern,South Eastern,south-eastern,ET0106,,ET01,Tigray,Tigray,,,8,,13.221,39.426,
+ET0107,2,ዞን,Zone,Mekelle,Mekelle,mekelle,ET0107,,ET01,Tigray,Tigray,,,7,,13.476,39.505,
+ET02,1,ክልል,Region,Afar,Afar,afar,ET02,,,,,,6,49,,12.036,40.773,https://openadmindata.org/et/regions/afar/
+ET0201,2,ዞን,Zone,Awsi /Zone 1,Awsi /Zone 1,awsi-zone-1,ET0201,,ET02,Afar,Afar,,,13,,12.037,41.163,
+ET0202,2,ዞን,Zone,Kilbati /Zone 2,Kilbati /Zone 2,kilbati-zone-2,ET0202,,ET02,Afar,Afar,,,10,,13.451,40.649,
+ET0203,2,ዞን,Zone,Gabi /Zone 3,Gabi /Zone 3,gabi-zone-3,ET0203,,ET02,Afar,Afar,,,11,,9.913,40.702,
+ET0204,2,ዞን,Zone,Fanti /Zone 4,Fanti /Zone 4,fanti-zone-4,ET0204,,ET02,Afar,Afar,,,6,,12.327,40.318,
+ET0205,2,ዞን,Zone,Hari /Zone 5,Hari /Zone 5,hari-zone-5,ET0205,,ET02,Afar,Afar,,,5,,10.413,40.268,
+ET0206,2,ዞን,Zone,Mahi /Zone 6,Mahi /Zone 6,mahi-zone-6,ET0206,,ET02,Afar,Afar,,,4,,10.88,40.946,
+ET03,1,ክልል,Region,Amhara,Amhara,amhara,ET03,,,,,,14,225,,11.565,38.044,https://openadmindata.org/et/regions/amhara/
+ET0301,2,ዞን,Zone,North Gondar,North Gondar,north-gondar,ET0301,,ET03,Amhara,Amhara,,,8,,13.236,37.777,
+ET0302,2,ዞን,Zone,South Gondar,South Gondar,south-gondar,ET0302,,ET03,Amhara,Amhara,,,21,,11.757,38.095,
+ET0303,2,ዞን,Zone,North Wello,North Wello,north-wello,ET0303,,ET03,Amhara,Amhara,,,18,,11.829,38.837,
+ET0304,2,ዞን,Zone,South Wello,South Wello,south-wello,ET0304,,ET03,Amhara,Amhara,,,32,,10.997,39.208,
+ET0305,2,ዞን,Zone,North Shewa (AM),North Shewa (AM),north-shewa-am,ET0305,,ET03,Amhara,Amhara,,,32,,9.803,39.487,
+ET0306,2,ዞን,Zone,East Gojam,East Gojam,east-gojam,ET0306,,ET03,Amhara,Amhara,,,26,,10.506,37.931,
+ET0307,2,ዞን,Zone,West Gojam,West Gojam,west-gojam,ET0307,,ET03,Amhara,Amhara,,,12,,10.692,37.212,
+ET0308,2,ዞን,Zone,Wag Hamra,Wag Hamra,wag-hamra,ET0308,,ET03,Amhara,Amhara,,,9,,12.721,38.817,
+ET0309,2,ዞን,Zone,Awi,Awi,awi,ET0309,,ET03,Amhara,Amhara,,,16,,11.016,36.834,
+ET0310,2,ዞን,Zone,Oromo Nationality Administration,Oromo Nationality Administration,oromo-nationality-administration,ET0310,,ET03,Amhara,Amhara,,,9,,10.741,40.011,
+ET0311,2,ዞን,Zone,Central Gondar,Central Gondar,central-gondar,ET0311,,ET03,Amhara,Amhara,,,20,,12.594,37.329,
+ET0312,2,ዞን,Zone,West Gondar,West Gondar,west-gondar,ET0312,,ET03,Amhara,Amhara,,,7,,12.44,36.158,
+ET0313,2,ዞን,Zone,North Gojam,North Gojam,north-gojam,ET0313,,ET03,Amhara,Amhara,,,10,,11.531,36.876,
+ET0314,2,ዞን,Zone,Bahir Dar town Admin,Bahir Dar town Admin,bahir-dar-town-admin,ET0314,,ET03,Amhara,Amhara,,,5,,11.963,37.289,
+ET04,1,ክልል,Region,Oromia,Oromia,oromia,ET04,,,,,,22,349,,7.525,40.766,https://openadmindata.org/et/regions/oromia/
+ET0401,2,ዞን,Zone,West Wellega,West Wellega,west-wellega,ET0401,,ET04,Oromia,Oromia,,,23,,9.525,35.197,
+ET0402,2,ዞን,Zone,East Wellega,East Wellega,east-wellega,ET0402,,ET04,Oromia,Oromia,,,18,,9.405,36.617,
+ET0403,2,ዞን,Zone,Ilu Aba Bora,Ilu Aba Bora,ilu-aba-bora,ET0403,,ET04,Oromia,Oromia,,,14,,8.264,35.481,
+ET0404,2,ዞን,Zone,Jimma,Jimma,jimma,ET0404,,ET04,Oromia,Oromia,,,22,,7.673,36.736,
+ET0405,2,ዞን,Zone,West Shewa,West Shewa,west-shewa,ET0405,,ET04,Oromia,Oromia,,,25,,9.171,37.842,
+ET0406,2,ዞን,Zone,North Shewa (OR),North Shewa (OR),north-shewa-or,ET0406,,ET04,Oromia,Oromia,,,21,,9.692,38.717,
+ET0407,2,ዞን,Zone,East Shewa,East Shewa,east-shewa,ET0407,,ET04,Oromia,Oromia,,,16,,8.502,39.157,
+ET0408,2,ዞን,Zone,Arsi,Arsi,arsi,ET0408,,ET04,Oromia,Oromia,,,28,,7.937,39.682,
+ET0409,2,ዞን,Zone,West Hararge,West Hararge,west-hararge,ET0409,,ET04,Oromia,Oromia,,,17,,8.67,40.773,
+ET0410,2,ዞን,Zone,East Hararge,East Hararge,east-hararge,ET0410,,ET04,Oromia,Oromia,,,24,,8.844,42.003,
+ET0411,2,ዞን,Zone,Bale,Bale,bale,ET0411,,ET04,Oromia,Oromia,,,12,,6.609,40.149,
+ET0412,2,ዞን,Zone,Borena,Borena,borena,ET0412,,ET04,Oromia,Oromia,,,11,,4.428,37.982,
+ET0413,2,ዞን,Zone,South West Shewa,South West Shewa,south-west-shewa,ET0413,,ET04,Oromia,Oromia,,,13,,8.593,38.172,
+ET0414,2,ዞን,Zone,Guji,Guji,guji,ET0414,,ET04,Oromia,Oromia,,,14,,5.833,38.934,
+ET0415,2,ዞን,Zone,West Guji,West Guji,west-guji,ET0415,,ET04,Oromia,Oromia,,,11,,5.575,38.317,
+ET0416,2,ዞን,Zone,Buno Bedele,Buno Bedele,buno-bedele,ET0416,,ET04,Oromia,Oromia,,,10,,8.486,36.327,
+ET0417,2,ዞን,Zone,West Arsi,West Arsi,west-arsi,ET0417,,ET04,Oromia,Oromia,,,17,,7.059,38.98,
+ET0418,2,ዞን,Zone,Kelem Wellega,Kelem Wellega,kelem-wellega,ET0418,,ET04,Oromia,Oromia,,,12,,8.813,34.783,
+ET0419,2,ዞን,Zone,Horo Gudru Wellega,Horo Gudru Wellega,horo-gudru-wellega,ET0419,,ET04,Oromia,Oromia,,,13,,9.71,37.197,
+ET0420,2,ዞን,Zone,Shager City,Shager City,shager-city,ET0420,,ET04,Oromia,Oromia,,,12,,8.822,38.759,
+ET0421,2,ዞን,Zone,East Bale,East Bale,east-bale,ET0421,,ET04,Oromia,Oromia,,,7,,7.237,41.257,
+ET0422,2,ዞን,Zone,East Borena,East Borena,east-borena,ET0422,,ET04,Oromia,Oromia,,,9,,4.546,39.023,
+ET05,1,ክልል,Region,Somali,Somali,somali,ET05,,,,,,11,100,,6.929,43.329,https://openadmindata.org/et/regions/somali/
+ET0501,2,ዞን,Zone,Siti,Siti,siti,ET0501,,ET05,Somali,Somali,,,11,,10.25,41.834,
+ET0502,2,ዞን,Zone,Fafan,Fafan,fafan,ET0502,,ET05,Somali,Somali,,,14,,9.152,43.237,
+ET0503,2,ዞን,Zone,Jarar,Jarar,jarar,ET0503,,ET05,Somali,Somali,,,12,,8.131,44.315,
+ET0504,2,ዞን,Zone,Erer,Erer,erer,ET0504,,ET05,Somali,Somali,,,8,,7.875,42.286,
+ET0505,2,ዞን,Zone,Korahe,Korahe,korahe,ET0505,,ET05,Somali,Somali,,,11,,6.447,44.645,
+ET0506,2,ዞን,Zone,Shabelle,Shabelle,shabelle,ET0506,,ET05,Somali,Somali,,,11,,5.801,43.667,
+ET0507,2,ዞን,Zone,Doolo,Doolo,doolo,ET0507,,ET05,Somali,Somali,,,7,,7.237,46.114,
+ET0508,2,ዞን,Zone,Afder,Afder,afder,ET0508,,ET05,Somali,Somali,,,9,,5.322,42.298,
+ET0509,2,ዞን,Zone,Liban,Liban,liban,ET0509,,ET05,Somali,Somali,,,6,,4.916,40.914,
+ET0510,2,ዞን,Zone,Nogob,Nogob,nogob,ET0510,,ET05,Somali,Somali,,,7,,7.133,42.985,
+ET0511,2,ዞን,Zone,Daawa,Daawa,daawa,ET0511,,ET05,Somali,Somali,,,4,,4.214,39.979,
+ET06,1,ክልል,Region,Benishangul-Gumuz,Benishangul-Gumuz,benishangul-gumuz,ET06,,,,,,4,26,,10.504,35.44,https://openadmindata.org/et/regions/benishangul-gumuz/
+ET0602,2,ዞን,Zone,Metekel,Metekel,metekel,ET0602,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,8,,11.002,35.769,
+ET0603,2,ዞን,Zone,Assosa,Assosa,assosa,ET0603,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,11,,10.225,34.712,
+ET0604,2,ዞን,Zone,Kamashi,Kamashi,kamashi,ET0604,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,6,,9.664,35.813,
+ET0605,2,ዞን,Zone,Mao-komo Special,Mao-komo Special,mao-komo-special,ET0605,,ET06,Benishangul-Gumuz,Benishangul-Gumuz,,,1,,9.356,34.286,
+ET07,1,ክልል,Region,Central Ethiopia,Central Ethiopia,central-ethiopia,ET07,,,,,,10,69,,7.798,37.973,https://openadmindata.org/et/regions/central-ethiopia/
+ET0700,2,ዞን,Zone,Kebena Special,Kebena Special,kebena-special,ET0700,,ET07,Central Ethiopia,Central Ethiopia,,,1,,8.322,37.909,
+ET0701,2,ዞን,Zone,Guraghe,Guraghe,guraghe,ET0701,,ET07,Central Ethiopia,Central Ethiopia,,,12,,8.132,37.902,
+ET0702,2,ዞን,Zone,Hadiya,Hadiya,hadiya,ET0702,,ET07,Central Ethiopia,Central Ethiopia,,,17,,7.564,37.731,
+ET0703,2,ዞን,Zone,Kembata,Kembata,kembata,ET0703,,ET07,Central Ethiopia,Central Ethiopia,,,10,,7.294,37.83,
+ET0704,2,ዞን,Zone,East Guraghe,East Guraghe,east-guraghe,ET0704,,ET07,Central Ethiopia,Central Ethiopia,,,6,,8.167,38.368,
+ET0714,2,ዞን,Zone,Halaba,Halaba,halaba,ET0714,,ET07,Central Ethiopia,Central Ethiopia,,,4,,7.367,38.198,
+ET0720,2,ዞን,Zone,Siltie,Siltie,siltie,ET0720,,ET07,Central Ethiopia,Central Ethiopia,,,13,,7.808,38.226,
+ET0724,2,ዞን,Zone,Yem,Yem,yem,ET0724,,ET07,Central Ethiopia,Central Ethiopia,,,4,,7.813,37.488,
+ET0725,2,ዞን,Zone,Mareko Special,Mareko Special,mareko-special,ET0725,,ET07,Central Ethiopia,Central Ethiopia,,,1,,7.995,38.532,
+ET0726,2,ዞን,Zone,Tembaro Special,Tembaro Special,tembaro-special,ET0726,,ET07,Central Ethiopia,Central Ethiopia,,,1,,7.269,37.487,
+ET08,1,ክልል,Region,South Ethiopia,South Ethiopia,south-ethiopia,ET08,,,,,,12,93,,5.778,36.89,https://openadmindata.org/et/regions/south-ethiopia/
+ET0801,2,ዞን,Zone,Wolayita,Wolayita,wolayita,ET0801,,ET08,South Ethiopia,South Ethiopia,,,23,,6.863,37.724,
+ET0802,2,ዞን,Zone,Gamo,Gamo,gamo,ET0802,,ET08,South Ethiopia,South Ethiopia,,,20,,6.189,37.429,
+ET0803,2,ዞን,Zone,Gofa,Gofa,gofa,ET0803,,ET08,South Ethiopia,South Ethiopia,,,11,,6.368,36.858,
+ET0804,2,ዞን,Zone,Basketo,Basketo,basketo,ET0804,,ET08,South Ethiopia,South Ethiopia,,,2,,6.282,36.56,
+ET0805,2,ዞን,Zone,Ari,Ari,ari,ET0805,,ET08,South Ethiopia,South Ethiopia,,,6,,5.932,36.527,
+ET0806,2,ዞን,Zone,Alle Special,Alle Special,alle-special,ET0806,,ET08,South Ethiopia,South Ethiopia,,,1,,5.568,37.162,
+ET0807,2,ዞን,Zone,Derashe,Derashe,derashe,ET0807,,ET08,South Ethiopia,South Ethiopia,,,2,,5.653,37.377,
+ET0808,2,ዞን,Zone,Kore,Kore,kore,ET0808,,ET08,South Ethiopia,South Ethiopia,,,2,,5.788,37.815,
+ET0809,2,ዞን,Zone,Konso,Konso,konso,ET0809,,ET08,South Ethiopia,South Ethiopia,,,5,,5.355,37.369,
+ET0810,2,ዞን,Zone,Burji,Burji,burji,ET0810,,ET08,South Ethiopia,South Ethiopia,,,1,,5.482,37.777,
+ET0811,2,ዞን,Zone,Gedeo,Gedeo,gedeo,ET0811,,ET08,South Ethiopia,South Ethiopia,,,13,,6.144,38.272,
+ET0812,2,ዞን,Zone,South Omo,South Omo,south-omo,ET0812,,ET08,South Ethiopia,South Ethiopia,,,7,,5.049,36.413,
+ET11,1,ክልል,Region,South West Ethiopia,South West Ethiopia,south-west-ethiopia,ET11,,,,,,6,59,,6.977,36.192,https://openadmindata.org/et/regions/south-west-ethiopia/
+ET1101,2,ዞን,Zone,Sheka,Sheka,sheka,ET1101,,ET11,South West Ethiopia,South West Ethiopia,,,5,,7.538,35.413,
+ET1102,2,ዞን,Zone,Kefa,Kefa,kefa,ET1102,,ET11,South West Ethiopia,South West Ethiopia,,,17,,7.228,36.078,
+ET1103,2,ዞን,Zone,Bench Sheko,Bench Sheko,bench-sheko,ET1103,,ET11,South West Ethiopia,South West Ethiopia,,,10,,6.928,35.363,
+ET1104,2,ዞን,Zone,Dawuro,Dawuro,dawuro,ET1104,,ET11,South West Ethiopia,South West Ethiopia,,,12,,6.971,37.1,
+ET1105,2,ዞን,Zone,West Omo,West Omo,west-omo,ET1105,,ET11,South West Ethiopia,South West Ethiopia,,,10,,6.146,35.554,
+ET1106,2,ዞን,Zone,Konta,Konta,konta,ET1106,,ET11,South West Ethiopia,South West Ethiopia,,,5,,6.871,36.609,
+ET12,1,ክልል,Region,Gambela,Gambela,gambela,ET12,,,,,,4,15,,7.684,34.337,https://openadmindata.org/et/regions/gambela/
+ET1201,2,ዞን,Zone,Nuwer,Nuwer,nuwer,ET1201,,ET12,Gambela,Gambela,,,5,,8.112,33.263,
+ET1202,2,ዞን,Zone,Agnewak,Agnewak,agnewak,ET1202,,ET12,Gambela,Gambela,,,7,,7.548,34.455,
+ET1203,2,ዞን,Zone,Majang,Majang,majang,ET1203,,ET12,Gambela,Gambela,,,2,,7.29,35.128,
+ET1204,2,ዞን,Zone,Itang Special,Itang Special,itang-special,ET1204,,ET12,Gambela,Gambela,,,1,,8.346,34.22,
+ET13,1,ክልል,Region,Harari,Harari,harari,ET13,,,,,,1,9,,9.29,42.173,https://openadmindata.org/et/regions/harari/
+ET1301,2,ዞን,Zone,Harari,Harari,harari,ET1301,,ET13,Harari,Harari,,,9,,9.29,42.173,
+ET14,1,ክልል,Region,Addis Ababa,Addis Ababa,addis-ababa,ET14,,,,,,1,11,,8.98,38.786,https://openadmindata.org/et/regions/addis-ababa/
+ET1401,2,ዞን,Zone,Region 14,Region 14,region-14,ET1401,,ET14,Addis Ababa,Addis Ababa,,,11,,8.98,38.786,
+ET15,1,ክልል,Region,Dire Dawa,Dire Dawa,dire-dawa,ET15,,,,,,2,13,,9.582,41.881,https://openadmindata.org/et/regions/dire-dawa/
+ET1501,2,ዞን,Zone,Dire Dawa urban,Dire Dawa urban,dire-dawa-urban,ET1501,,ET15,Dire Dawa,Dire Dawa,,,9,,9.624,41.836,
+ET1502,2,ዞን,Zone,Dire Dawa rural,Dire Dawa rural,dire-dawa-rural,ET1502,,ET15,Dire Dawa,Dire Dawa,,,4,,9.562,42.034,
+ET16,1,ክልል,Region,Sidama,Sidama,sidama,ET16,,,,,,5,37,,6.664,38.546,https://openadmindata.org/et/regions/sidama/
+ET1601,2,ዞን,Zone,Hawassa town Admin,Hawassa town Admin,hawassa-town-admin,ET1601,,ET16,Sidama,Sidama,,,1,,7.017,38.491,
+ET1602,2,ዞን,Zone,Northern,Northern,northern,ET1602,,ET16,Sidama,Sidama,,,10,,6.979,38.26,
+ET1603,2,ዞን,Zone,Central,Central,central,ET1603,,ET16,Sidama,Sidama,,,7,,6.747,38.423,
+ET1604,2,ዞን,Zone,Southern,Southern,southern,ET1604,,ET16,Sidama,Sidama,,,10,,6.543,38.453,
+ET1605,2,ዞን,Zone,Eastern,Eastern,eastern,ET1605,,ET16,Sidama,Sidama,,,9,,6.428,38.923,
+ET99,1,ክልል,Region,Contested,Contested,contested,ET99,,,,,,3,18,,13.797,37.274,https://openadmindata.org/et/regions/contested/
+ET9901,2,ዞን,Zone,Area 1,Area 1,area-1,ET9901,,ET99,Contested,Contested,,,9,,13.829,37.098,
+ET9902,2,ዞን,Zone,Area 2,Area 2,area-2,ET9902,,ET99,Contested,Contested,,,3,,13.637,38.145,
+ET9903,2,ዞን,Zone,Area 3,Area 3,area-3,ET9903,,ET99,Contested,Contested,,,6,,12.488,39.527,

@@ -3,7 +3,7 @@
 > 22 zones, 349 woredas
 > Code: ET04
 > Coordinates: 7.525, 40.766
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

@@ -26,5 +26,9 @@
     "lon": "37.973"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/central-ethiopia/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "38.546"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/sidama/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "38.786"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/addis-ababa/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

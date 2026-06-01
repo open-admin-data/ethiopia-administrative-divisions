@@ -26,5 +26,9 @@
     "lon": "41.881"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/dire-dawa/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

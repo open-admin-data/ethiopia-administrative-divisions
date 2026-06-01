@@ -3,7 +3,7 @@
 > 6 zones, 75 woredas
 > Code: ET01
 > Coordinates: 13.867, 38.904
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

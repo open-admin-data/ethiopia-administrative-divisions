@@ -26,5 +26,9 @@
     "lon": "35.44"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/benishangul-gumuz/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

@@ -10,7 +10,7 @@
 - Total zones: 107
 - Total woredas: 1,148
 - Coordinates: included (all levels)
-- Last updated: 2026-05-29
+- Last updated: 2026-06-01
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

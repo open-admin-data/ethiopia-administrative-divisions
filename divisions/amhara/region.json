@@ -26,5 +26,9 @@
     "lon": "38.044"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/amhara/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

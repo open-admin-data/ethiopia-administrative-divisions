@@ -3,7 +3,7 @@
 > 14 zones, 225 woredas
 > Code: ET03
 > Coordinates: 11.565, 38.044
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

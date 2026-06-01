@@ -26,5 +26,9 @@
     "lon": "40.766"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/oromia/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

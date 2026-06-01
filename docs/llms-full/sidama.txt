@@ -3,7 +3,7 @@
 > 5 zones, 37 woredas
 > Code: ET16
 > Coordinates: 6.664, 38.546
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Zones
 

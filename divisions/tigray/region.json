@@ -26,5 +26,9 @@
     "lon": "38.904"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/tigray/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

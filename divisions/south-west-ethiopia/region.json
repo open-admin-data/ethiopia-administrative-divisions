@@ -26,5 +26,9 @@
     "lon": "36.192"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/south-west-ethiopia/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }

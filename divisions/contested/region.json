@@ -26,5 +26,9 @@
     "lon": "37.274"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/et/regions/contested/",
+    "api": "https://openadmindata.org/api/et/"
+  }
 }
